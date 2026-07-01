@@ -1,0 +1,15 @@
+[
+  {
+    "problemId": "2914",
+    "problemTitle": "Find the Safest Path in a Grid",
+    "problemSlug": "find-the-safest-path-in-a-grid",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "97 ms",
+    "memory": "111 MB",
+    "submissionId": "2052562525",
+    "timestamp": "1782922477",
+    "path": "Medium/2914_Find_the_Safest_Path_in_a_Grid.java"
+  }
+]
