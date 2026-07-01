@@ -37,5 +37,18 @@
     "submissionId": "2052572739",
     "timestamp": "1782923024",
     "path": "Medium/0735_Asteroid_Collision.java"
+  },
+  {
+    "problemId": "2292",
+    "problemTitle": "Counting Words With a Given Prefix",
+    "problemSlug": "counting-words-with-a-given-prefix",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "0 ms",
+    "memory": "44.5 MB",
+    "submissionId": "2052578459",
+    "timestamp": "1782923320",
+    "path": "Easy/2292_Counting_Words_With_a_Given_Prefix.java"
   }
 ]
