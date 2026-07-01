@@ -11,5 +11,18 @@
     "submissionId": "2052562525",
     "timestamp": "1782922477",
     "path": "Medium/2914_Find_the_Safest_Path_in_a_Grid.java"
+  },
+  {
+    "problemId": "1944",
+    "problemTitle": "Truncate Sentence",
+    "problemSlug": "truncate-sentence",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "2 ms",
+    "memory": "43.2 MB",
+    "submissionId": "2052569559",
+    "timestamp": "1782922854",
+    "path": "Easy/1944_Truncate_Sentence.java"
   }
 ]
