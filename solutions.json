@@ -24,5 +24,18 @@
     "submissionId": "2052569559",
     "timestamp": "1782922854",
     "path": "Easy/1944_Truncate_Sentence.java"
+  },
+  {
+    "problemId": "735",
+    "problemTitle": "Asteroid Collision",
+    "problemSlug": "asteroid-collision",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "5 ms",
+    "memory": "47.3 MB",
+    "submissionId": "2052572739",
+    "timestamp": "1782923024",
+    "path": "Medium/0735_Asteroid_Collision.java"
   }
 ]
