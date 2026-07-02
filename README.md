@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 4
+Total Solved: 5
 
 ## Easy
 
@@ -11,6 +11,7 @@ Total Solved: 4
 
 - Asteroid Collision ([Java](Medium/0735_Asteroid_Collision.java))
 - Find the Safest Path in a Grid ([Java](Medium/2914_Find_the_Safest_Path_in_a_Grid.java))
+- Find a Safe Walk Through a Grid ([Java](Medium/3558_Find_a_Safe_Walk_Through_a_Grid.java))
 
 ## Hard
 
@@ -21,7 +22,7 @@ Total Solved: 4
 | Difficulty | Count |
 |------------|--------|
 | Easy | 2 |
-| Medium | 2 |
+| Medium | 3 |
 | Hard | 0 |
 
 ---
