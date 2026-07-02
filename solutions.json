@@ -50,5 +50,18 @@
     "submissionId": "2052578459",
     "timestamp": "1782923320",
     "path": "Easy/2292_Counting_Words_With_a_Given_Prefix.java"
+  },
+  {
+    "problemId": "3558",
+    "problemTitle": "Find a Safe Walk Through a Grid",
+    "problemSlug": "find-a-safe-walk-through-a-grid",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "11 ms",
+    "memory": "46.9 MB",
+    "submissionId": "2053085622",
+    "timestamp": "1782971351",
+    "path": "Medium/3558_Find_a_Safe_Walk_Through_a_Grid.java"
   }
 ]
