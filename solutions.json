@@ -63,5 +63,18 @@
     "submissionId": "2053085622",
     "timestamp": "1782971351",
     "path": "Medium/3558_Find_a_Safe_Walk_Through_a_Grid.java"
+  },
+  {
+    "problemId": "782",
+    "problemTitle": "Jewels and Stones",
+    "problemSlug": "jewels-and-stones",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "0 ms",
+    "memory": "42.9 MB",
+    "submissionId": "2053878966",
+    "timestamp": "1783015881",
+    "path": "Easy/0782_Jewels_and_Stones.java"
   }
 ]
