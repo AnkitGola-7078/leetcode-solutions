@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 7
+Total Solved: 8
 
 ## Easy
 
@@ -12,6 +12,7 @@ Total Solved: 7
 ## Medium
 
 - Asteroid Collision ([Java](Medium/0735_Asteroid_Collision.java))
+- Append Characters to String to Make Subsequence ([Java](Medium/2572_Append_Characters_to_String_to_Make_Subsequence.java))
 - Find the Safest Path in a Grid ([Java](Medium/2914_Find_the_Safest_Path_in_a_Grid.java))
 - Find a Safe Walk Through a Grid ([Java](Medium/3558_Find_a_Safe_Walk_Through_a_Grid.java))
 
@@ -24,7 +25,7 @@ Total Solved: 7
 | Difficulty | Count |
 |------------|--------|
 | Easy | 4 |
-| Medium | 3 |
+| Medium | 4 |
 | Hard | 0 |
 
 ---
