@@ -89,5 +89,18 @@
     "submissionId": "2055922252",
     "timestamp": "1783178410",
     "path": "Easy/1510_Find_Lucky_Integer_in_an_Array.java"
+  },
+  {
+    "problemId": "2572",
+    "problemTitle": "Append Characters to String to Make Subsequence",
+    "problemSlug": "append-characters-to-string-to-make-subsequence",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "7 ms",
+    "memory": "47 MB",
+    "submissionId": "2056001231",
+    "timestamp": "1783181337",
+    "path": "Medium/2572_Append_Characters_to_String_to_Make_Subsequence.java"
   }
 ]
