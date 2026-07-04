@@ -1,10 +1,11 @@
 # LeetCode Solutions
 
-Total Solved: 9
+Total Solved: 10
 
 ## Easy
 
 - Two Sum ([Java](Easy/0001_Two_Sum.java))
+- Best Time to Buy and Sell Stock ([Java](Easy/0121_Best_Time_to_Buy_and_Sell_Stock.java))
 - Jewels and Stones ([Java](Easy/0782_Jewels_and_Stones.java))
 - Find Lucky Integer in an Array ([Java](Easy/1510_Find_Lucky_Integer_in_an_Array.java))
 - Truncate Sentence ([Java](Easy/1944_Truncate_Sentence.java))
@@ -25,7 +26,7 @@ Total Solved: 9
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 5 |
+| Easy | 6 |
 | Medium | 4 |
 | Hard | 0 |
 
