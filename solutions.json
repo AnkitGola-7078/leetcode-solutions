@@ -76,5 +76,18 @@
     "submissionId": "2053878966",
     "timestamp": "1783015881",
     "path": "Easy/0782_Jewels_and_Stones.java"
+  },
+  {
+    "problemId": "1510",
+    "problemTitle": "Find Lucky Integer in an Array",
+    "problemSlug": "find-lucky-integer-in-an-array",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "5 ms",
+    "memory": "45.1 MB",
+    "submissionId": "2055888526",
+    "timestamp": "1783177490",
+    "path": "Easy/1510_Find_Lucky_Integer_in_an_Array.java"
   }
 ]
