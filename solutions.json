@@ -102,5 +102,18 @@
     "submissionId": "2056002768",
     "timestamp": "1783181453",
     "path": "Medium/2572_Append_Characters_to_String_to_Make_Subsequence.java"
+  },
+  {
+    "problemId": "1",
+    "problemTitle": "Two Sum",
+    "problemSlug": "two-sum",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "2 ms",
+    "memory": "47.5 MB",
+    "submissionId": "2056023064",
+    "timestamp": "1783182605",
+    "path": "Easy/0001_Two_Sum.java"
   }
 ]
