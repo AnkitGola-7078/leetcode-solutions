@@ -1,10 +1,11 @@
 # LeetCode Solutions
 
-Total Solved: 6
+Total Solved: 7
 
 ## Easy
 
 - Jewels and Stones ([Java](Easy/0782_Jewels_and_Stones.java))
+- Find Lucky Integer in an Array ([Java](Easy/1510_Find_Lucky_Integer_in_an_Array.java))
 - Truncate Sentence ([Java](Easy/1944_Truncate_Sentence.java))
 - Counting Words With a Given Prefix ([Java](Easy/2292_Counting_Words_With_a_Given_Prefix.java))
 
@@ -22,7 +23,7 @@ Total Solved: 6
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 3 |
+| Easy | 4 |
 | Medium | 3 |
 | Hard | 0 |
 
