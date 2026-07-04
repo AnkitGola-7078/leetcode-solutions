@@ -128,5 +128,18 @@
     "submissionId": "2056030755",
     "timestamp": "1783183030",
     "path": "Easy/0121_Best_Time_to_Buy_and_Sell_Stock.java"
+  },
+  {
+    "problemId": "198",
+    "problemTitle": "House Robber",
+    "problemSlug": "house-robber",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "0 ms",
+    "memory": "42.6 MB",
+    "submissionId": "2056050353",
+    "timestamp": "1783184113",
+    "path": "Medium/0198_House_Robber.java"
   }
 ]
