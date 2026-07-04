@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 13
+Total Solved: 14
 
 ## Easy
 
@@ -14,6 +14,7 @@ Total Solved: 13
 ## Medium
 
 - Unique Paths ([Java](Medium/0062_Unique_Paths.java))
+- Unique Paths II ([Java](Medium/0063_Unique_Paths_II.java))
 - House Robber ([Java](Medium/0198_House_Robber.java))
 - House Robber II ([Java](Medium/0213_House_Robber_II.java))
 - Asteroid Collision ([Java](Medium/0735_Asteroid_Collision.java))
@@ -30,7 +31,7 @@ Total Solved: 13
 | Difficulty | Count |
 |------------|--------|
 | Easy | 6 |
-| Medium | 7 |
+| Medium | 8 |
 | Hard | 0 |
 
 ---
