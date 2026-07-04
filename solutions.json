@@ -97,10 +97,10 @@
     "difficulty": "Medium",
     "language": "Java",
     "extension": "java",
-    "runtime": "7 ms",
+    "runtime": "6 ms",
     "memory": "47.1 MB",
-    "submissionId": "2056001657",
-    "timestamp": "1783181372",
+    "submissionId": "2056002768",
+    "timestamp": "1783181453",
     "path": "Medium/2572_Append_Characters_to_String_to_Make_Subsequence.java"
   }
 ]
