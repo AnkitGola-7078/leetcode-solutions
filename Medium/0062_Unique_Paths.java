@@ -4,7 +4,7 @@
  * Difficulty: Medium
  * Language: Java
  * Runtime: 0 ms
- * Memory: 41.9 MB
+ * Memory: 41.8 MB
  * Synced From: LeetCode
  * Date: 2026-07-04
  */
@@ -25,10 +25,10 @@
 
 
 //recursive+dp
+
 class Solution {
     static int f(int m,int n,int r,int d,int dp[][]){
-        if(r==m ||d==n)return 0;
-        if(r==m-1 && d==n-1)return 1;
+        //if(r==m ||d==n)return 0;
         if(dp[r][d]!=-1) return dp[r][d];
         int right=f(m,n,r+1,d,dp);
         int down=f(m,n,r,d+1,dp);
@@ -55,3 +55,31 @@ class Solution {
         return f(m,n,0,0,dp);
     }
 }
+
+// //bottom up
+// class Solution {
+//     public int uniquePaths(int m, int n) {
+//         int dp[][]=new int[m][n];
+
+//         for(int i=0;i<m;i++){
+//             for(int j=0;j<n;j++){
+//                 dp[i][j]=-1;
+//             }
+//         }
+
+//         for(int i=0;i<n;i++){
+//             dp[m-1][i]=1;
+//         }
+
+//         for(int i=0;i<m;i++){
+//             dp[i][n-1]=1;
+//         }
+
+//         for(int i=0;i<m;i++){
+//             for(int j=0;j<n;j++){
+                
+//             }
+//         }
+//     }
+// }
+
