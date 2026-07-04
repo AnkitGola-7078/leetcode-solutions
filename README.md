@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 11
+Total Solved: 12
 
 ## Easy
 
@@ -14,6 +14,7 @@ Total Solved: 11
 ## Medium
 
 - House Robber ([Java](Medium/0198_House_Robber.java))
+- House Robber II ([Java](Medium/0213_House_Robber_II.java))
 - Asteroid Collision ([Java](Medium/0735_Asteroid_Collision.java))
 - Append Characters to String to Make Subsequence ([Java](Medium/2572_Append_Characters_to_String_to_Make_Subsequence.java))
 - Find the Safest Path in a Grid ([Java](Medium/2914_Find_the_Safest_Path_in_a_Grid.java))
@@ -28,7 +29,7 @@ Total Solved: 11
 | Difficulty | Count |
 |------------|--------|
 | Easy | 6 |
-| Medium | 5 |
+| Medium | 6 |
 | Hard | 0 |
 
 ---
