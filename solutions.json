@@ -115,5 +115,18 @@
     "submissionId": "2056023064",
     "timestamp": "1783182605",
     "path": "Easy/0001_Two_Sum.java"
+  },
+  {
+    "problemId": "121",
+    "problemTitle": "Best Time to Buy and Sell Stock",
+    "problemSlug": "best-time-to-buy-and-sell-stock",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "1 ms",
+    "memory": "94.2 MB",
+    "submissionId": "2056030755",
+    "timestamp": "1783183030",
+    "path": "Easy/0121_Best_Time_to_Buy_and_Sell_Stock.java"
   }
 ]
