@@ -1,9 +1,10 @@
 # LeetCode Solutions
 
-Total Solved: 8
+Total Solved: 9
 
 ## Easy
 
+- Two Sum ([Java](Easy/0001_Two_Sum.java))
 - Jewels and Stones ([Java](Easy/0782_Jewels_and_Stones.java))
 - Find Lucky Integer in an Array ([Java](Easy/1510_Find_Lucky_Integer_in_an_Array.java))
 - Truncate Sentence ([Java](Easy/1944_Truncate_Sentence.java))
@@ -24,7 +25,7 @@ Total Solved: 8
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 4 |
+| Easy | 5 |
 | Medium | 4 |
 | Hard | 0 |
 
