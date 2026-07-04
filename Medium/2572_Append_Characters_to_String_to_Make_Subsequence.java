@@ -3,7 +3,7 @@
  * Problem ID: 2572
  * Difficulty: Medium
  * Language: Java
- * Runtime: 7 ms
+ * Runtime: 6 ms
  * Memory: 47.1 MB
  * Synced From: LeetCode
  * Date: 2026-07-04
