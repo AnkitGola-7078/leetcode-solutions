@@ -141,5 +141,18 @@
     "submissionId": "2056058142",
     "timestamp": "1783184534",
     "path": "Medium/0198_House_Robber.java"
+  },
+  {
+    "problemId": "213",
+    "problemTitle": "House Robber II",
+    "problemSlug": "house-robber-ii",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "0 ms",
+    "memory": "42.6 MB",
+    "submissionId": "2056067857",
+    "timestamp": "1783185060",
+    "path": "Medium/0213_House_Robber_II.java"
   }
 ]
