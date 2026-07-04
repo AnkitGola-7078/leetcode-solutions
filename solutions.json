@@ -167,5 +167,18 @@
     "submissionId": "2056141287",
     "timestamp": "1783188931",
     "path": "Medium/0062_Unique_Paths.java"
+  },
+  {
+    "problemId": "63",
+    "problemTitle": "Unique Paths II",
+    "problemSlug": "unique-paths-ii",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "0 ms",
+    "memory": "43 MB",
+    "submissionId": "2056154384",
+    "timestamp": "1783189622",
+    "path": "Medium/0063_Unique_Paths_II.java"
   }
 ]
