@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 15
+Total Solved: 16
 
 ## Easy
 
@@ -10,6 +10,7 @@ Total Solved: 15
 - Maximum Number of Balloons ([Java](Easy/1297_Maximum_Number_of_Balloons.java))
 - Find Lucky Integer in an Array ([Java](Easy/1510_Find_Lucky_Integer_in_an_Array.java))
 - Truncate Sentence ([Java](Easy/1944_Truncate_Sentence.java))
+- Maximum Product Difference Between Two Pairs ([Java](Easy/2042_Maximum_Product_Difference_Between_Two_Pairs.java))
 - Counting Words With a Given Prefix ([Java](Easy/2292_Counting_Words_With_a_Given_Prefix.java))
 
 ## Medium
@@ -31,7 +32,7 @@ Total Solved: 15
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 7 |
+| Easy | 8 |
 | Medium | 8 |
 | Hard | 0 |
 
