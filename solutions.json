@@ -193,5 +193,18 @@
     "submissionId": "2057111650",
     "timestamp": "1783268560",
     "path": "Easy/1297_Maximum_Number_of_Balloons.java"
+  },
+  {
+    "problemId": "2042",
+    "problemTitle": "Maximum Product Difference Between Two Pairs",
+    "problemSlug": "maximum-product-difference-between-two-pairs",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "10 ms",
+    "memory": "47.8 MB",
+    "submissionId": "2057124226",
+    "timestamp": "1783269265",
+    "path": "Easy/2042_Maximum_Product_Difference_Between_Two_Pairs.java"
   }
 ]
