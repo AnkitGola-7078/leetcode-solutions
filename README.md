@@ -1,12 +1,13 @@
 # LeetCode Solutions
 
-Total Solved: 14
+Total Solved: 15
 
 ## Easy
 
 - Two Sum ([Java](Easy/0001_Two_Sum.java))
 - Best Time to Buy and Sell Stock ([Java](Easy/0121_Best_Time_to_Buy_and_Sell_Stock.java))
 - Jewels and Stones ([Java](Easy/0782_Jewels_and_Stones.java))
+- Maximum Number of Balloons ([Java](Easy/1297_Maximum_Number_of_Balloons.java))
 - Find Lucky Integer in an Array ([Java](Easy/1510_Find_Lucky_Integer_in_an_Array.java))
 - Truncate Sentence ([Java](Easy/1944_Truncate_Sentence.java))
 - Counting Words With a Given Prefix ([Java](Easy/2292_Counting_Words_With_a_Given_Prefix.java))
@@ -30,7 +31,7 @@ Total Solved: 14
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 6 |
+| Easy | 7 |
 | Medium | 8 |
 | Hard | 0 |
 
