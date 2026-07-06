@@ -219,5 +219,18 @@
     "submissionId": "2057732064",
     "timestamp": "1783323478",
     "path": "Medium/0179_Largest_Number.java"
+  },
+  {
+    "problemId": "1222",
+    "problemTitle": "Remove Covered Intervals",
+    "problemSlug": "remove-covered-intervals",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "6 ms",
+    "memory": "46.6 MB",
+    "submissionId": "2058425322",
+    "timestamp": "1783361605",
+    "path": "Medium/1222_Remove_Covered_Intervals.java"
   }
 ]
