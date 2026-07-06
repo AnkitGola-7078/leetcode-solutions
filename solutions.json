@@ -206,5 +206,18 @@
     "submissionId": "2057124226",
     "timestamp": "1783269265",
     "path": "Easy/2042_Maximum_Product_Difference_Between_Two_Pairs.java"
+  },
+  {
+    "problemId": "179",
+    "problemTitle": "Largest Number",
+    "problemSlug": "largest-number",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "6 ms",
+    "memory": "45.2 MB",
+    "submissionId": "2057732064",
+    "timestamp": "1783323478",
+    "path": "Medium/0179_Largest_Number.java"
   }
 ]
