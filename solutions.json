@@ -271,5 +271,18 @@
     "submissionId": "2058966534",
     "timestamp": "1783409778",
     "path": "Easy/0175_Combine_Two_Tables.sql"
+  },
+  {
+    "problemId": "181",
+    "problemTitle": "Employees Earning More Than Their Managers",
+    "problemSlug": "employees-earning-more-than-their-managers",
+    "difficulty": "Easy",
+    "language": "MySQL",
+    "extension": "sql",
+    "runtime": "443 ms",
+    "memory": "0B",
+    "submissionId": "2058973507",
+    "timestamp": "1783410198",
+    "path": "Easy/0181_Employees_Earning_More_Than_Their_Managers.sql"
   }
 ]
