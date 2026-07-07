@@ -258,5 +258,18 @@
     "submissionId": "2058959632",
     "timestamp": "1783409357",
     "path": "Easy/0119_Pascals_Triangle_II.java"
+  },
+  {
+    "problemId": "175",
+    "problemTitle": "Combine Two Tables",
+    "problemSlug": "combine-two-tables",
+    "difficulty": "Easy",
+    "language": "MySQL",
+    "extension": "sql",
+    "runtime": "402 ms",
+    "memory": "0B",
+    "submissionId": "2058966534",
+    "timestamp": "1783409778",
+    "path": "Easy/0175_Combine_Two_Tables.sql"
   }
 ]
