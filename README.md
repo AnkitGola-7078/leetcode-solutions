@@ -1,10 +1,11 @@
 # LeetCode Solutions
 
-Total Solved: 19
+Total Solved: 20
 
 ## Easy
 
 - Two Sum ([Java](Easy/0001_Two_Sum.java))
+- Pascal's Triangle II ([Java](Easy/0119_Pascals_Triangle_II.java))
 - Best Time to Buy and Sell Stock ([Java](Easy/0121_Best_Time_to_Buy_and_Sell_Stock.java))
 - Jewels and Stones ([Java](Easy/0782_Jewels_and_Stones.java))
 - Maximum Number of Balloons ([Java](Easy/1297_Maximum_Number_of_Balloons.java))
@@ -35,7 +36,7 @@ Total Solved: 19
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 9 |
+| Easy | 10 |
 | Medium | 10 |
 | Hard | 0 |
 
