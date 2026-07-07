@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 22
+Total Solved: 23
 
 ## Easy
 
@@ -25,6 +25,7 @@ Total Solved: 22
 - House Robber ([Java](Medium/0198_House_Robber.java))
 - House Robber II ([Java](Medium/0213_House_Robber_II.java))
 - Asteroid Collision ([Java](Medium/0735_Asteroid_Collision.java))
+- K Closest Points to Origin ([Java](Medium/1014_K_Closest_Points_to_Origin.java))
 - Remove Covered Intervals ([Java](Medium/1222_Remove_Covered_Intervals.java))
 - Append Characters to String to Make Subsequence ([Java](Medium/2572_Append_Characters_to_String_to_Make_Subsequence.java))
 - Find the Safest Path in a Grid ([Java](Medium/2914_Find_the_Safest_Path_in_a_Grid.java))
@@ -39,7 +40,7 @@ Total Solved: 22
 | Difficulty | Count |
 |------------|--------|
 | Easy | 12 |
-| Medium | 10 |
+| Medium | 11 |
 | Hard | 0 |
 
 ---
