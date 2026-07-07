@@ -232,5 +232,18 @@
     "submissionId": "2058425322",
     "timestamp": "1783361605",
     "path": "Medium/1222_Remove_Covered_Intervals.java"
+  },
+  {
+    "problemId": "4135",
+    "problemTitle": "Concatenate Non-Zero Digits and Multiply by Sum I",
+    "problemSlug": "concatenate-non-zero-digits-and-multiply-by-sum-i",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "1 ms",
+    "memory": "42.9 MB",
+    "submissionId": "2058951566",
+    "timestamp": "1783408901",
+    "path": "Easy/4135_Concatenate_Non-Zero_Digits_and_Multiply_by_Sum_I.java"
   }
 ]
