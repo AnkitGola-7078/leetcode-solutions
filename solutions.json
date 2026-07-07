@@ -245,5 +245,18 @@
     "submissionId": "2058951566",
     "timestamp": "1783408901",
     "path": "Easy/4135_Concatenate_Non-Zero_Digits_and_Multiply_by_Sum_I.java"
+  },
+  {
+    "problemId": "119",
+    "problemTitle": "Pascal's Triangle II",
+    "problemSlug": "pascals-triangle-ii",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "1 ms",
+    "memory": "42.7 MB",
+    "submissionId": "2058959632",
+    "timestamp": "1783409357",
+    "path": "Easy/0119_Pascals_Triangle_II.java"
   }
 ]
