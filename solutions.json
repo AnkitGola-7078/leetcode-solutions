@@ -284,5 +284,18 @@
     "submissionId": "2058973507",
     "timestamp": "1783410198",
     "path": "Easy/0181_Employees_Earning_More_Than_Their_Managers.sql"
+  },
+  {
+    "problemId": "1014",
+    "problemTitle": "K Closest Points to Origin",
+    "problemSlug": "k-closest-points-to-origin",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "21 ms",
+    "memory": "60.7 MB",
+    "submissionId": "2058994427",
+    "timestamp": "1783411507",
+    "path": "Medium/1014_K_Closest_Points_to_Origin.java"
   }
 ]
