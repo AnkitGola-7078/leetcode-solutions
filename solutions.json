@@ -325,6 +325,19 @@
     "path": "Medium/0150_Evaluate_Reverse_Polish_Notation.java"
   },
   {
+    "problemId": "22",
+    "problemTitle": "Generate Parentheses",
+    "problemSlug": "generate-parentheses",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "3 ms",
+    "memory": "45.2 MB",
+    "submissionId": "2060182175",
+    "timestamp": "1783495419",
+    "path": "Medium/0022_Generate_Parentheses.java"
+  },
+  {
     "problemId": "175",
     "problemTitle": "Combine Two Tables",
     "problemSlug": "combine-two-tables",
@@ -351,16 +364,16 @@
     "path": "Easy/0181_Employees_Earning_More_Than_Their_Managers.sql"
   },
   {
-    "problemId": "22",
-    "problemTitle": "Generate Parentheses",
-    "problemSlug": "generate-parentheses",
+    "problemId": "739",
+    "problemTitle": "Daily Temperatures",
+    "problemSlug": "daily-temperatures",
     "difficulty": "Medium",
     "language": "Java",
     "extension": "java",
-    "runtime": "3 ms",
-    "memory": "45.2 MB",
-    "submissionId": "2060182175",
-    "timestamp": "1783495419",
-    "path": "Medium/0022_Generate_Parentheses.java"
+    "runtime": "74 ms",
+    "memory": "62.7 MB",
+    "submissionId": "1586777098",
+    "timestamp": "1742985184",
+    "path": "Medium/0739_Daily_Temperatures.java"
   }
 ]
