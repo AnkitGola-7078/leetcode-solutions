@@ -318,10 +318,10 @@
     "difficulty": "Easy",
     "language": "Java",
     "extension": "java",
-    "runtime": "4 ms",
-    "memory": "41.6 MB",
-    "submissionId": "1584180455",
-    "timestamp": "1742807601",
+    "runtime": "6 ms",
+    "memory": "43.5 MB",
+    "submissionId": "2060056019",
+    "timestamp": "1783489240",
     "path": "Easy/0020_Valid_Parentheses.java"
   }
 ]
