@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 25
+Total Solved: 26
 
 ## Easy
 
@@ -22,6 +22,7 @@ Total Solved: 25
 
 - Unique Paths ([Java](Medium/0062_Unique_Paths.java))
 - Unique Paths II ([Java](Medium/0063_Unique_Paths_II.java))
+- Min Stack ([Java](Medium/0155_Min_Stack.java))
 - Largest Number ([Java](Medium/0179_Largest_Number.java))
 - House Robber ([Java](Medium/0198_House_Robber.java))
 - House Robber II ([Java](Medium/0213_House_Robber_II.java))
@@ -42,7 +43,7 @@ Total Solved: 25
 | Difficulty | Count |
 |------------|--------|
 | Easy | 13 |
-| Medium | 12 |
+| Medium | 13 |
 | Hard | 0 |
 
 ---
