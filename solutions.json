@@ -312,6 +312,19 @@
     "path": "Medium/0155_Min_Stack.java"
   },
   {
+    "problemId": "150",
+    "problemTitle": "Evaluate Reverse Polish Notation",
+    "problemSlug": "evaluate-reverse-polish-notation",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "6 ms",
+    "memory": "45.3 MB",
+    "submissionId": "2060156231",
+    "timestamp": "1783494023",
+    "path": "Medium/0150_Evaluate_Reverse_Polish_Notation.java"
+  },
+  {
     "problemId": "175",
     "problemTitle": "Combine Two Tables",
     "problemSlug": "combine-two-tables",
@@ -338,16 +351,16 @@
     "path": "Easy/0181_Employees_Earning_More_Than_Their_Managers.sql"
   },
   {
-    "problemId": "150",
-    "problemTitle": "Evaluate Reverse Polish Notation",
-    "problemSlug": "evaluate-reverse-polish-notation",
+    "problemId": "22",
+    "problemTitle": "Generate Parentheses",
+    "problemSlug": "generate-parentheses",
     "difficulty": "Medium",
     "language": "Java",
     "extension": "java",
-    "runtime": "6 ms",
-    "memory": "45.3 MB",
-    "submissionId": "2060156231",
-    "timestamp": "1783494023",
-    "path": "Medium/0150_Evaluate_Reverse_Polish_Notation.java"
+    "runtime": "2 ms",
+    "memory": "43.4 MB",
+    "submissionId": "1525404689",
+    "timestamp": "1738243692",
+    "path": "Medium/0022_Generate_Parentheses.java"
   }
 ]
