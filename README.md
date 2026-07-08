@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 29
+Total Solved: 30
 
 ## Easy
 
@@ -39,7 +39,7 @@ Total Solved: 29
 
 ## Hard
 
-*No hard problems solved yet.*
+- Largest Rectangle in Histogram ([Java](Hard/0084_Largest_Rectangle_in_Histogram.java))
 
 ## Statistics
 
@@ -47,7 +47,7 @@ Total Solved: 29
 |------------|--------|
 | Easy | 13 |
 | Medium | 16 |
-| Hard | 0 |
+| Hard | 1 |
 
 ---
 *README.md automatically updated by [LeetCelebrate](https://github.com/)*
