@@ -3,32 +3,32 @@
  * Problem ID: 20
  * Difficulty: Easy
  * Language: Java
- * Runtime: 4 ms
- * Memory: 41.6 MB
+ * Runtime: 6 ms
+ * Memory: 43.5 MB
  * Synced From: LeetCode
  * Date: 2026-07-08
  */
 
 class Solution {
     public boolean isValid(String s) {
-        HashMap <Character,Character> hs =new HashMap <>();
-        hs.put(')','(');
-        hs.put('}','{');
-        hs.put(']','[');
-        Stack <Character> st = new Stack <>();
+       HashMap<Character, Character> map =new HashMap<>();
+       map.put(')','(');
+       map.put(']','[');
+       map.put('}','{');
+        Stack<Character> st=new Stack<>();
         for(int i=0;i<s.length();i++){
-            char t=s.charAt(i);
+           if(map.containsValue(s.charAt(i))){
+            st.push(s.charAt(i));
+           }else if(map.containsKey(s.charAt(i))){
+              if(st.isEmpty() || st.pop()!=map.get(s.charAt(i))){
+                    return false;
+              }
+              
+           }
 
-         if(hs.containsValue(t)){
-            st.push(t);
-
-         }
-         else if(hs.containsKey(t)){
-            if(st.isEmpty()||st.pop()!=hs.get(t)){
-                return false;
-            }
-         }
         }
         return st.isEmpty();
+
+        
     }
 }
