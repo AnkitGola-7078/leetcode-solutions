@@ -1,10 +1,11 @@
 # LeetCode Solutions
 
-Total Solved: 24
+Total Solved: 25
 
 ## Easy
 
 - Two Sum ([Java](Easy/0001_Two_Sum.java))
+- Valid Parentheses ([Java](Easy/0020_Valid_Parentheses.java))
 - Pascal's Triangle II ([Java](Easy/0119_Pascals_Triangle_II.java))
 - Best Time to Buy and Sell Stock ([Java](Easy/0121_Best_Time_to_Buy_and_Sell_Stock.java))
 - Combine Two Tables ([MySQL](Easy/0175_Combine_Two_Tables.sql))
@@ -40,7 +41,7 @@ Total Solved: 24
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 12 |
+| Easy | 13 |
 | Medium | 12 |
 | Hard | 0 |
 
