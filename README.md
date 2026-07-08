@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 30
+Total Solved: 31
 
 ## Easy
 
@@ -25,6 +25,7 @@ Total Solved: 30
 - Unique Paths II ([Java](Medium/0063_Unique_Paths_II.java))
 - Evaluate Reverse Polish Notation ([Java](Medium/0150_Evaluate_Reverse_Polish_Notation.java))
 - Min Stack ([Java](Medium/0155_Min_Stack.java))
+- Find Peak Element ([Java](Medium/0162_Find_Peak_Element.java))
 - Largest Number ([Java](Medium/0179_Largest_Number.java))
 - House Robber ([Java](Medium/0198_House_Robber.java))
 - House Robber II ([Java](Medium/0213_House_Robber_II.java))
@@ -46,7 +47,7 @@ Total Solved: 30
 | Difficulty | Count |
 |------------|--------|
 | Easy | 13 |
-| Medium | 16 |
+| Medium | 17 |
 | Hard | 1 |
 
 ---
