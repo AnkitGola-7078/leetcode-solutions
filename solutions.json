@@ -357,10 +357,10 @@
     "difficulty": "Medium",
     "language": "Java",
     "extension": "java",
-    "runtime": "2 ms",
-    "memory": "43.4 MB",
-    "submissionId": "1525404689",
-    "timestamp": "1738243692",
+    "runtime": "3 ms",
+    "memory": "44.9 MB",
+    "submissionId": "2060169176",
+    "timestamp": "1783494701",
     "path": "Medium/0022_Generate_Parentheses.java"
   }
 ]
