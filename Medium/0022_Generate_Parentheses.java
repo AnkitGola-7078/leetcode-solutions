@@ -3,14 +3,14 @@
  * Problem ID: 22
  * Difficulty: Medium
  * Language: Java
- * Runtime: 3 ms
- * Memory: 44.9 MB
+ * Runtime: 11 ms
+ * Memory: 52.5 MB
  * Synced From: LeetCode
  * Date: 2026-07-08
  */
 
 class Solution {
-    static void f(int n,int ob,int cb,String ans,List<String> l){
+    static void f(int n,int ob,int cb,String ans,List<String> l,Map<String,Boolean> dp){
         if(ob>n/2 || cb>ob){
             return;
         }
@@ -18,13 +18,18 @@ class Solution {
             l.add(ans);
             return;
         }
+
+        String key = ob + "," + cb + "," + ans;
+        if (dp.containsKey(key)) return;  
+        dp.put(key, true);
                
-        f(n,ob+1,cb,ans+"(",l);
-        f(n,ob,cb+1,ans+")",l);
+        f(n,ob+1,cb,ans+"(",l,dp);
+        f(n,ob,cb+1,ans+")",l,dp);
     }
     public List<String> generateParenthesis(int n) {
         List<String> l=new ArrayList<>();
-        f(n*2,0,0,"",l);
+        Map<String,Boolean> dp=new HashMap<>();
+        f(n*2,0,0,"",l,dp);
         return l;
     }
 }
