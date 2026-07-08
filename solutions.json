@@ -260,6 +260,19 @@
     "path": "Easy/0119_Pascals_Triangle_II.java"
   },
   {
+    "problemId": "1014",
+    "problemTitle": "K Closest Points to Origin",
+    "problemSlug": "k-closest-points-to-origin",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "21 ms",
+    "memory": "60.7 MB",
+    "submissionId": "2058994427",
+    "timestamp": "1783411507",
+    "path": "Medium/1014_K_Closest_Points_to_Origin.java"
+  },
+  {
     "problemId": "175",
     "problemTitle": "Combine Two Tables",
     "problemSlug": "combine-two-tables",
@@ -286,16 +299,16 @@
     "path": "Easy/0181_Employees_Earning_More_Than_Their_Managers.sql"
   },
   {
-    "problemId": "1014",
-    "problemTitle": "K Closest Points to Origin",
-    "problemSlug": "k-closest-points-to-origin",
+    "problemId": "4136",
+    "problemTitle": "Concatenate Non-Zero Digits and Multiply by Sum II",
+    "problemSlug": "concatenate-non-zero-digits-and-multiply-by-sum-ii",
     "difficulty": "Medium",
     "language": "Java",
     "extension": "java",
-    "runtime": "21 ms",
-    "memory": "60.7 MB",
-    "submissionId": "2058994427",
-    "timestamp": "1783411507",
-    "path": "Medium/1014_K_Closest_Points_to_Origin.java"
+    "runtime": "20 ms",
+    "memory": "130.4 MB",
+    "submissionId": "2060016824",
+    "timestamp": "1783487237",
+    "path": "Medium/4136_Concatenate_Non-Zero_Digits_and_Multiply_by_Sum_II.java"
   }
 ]
