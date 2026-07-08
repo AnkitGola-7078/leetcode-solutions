@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 27
+Total Solved: 28
 
 ## Easy
 
@@ -20,6 +20,7 @@ Total Solved: 27
 
 ## Medium
 
+- Generate Parentheses ([Java](Medium/0022_Generate_Parentheses.java))
 - Unique Paths ([Java](Medium/0062_Unique_Paths.java))
 - Unique Paths II ([Java](Medium/0063_Unique_Paths_II.java))
 - Evaluate Reverse Polish Notation ([Java](Medium/0150_Evaluate_Reverse_Polish_Notation.java))
@@ -44,7 +45,7 @@ Total Solved: 27
 | Difficulty | Count |
 |------------|--------|
 | Easy | 13 |
-| Medium | 14 |
+| Medium | 15 |
 | Hard | 0 |
 
 ---
