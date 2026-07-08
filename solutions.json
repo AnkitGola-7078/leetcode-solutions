@@ -351,6 +351,19 @@
     "path": "Medium/0739_Daily_Temperatures.java"
   },
   {
+    "problemId": "84",
+    "problemTitle": "Largest Rectangle in Histogram",
+    "problemSlug": "largest-rectangle-in-histogram",
+    "difficulty": "Hard",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "69 ms",
+    "memory": "78.3 MB",
+    "submissionId": "2060219323",
+    "timestamp": "1783497735",
+    "path": "Hard/0084_Largest_Rectangle_in_Histogram.java"
+  },
+  {
     "problemId": "175",
     "problemTitle": "Combine Two Tables",
     "problemSlug": "combine-two-tables",
@@ -377,16 +390,16 @@
     "path": "Easy/0181_Employees_Earning_More_Than_Their_Managers.sql"
   },
   {
-    "problemId": "84",
-    "problemTitle": "Largest Rectangle in Histogram",
-    "problemSlug": "largest-rectangle-in-histogram",
-    "difficulty": "Hard",
+    "problemId": "162",
+    "problemTitle": "Find Peak Element",
+    "problemSlug": "find-peak-element",
+    "difficulty": "Medium",
     "language": "Java",
     "extension": "java",
-    "runtime": "69 ms",
-    "memory": "78.3 MB",
-    "submissionId": "2060219323",
-    "timestamp": "1783497735",
-    "path": "Hard/0084_Largest_Rectangle_in_Histogram.java"
+    "runtime": "0 ms",
+    "memory": "44 MB",
+    "submissionId": "2060230833",
+    "timestamp": "1783498447",
+    "path": "Medium/0162_Find_Peak_Element.java"
   }
 ]
