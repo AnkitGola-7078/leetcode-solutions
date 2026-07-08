@@ -286,6 +286,19 @@
     "path": "Medium/4136_Concatenate_Non-Zero_Digits_and_Multiply_by_Sum_II.java"
   },
   {
+    "problemId": "20",
+    "problemTitle": "Valid Parentheses",
+    "problemSlug": "valid-parentheses",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "6 ms",
+    "memory": "43.5 MB",
+    "submissionId": "2060056019",
+    "timestamp": "1783489240",
+    "path": "Easy/0020_Valid_Parentheses.java"
+  },
+  {
     "problemId": "175",
     "problemTitle": "Combine Two Tables",
     "problemSlug": "combine-two-tables",
@@ -312,16 +325,16 @@
     "path": "Easy/0181_Employees_Earning_More_Than_Their_Managers.sql"
   },
   {
-    "problemId": "20",
-    "problemTitle": "Valid Parentheses",
-    "problemSlug": "valid-parentheses",
-    "difficulty": "Easy",
+    "problemId": "155",
+    "problemTitle": "Min Stack",
+    "problemSlug": "min-stack",
+    "difficulty": "Medium",
     "language": "Java",
     "extension": "java",
-    "runtime": "6 ms",
-    "memory": "43.5 MB",
-    "submissionId": "2060056019",
-    "timestamp": "1783489240",
-    "path": "Easy/0020_Valid_Parentheses.java"
+    "runtime": "35 ms",
+    "memory": "99.7 MB",
+    "submissionId": "2060073306",
+    "timestamp": "1783490092",
+    "path": "Medium/0155_Min_Stack.java"
   }
 ]
