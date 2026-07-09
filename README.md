@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 32
+Total Solved: 33
 
 ## Easy
 
@@ -20,6 +20,7 @@ Total Solved: 32
 
 ## Medium
 
+- Container With Most Water ([Java](Medium/0011_Container_With_Most_Water.java))
 - Generate Parentheses ([Java](Medium/0022_Generate_Parentheses.java))
 - Unique Paths ([Java](Medium/0062_Unique_Paths.java))
 - Unique Paths II ([Java](Medium/0063_Unique_Paths_II.java))
@@ -48,7 +49,7 @@ Total Solved: 32
 | Difficulty | Count |
 |------------|--------|
 | Easy | 13 |
-| Medium | 18 |
+| Medium | 19 |
 | Hard | 1 |
 
 ---
