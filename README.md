@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 31
+Total Solved: 32
 
 ## Easy
 
@@ -33,6 +33,7 @@ Total Solved: 31
 - Daily Temperatures ([Java](Medium/0739_Daily_Temperatures.java))
 - K Closest Points to Origin ([Java](Medium/1014_K_Closest_Points_to_Origin.java))
 - Remove Covered Intervals ([Java](Medium/1222_Remove_Covered_Intervals.java))
+- Maximum Points You Can Obtain from Cards ([Java](Medium/1538_Maximum_Points_You_Can_Obtain_from_Cards.java))
 - Append Characters to String to Make Subsequence ([Java](Medium/2572_Append_Characters_to_String_to_Make_Subsequence.java))
 - Find the Safest Path in a Grid ([Java](Medium/2914_Find_the_Safest_Path_in_a_Grid.java))
 - Find a Safe Walk Through a Grid ([Java](Medium/3558_Find_a_Safe_Walk_Through_a_Grid.java))
@@ -47,7 +48,7 @@ Total Solved: 31
 | Difficulty | Count |
 |------------|--------|
 | Easy | 13 |
-| Medium | 17 |
+| Medium | 18 |
 | Hard | 1 |
 
 ---
