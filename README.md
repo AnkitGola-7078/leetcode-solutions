@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 33
+Total Solved: 34
 
 ## Easy
 
@@ -13,6 +13,7 @@ Total Solved: 33
 - Jewels and Stones ([Java](Easy/0782_Jewels_and_Stones.java))
 - Maximum Number of Balloons ([Java](Easy/1297_Maximum_Number_of_Balloons.java))
 - Find Lucky Integer in an Array ([Java](Easy/1510_Find_Lucky_Integer_in_an_Array.java))
+- Minimum Value to Get Positive Step by Step Sum ([Java](Easy/1514_Minimum_Value_to_Get_Positive_Step_by_Step_Sum.java))
 - Truncate Sentence ([Java](Easy/1944_Truncate_Sentence.java))
 - Maximum Product Difference Between Two Pairs ([Java](Easy/2042_Maximum_Product_Difference_Between_Two_Pairs.java))
 - Counting Words With a Given Prefix ([Java](Easy/2292_Counting_Words_With_a_Given_Prefix.java))
@@ -48,7 +49,7 @@ Total Solved: 33
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 13 |
+| Easy | 14 |
 | Medium | 19 |
 | Hard | 1 |
 
