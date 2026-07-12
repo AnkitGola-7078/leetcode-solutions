@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 34
+Total Solved: 35
 
 ## Easy
 
@@ -11,6 +11,7 @@ Total Solved: 34
 - Combine Two Tables ([MySQL](Easy/0175_Combine_Two_Tables.sql))
 - Employees Earning More Than Their Managers ([MySQL](Easy/0181_Employees_Earning_More_Than_Their_Managers.sql))
 - Jewels and Stones ([Java](Easy/0782_Jewels_and_Stones.java))
+- Rank Transform of an Array ([Java](Easy/1256_Rank_Transform_of_an_Array.java))
 - Maximum Number of Balloons ([Java](Easy/1297_Maximum_Number_of_Balloons.java))
 - Find Lucky Integer in an Array ([Java](Easy/1510_Find_Lucky_Integer_in_an_Array.java))
 - Minimum Value to Get Positive Step by Step Sum ([Java](Easy/1514_Minimum_Value_to_Get_Positive_Step_by_Step_Sum.java))
@@ -49,7 +50,7 @@ Total Solved: 34
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 14 |
+| Easy | 15 |
 | Medium | 19 |
 | Hard | 1 |
 
