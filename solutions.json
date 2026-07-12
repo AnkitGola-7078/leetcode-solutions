@@ -403,6 +403,19 @@
     "path": "Medium/0011_Container_With_Most_Water.java"
   },
   {
+    "problemId": "1514",
+    "problemTitle": "Minimum Value to Get Positive Step by Step Sum",
+    "problemSlug": "minimum-value-to-get-positive-step-by-step-sum",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "0 ms",
+    "memory": "42.7 MB",
+    "submissionId": "2064163001",
+    "timestamp": "1783792704",
+    "path": "Easy/1514_Minimum_Value_to_Get_Positive_Step_by_Step_Sum.java"
+  },
+  {
     "problemId": "175",
     "problemTitle": "Combine Two Tables",
     "problemSlug": "combine-two-tables",
@@ -429,16 +442,16 @@
     "path": "Easy/0181_Employees_Earning_More_Than_Their_Managers.sql"
   },
   {
-    "problemId": "1514",
-    "problemTitle": "Minimum Value to Get Positive Step by Step Sum",
-    "problemSlug": "minimum-value-to-get-positive-step-by-step-sum",
+    "problemId": "1256",
+    "problemTitle": "Rank Transform of an Array",
+    "problemSlug": "rank-transform-of-an-array",
     "difficulty": "Easy",
     "language": "Java",
     "extension": "java",
-    "runtime": "0 ms",
-    "memory": "42.7 MB",
-    "submissionId": "2064163001",
-    "timestamp": "1783792704",
-    "path": "Easy/1514_Minimum_Value_to_Get_Positive_Step_by_Step_Sum.java"
+    "runtime": "30 ms",
+    "memory": "76.2 MB",
+    "submissionId": "2065222006",
+    "timestamp": "1783874572",
+    "path": "Easy/1256_Rank_Transform_of_an_Array.java"
   }
 ]
