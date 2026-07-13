@@ -3,28 +3,18 @@
  * Problem ID: 3429
  * Difficulty: Easy
  * Language: Java
- * Runtime: 1 ms
- * Memory: 45.3 MB
+ * Runtime: 0 ms
+ * Memory: 44.8 MB
  * Synced From: LeetCode
  * Date: 2026-07-13
  */
 
 class Solution {
-    static boolean s(int i,int j){
-      if(i%2==0 && j%2!=0){
-        return true;
-      }
-      if(i%2!=0 && j%2==0){
-        return true;
-      }
-      return false;
-    }
     public boolean isArraySpecial(int[] nums) {
-        if(nums.length==1) return true;
-        boolean f=false;
-        for(int i=0;i<nums.length-1;i++){
-
-            if(!s(nums[i],nums[i+1])) return false;
+        for(int i=1;i<nums.length;i++){
+            if((nums[i]+nums[i-1])%2==0){ // e+e=e or o+o=odd 
+                return false;
+            }
         }
         return true;
     }
