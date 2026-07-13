@@ -442,6 +442,19 @@
     "path": "Easy/0657_Robot_Return_to_Origin.java"
   },
   {
+    "problemId": "3429",
+    "problemTitle": "Special Array I",
+    "problemSlug": "special-array-i",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "0 ms",
+    "memory": "44.8 MB",
+    "submissionId": "2065811845",
+    "timestamp": "1783926966",
+    "path": "Easy/3429_Special_Array_I.java"
+  },
+  {
     "problemId": "175",
     "problemTitle": "Combine Two Tables",
     "problemSlug": "combine-two-tables",
@@ -468,16 +481,16 @@
     "path": "Easy/0181_Employees_Earning_More_Than_Their_Managers.sql"
   },
   {
-    "problemId": "3429",
-    "problemTitle": "Special Array I",
-    "problemSlug": "special-array-i",
-    "difficulty": "Easy",
+    "problemId": "3427",
+    "problemTitle": "Special Array II",
+    "problemSlug": "special-array-ii",
+    "difficulty": "Medium",
     "language": "Java",
     "extension": "java",
-    "runtime": "0 ms",
-    "memory": "44.8 MB",
-    "submissionId": "2065811845",
-    "timestamp": "1783926966",
-    "path": "Easy/3429_Special_Array_I.java"
+    "runtime": "2 ms",
+    "memory": "120.7 MB",
+    "submissionId": "2065830311",
+    "timestamp": "1783928118",
+    "path": "Medium/3427_Special_Array_II.java"
   }
 ]
