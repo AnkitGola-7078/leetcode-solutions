@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 37
+Total Solved: 38
 
 ## Easy
 
@@ -41,6 +41,7 @@ Total Solved: 37
 - Maximum Points You Can Obtain from Cards ([Java](Medium/1538_Maximum_Points_You_Can_Obtain_from_Cards.java))
 - Append Characters to String to Make Subsequence ([Java](Medium/2572_Append_Characters_to_String_to_Make_Subsequence.java))
 - Find the Safest Path in a Grid ([Java](Medium/2914_Find_the_Safest_Path_in_a_Grid.java))
+- Special Array II ([Java](Medium/3427_Special_Array_II.java))
 - Find a Safe Walk Through a Grid ([Java](Medium/3558_Find_a_Safe_Walk_Through_a_Grid.java))
 - Concatenate Non-Zero Digits and Multiply by Sum II ([Java](Medium/4136_Concatenate_Non-Zero_Digits_and_Multiply_by_Sum_II.java))
 
@@ -53,7 +54,7 @@ Total Solved: 37
 | Difficulty | Count |
 |------------|--------|
 | Easy | 17 |
-| Medium | 19 |
+| Medium | 20 |
 | Hard | 1 |
 
 ---
