@@ -429,6 +429,19 @@
     "path": "Easy/1256_Rank_Transform_of_an_Array.java"
   },
   {
+    "problemId": "657",
+    "problemTitle": "Robot Return to Origin",
+    "problemSlug": "robot-return-to-origin",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "6 ms",
+    "memory": "45.4 MB",
+    "submissionId": "2065713163",
+    "timestamp": "1783921891",
+    "path": "Easy/0657_Robot_Return_to_Origin.java"
+  },
+  {
     "problemId": "175",
     "problemTitle": "Combine Two Tables",
     "problemSlug": "combine-two-tables",
@@ -455,16 +468,16 @@
     "path": "Easy/0181_Employees_Earning_More_Than_Their_Managers.sql"
   },
   {
-    "problemId": "657",
-    "problemTitle": "Robot Return to Origin",
-    "problemSlug": "robot-return-to-origin",
+    "problemId": "3429",
+    "problemTitle": "Special Array I",
+    "problemSlug": "special-array-i",
     "difficulty": "Easy",
     "language": "Java",
     "extension": "java",
-    "runtime": "6 ms",
-    "memory": "45.4 MB",
-    "submissionId": "2065713163",
-    "timestamp": "1783921891",
-    "path": "Easy/0657_Robot_Return_to_Origin.java"
+    "runtime": "1 ms",
+    "memory": "45.3 MB",
+    "submissionId": "2065805493",
+    "timestamp": "1783926600",
+    "path": "Easy/3429_Special_Array_I.java"
   }
 ]
