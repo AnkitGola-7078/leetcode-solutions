@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 36
+Total Solved: 37
 
 ## Easy
 
@@ -19,6 +19,7 @@ Total Solved: 36
 - Truncate Sentence ([Java](Easy/1944_Truncate_Sentence.java))
 - Maximum Product Difference Between Two Pairs ([Java](Easy/2042_Maximum_Product_Difference_Between_Two_Pairs.java))
 - Counting Words With a Given Prefix ([Java](Easy/2292_Counting_Words_With_a_Given_Prefix.java))
+- Special Array I ([Java](Easy/3429_Special_Array_I.java))
 - Concatenate Non-Zero Digits and Multiply by Sum I ([Java](Easy/4135_Concatenate_Non-Zero_Digits_and_Multiply_by_Sum_I.java))
 
 ## Medium
@@ -51,7 +52,7 @@ Total Solved: 36
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 16 |
+| Easy | 17 |
 | Medium | 19 |
 | Hard | 1 |
 
