@@ -468,6 +468,19 @@
     "path": "Medium/3427_Special_Array_II.java"
   },
   {
+    "problemId": "2881",
+    "problemTitle": "Split Strings by Separator",
+    "problemSlug": "split-strings-by-separator",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "4 ms",
+    "memory": "47.6 MB",
+    "submissionId": "2066482814",
+    "timestamp": "1783964539",
+    "path": "Easy/2881_Split_Strings_by_Separator.java"
+  },
+  {
     "problemId": "175",
     "problemTitle": "Combine Two Tables",
     "problemSlug": "combine-two-tables",
@@ -494,16 +507,16 @@
     "path": "Easy/0181_Employees_Earning_More_Than_Their_Managers.sql"
   },
   {
-    "problemId": "2881",
-    "problemTitle": "Split Strings by Separator",
-    "problemSlug": "split-strings-by-separator",
+    "problemId": "1341",
+    "problemTitle": "Split a String in Balanced Strings",
+    "problemSlug": "split-a-string-in-balanced-strings",
     "difficulty": "Easy",
     "language": "Java",
     "extension": "java",
-    "runtime": "4 ms",
-    "memory": "47.6 MB",
-    "submissionId": "2066482814",
-    "timestamp": "1783964539",
-    "path": "Easy/2881_Split_Strings_by_Separator.java"
+    "runtime": "0 ms",
+    "memory": "42.6 MB",
+    "submissionId": "2066506138",
+    "timestamp": "1783965540",
+    "path": "Easy/1341_Split_a_String_in_Balanced_Strings.java"
   }
 ]
