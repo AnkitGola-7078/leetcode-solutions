@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 35
+Total Solved: 36
 
 ## Easy
 
@@ -10,6 +10,7 @@ Total Solved: 35
 - Best Time to Buy and Sell Stock ([Java](Easy/0121_Best_Time_to_Buy_and_Sell_Stock.java))
 - Combine Two Tables ([MySQL](Easy/0175_Combine_Two_Tables.sql))
 - Employees Earning More Than Their Managers ([MySQL](Easy/0181_Employees_Earning_More_Than_Their_Managers.sql))
+- Robot Return to Origin ([Java](Easy/0657_Robot_Return_to_Origin.java))
 - Jewels and Stones ([Java](Easy/0782_Jewels_and_Stones.java))
 - Rank Transform of an Array ([Java](Easy/1256_Rank_Transform_of_an_Array.java))
 - Maximum Number of Balloons ([Java](Easy/1297_Maximum_Number_of_Balloons.java))
@@ -50,7 +51,7 @@ Total Solved: 35
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 15 |
+| Easy | 16 |
 | Medium | 19 |
 | Hard | 1 |
 
