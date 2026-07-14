@@ -546,6 +546,19 @@
     "path": "Medium/0164_Maximum_Gap.java"
   },
   {
+    "problemId": "1742",
+    "problemTitle": "Widest Vertical Area Between Two Points Containing No Points",
+    "problemSlug": "widest-vertical-area-between-two-points-containing-no-points",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "39 ms",
+    "memory": "89.8 MB",
+    "submissionId": "2066953890",
+    "timestamp": "1784008761",
+    "path": "Easy/1742_Widest_Vertical_Area_Between_Two_Points_Containing_No_Points.java"
+  },
+  {
     "problemId": "175",
     "problemTitle": "Combine Two Tables",
     "problemSlug": "combine-two-tables",
@@ -572,16 +585,16 @@
     "path": "Easy/0181_Employees_Earning_More_Than_Their_Managers.sql"
   },
   {
-    "problemId": "1742",
-    "problemTitle": "Widest Vertical Area Between Two Points Containing No Points",
-    "problemSlug": "widest-vertical-area-between-two-points-containing-no-points",
+    "problemId": "496",
+    "problemTitle": "Next Greater Element I",
+    "problemSlug": "next-greater-element-i",
     "difficulty": "Easy",
     "language": "Java",
     "extension": "java",
-    "runtime": "39 ms",
-    "memory": "89.8 MB",
-    "submissionId": "2066953890",
-    "timestamp": "1784008761",
-    "path": "Easy/1742_Widest_Vertical_Area_Between_Two_Points_Containing_No_Points.java"
+    "runtime": "4 ms",
+    "memory": "45.5 MB",
+    "submissionId": "2067044634",
+    "timestamp": "1784013249",
+    "path": "Easy/0496_Next_Greater_Element_I.java"
   }
 ]
