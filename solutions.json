@@ -507,6 +507,19 @@
     "path": "Easy/2639_Separate_the_Digits_in_an_Array.java"
   },
   {
+    "problemId": "168",
+    "problemTitle": "Excel Sheet Column Title",
+    "problemSlug": "excel-sheet-column-title",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "0 ms",
+    "memory": "42.7 MB",
+    "submissionId": "2066904702",
+    "timestamp": "1784006308",
+    "path": "Easy/0168_Excel_Sheet_Column_Title.java"
+  },
+  {
     "problemId": "175",
     "problemTitle": "Combine Two Tables",
     "problemSlug": "combine-two-tables",
@@ -533,16 +546,16 @@
     "path": "Easy/0181_Employees_Earning_More_Than_Their_Managers.sql"
   },
   {
-    "problemId": "168",
-    "problemTitle": "Excel Sheet Column Title",
-    "problemSlug": "excel-sheet-column-title",
+    "problemId": "171",
+    "problemTitle": "Excel Sheet Column Number",
+    "problemSlug": "excel-sheet-column-number",
     "difficulty": "Easy",
     "language": "Java",
     "extension": "java",
-    "runtime": "0 ms",
-    "memory": "42.7 MB",
-    "submissionId": "2066904702",
-    "timestamp": "1784006308",
-    "path": "Easy/0168_Excel_Sheet_Column_Title.java"
+    "runtime": "1 ms",
+    "memory": "43.7 MB",
+    "submissionId": "2066911594",
+    "timestamp": "1784006654",
+    "path": "Easy/0171_Excel_Sheet_Column_Number.java"
   }
 ]
