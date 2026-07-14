@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 43
+Total Solved: 44
 
 ## Easy
 
@@ -36,6 +36,7 @@ Total Solved: 43
 - Evaluate Reverse Polish Notation ([Java](Medium/0150_Evaluate_Reverse_Polish_Notation.java))
 - Min Stack ([Java](Medium/0155_Min_Stack.java))
 - Find Peak Element ([Java](Medium/0162_Find_Peak_Element.java))
+- Maximum Gap ([Java](Medium/0164_Maximum_Gap.java))
 - Largest Number ([Java](Medium/0179_Largest_Number.java))
 - House Robber ([Java](Medium/0198_House_Robber.java))
 - House Robber II ([Java](Medium/0213_House_Robber_II.java))
@@ -59,7 +60,7 @@ Total Solved: 43
 | Difficulty | Count |
 |------------|--------|
 | Easy | 22 |
-| Medium | 20 |
+| Medium | 21 |
 | Hard | 1 |
 
 ---
