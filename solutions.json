@@ -520,6 +520,19 @@
     "path": "Easy/0168_Excel_Sheet_Column_Title.java"
   },
   {
+    "problemId": "171",
+    "problemTitle": "Excel Sheet Column Number",
+    "problemSlug": "excel-sheet-column-number",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "1 ms",
+    "memory": "43.7 MB",
+    "submissionId": "2066911594",
+    "timestamp": "1784006654",
+    "path": "Easy/0171_Excel_Sheet_Column_Number.java"
+  },
+  {
     "problemId": "175",
     "problemTitle": "Combine Two Tables",
     "problemSlug": "combine-two-tables",
@@ -546,16 +559,16 @@
     "path": "Easy/0181_Employees_Earning_More_Than_Their_Managers.sql"
   },
   {
-    "problemId": "171",
-    "problemTitle": "Excel Sheet Column Number",
-    "problemSlug": "excel-sheet-column-number",
-    "difficulty": "Easy",
+    "problemId": "164",
+    "problemTitle": "Maximum Gap",
+    "problemSlug": "maximum-gap",
+    "difficulty": "Medium",
     "language": "Java",
     "extension": "java",
-    "runtime": "1 ms",
-    "memory": "43.7 MB",
-    "submissionId": "2066911594",
-    "timestamp": "1784006654",
-    "path": "Easy/0171_Excel_Sheet_Column_Number.java"
+    "runtime": "46 ms",
+    "memory": "90.9 MB",
+    "submissionId": "2066929574",
+    "timestamp": "1784007573",
+    "path": "Medium/0164_Maximum_Gap.java"
   }
 ]
