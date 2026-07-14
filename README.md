@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 44
+Total Solved: 45
 
 ## Easy
 
@@ -19,6 +19,7 @@ Total Solved: 44
 - Split a String in Balanced Strings ([Java](Easy/1341_Split_a_String_in_Balanced_Strings.java))
 - Find Lucky Integer in an Array ([Java](Easy/1510_Find_Lucky_Integer_in_an_Array.java))
 - Minimum Value to Get Positive Step by Step Sum ([Java](Easy/1514_Minimum_Value_to_Get_Positive_Step_by_Step_Sum.java))
+- Widest Vertical Area Between Two Points Containing No Points ([Java](Easy/1742_Widest_Vertical_Area_Between_Two_Points_Containing_No_Points.java))
 - Truncate Sentence ([Java](Easy/1944_Truncate_Sentence.java))
 - Maximum Product Difference Between Two Pairs ([Java](Easy/2042_Maximum_Product_Difference_Between_Two_Pairs.java))
 - Counting Words With a Given Prefix ([Java](Easy/2292_Counting_Words_With_a_Given_Prefix.java))
@@ -59,7 +60,7 @@ Total Solved: 44
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 22 |
+| Easy | 23 |
 | Medium | 21 |
 | Hard | 1 |
 
