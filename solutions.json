@@ -494,6 +494,19 @@
     "path": "Easy/1341_Split_a_String_in_Balanced_Strings.java"
   },
   {
+    "problemId": "2639",
+    "problemTitle": "Separate the Digits in an Array",
+    "problemSlug": "separate-the-digits-in-an-array",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "7 ms",
+    "memory": "46.6 MB",
+    "submissionId": "2066522727",
+    "timestamp": "1783966273",
+    "path": "Easy/2639_Separate_the_Digits_in_an_Array.java"
+  },
+  {
     "problemId": "175",
     "problemTitle": "Combine Two Tables",
     "problemSlug": "combine-two-tables",
@@ -520,16 +533,16 @@
     "path": "Easy/0181_Employees_Earning_More_Than_Their_Managers.sql"
   },
   {
-    "problemId": "2639",
-    "problemTitle": "Separate the Digits in an Array",
-    "problemSlug": "separate-the-digits-in-an-array",
+    "problemId": "168",
+    "problemTitle": "Excel Sheet Column Title",
+    "problemSlug": "excel-sheet-column-title",
     "difficulty": "Easy",
     "language": "Java",
     "extension": "java",
-    "runtime": "7 ms",
-    "memory": "46.6 MB",
-    "submissionId": "2066522727",
-    "timestamp": "1783966273",
-    "path": "Easy/2639_Separate_the_Digits_in_an_Array.java"
+    "runtime": "0 ms",
+    "memory": "42.7 MB",
+    "submissionId": "2066904702",
+    "timestamp": "1784006308",
+    "path": "Easy/0168_Excel_Sheet_Column_Title.java"
   }
 ]
