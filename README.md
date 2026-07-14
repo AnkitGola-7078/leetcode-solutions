@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 42
+Total Solved: 43
 
 ## Easy
 
@@ -9,6 +9,7 @@ Total Solved: 42
 - Pascal's Triangle II ([Java](Easy/0119_Pascals_Triangle_II.java))
 - Best Time to Buy and Sell Stock ([Java](Easy/0121_Best_Time_to_Buy_and_Sell_Stock.java))
 - Excel Sheet Column Title ([Java](Easy/0168_Excel_Sheet_Column_Title.java))
+- Excel Sheet Column Number ([Java](Easy/0171_Excel_Sheet_Column_Number.java))
 - Combine Two Tables ([MySQL](Easy/0175_Combine_Two_Tables.sql))
 - Employees Earning More Than Their Managers ([MySQL](Easy/0181_Employees_Earning_More_Than_Their_Managers.sql))
 - Robot Return to Origin ([Java](Easy/0657_Robot_Return_to_Origin.java))
@@ -57,7 +58,7 @@ Total Solved: 42
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 21 |
+| Easy | 22 |
 | Medium | 20 |
 | Hard | 1 |
 
