@@ -578,10 +578,10 @@
     "difficulty": "Easy",
     "language": "Java",
     "extension": "java",
-    "runtime": "40 ms",
-    "memory": "89.5 MB",
-    "submissionId": "2066944024",
-    "timestamp": "1784008295",
+    "runtime": "39 ms",
+    "memory": "89.8 MB",
+    "submissionId": "2066953890",
+    "timestamp": "1784008761",
     "path": "Easy/1742_Widest_Vertical_Area_Between_Two_Points_Containing_No_Points.java"
   }
 ]
