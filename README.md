@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 50
+Total Solved: 51
 
 ## Easy
 
@@ -55,6 +55,7 @@ Total Solved: 50
 - Find the Safest Path in a Grid ([Java](Medium/2914_Find_the_Safest_Path_in_a_Grid.java))
 - Special Array II ([Java](Medium/3427_Special_Array_II.java))
 - Find a Safe Walk Through a Grid ([Java](Medium/3558_Find_a_Safe_Walk_Through_a_Grid.java))
+- Minimum Distance Between Three Equal Elements II ([Java](Medium/4119_Minimum_Distance_Between_Three_Equal_Elements_II.java))
 - Concatenate Non-Zero Digits and Multiply by Sum II ([Java](Medium/4136_Concatenate_Non-Zero_Digits_and_Multiply_by_Sum_II.java))
 
 ## Hard
@@ -66,7 +67,7 @@ Total Solved: 50
 | Difficulty | Count |
 |------------|--------|
 | Easy | 27 |
-| Medium | 22 |
+| Medium | 23 |
 | Hard | 1 |
 
 ---
