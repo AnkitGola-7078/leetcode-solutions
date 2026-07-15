@@ -559,6 +559,19 @@
     "path": "Easy/1742_Widest_Vertical_Area_Between_Two_Points_Containing_No_Points.java"
   },
   {
+    "problemId": "496",
+    "problemTitle": "Next Greater Element I",
+    "problemSlug": "next-greater-element-i",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "4 ms",
+    "memory": "45.5 MB",
+    "submissionId": "2067044634",
+    "timestamp": "1784013249",
+    "path": "Easy/0496_Next_Greater_Element_I.java"
+  },
+  {
     "problemId": "175",
     "problemTitle": "Combine Two Tables",
     "problemSlug": "combine-two-tables",
@@ -585,16 +598,16 @@
     "path": "Easy/0181_Employees_Earning_More_Than_Their_Managers.sql"
   },
   {
-    "problemId": "496",
-    "problemTitle": "Next Greater Element I",
-    "problemSlug": "next-greater-element-i",
-    "difficulty": "Easy",
+    "problemId": "443",
+    "problemTitle": "String Compression",
+    "problemSlug": "string-compression",
+    "difficulty": "Medium",
     "language": "Java",
     "extension": "java",
-    "runtime": "4 ms",
-    "memory": "45.5 MB",
-    "submissionId": "2067044634",
-    "timestamp": "1784013249",
-    "path": "Easy/0496_Next_Greater_Element_I.java"
+    "runtime": "2 ms",
+    "memory": "45.6 MB",
+    "submissionId": "2068089833",
+    "timestamp": "1784090534",
+    "path": "Medium/0443_String_Compression.java"
   }
 ]
