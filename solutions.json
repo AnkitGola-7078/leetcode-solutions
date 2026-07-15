@@ -637,6 +637,19 @@
     "path": "Medium/4119_Minimum_Distance_Between_Three_Equal_Elements_II.java"
   },
   {
+    "problemId": "4168",
+    "problemTitle": "Mirror Distance of an Integer",
+    "problemSlug": "mirror-distance-of-an-integer",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "2 ms",
+    "memory": "42.6 MB",
+    "submissionId": "2068320330",
+    "timestamp": "1784102503",
+    "path": "Easy/4168_Mirror_Distance_of_an_Integer.java"
+  },
+  {
     "problemId": "175",
     "problemTitle": "Combine Two Tables",
     "problemSlug": "combine-two-tables",
@@ -663,16 +676,16 @@
     "path": "Easy/0181_Employees_Earning_More_Than_Their_Managers.sql"
   },
   {
-    "problemId": "4168",
-    "problemTitle": "Mirror Distance of an Integer",
-    "problemSlug": "mirror-distance-of-an-integer",
+    "problemId": "2199",
+    "problemTitle": "Two Furthest Houses With Different Colors",
+    "problemSlug": "two-furthest-houses-with-different-colors",
     "difficulty": "Easy",
     "language": "Java",
     "extension": "java",
-    "runtime": "2 ms",
-    "memory": "42.6 MB",
-    "submissionId": "2068320330",
-    "timestamp": "1784102503",
-    "path": "Easy/4168_Mirror_Distance_of_an_Integer.java"
+    "runtime": "0 ms",
+    "memory": "43 MB",
+    "submissionId": "2068324861",
+    "timestamp": "1784102806",
+    "path": "Easy/2199_Two_Furthest_Houses_With_Different_Colors.java"
   }
 ]
