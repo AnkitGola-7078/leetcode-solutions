@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 46
+Total Solved: 47
 
 ## Easy
 
@@ -42,6 +42,7 @@ Total Solved: 46
 - Largest Number ([Java](Medium/0179_Largest_Number.java))
 - House Robber ([Java](Medium/0198_House_Robber.java))
 - House Robber II ([Java](Medium/0213_House_Robber_II.java))
+- String Compression ([Java](Medium/0443_String_Compression.java))
 - Asteroid Collision ([Java](Medium/0735_Asteroid_Collision.java))
 - Daily Temperatures ([Java](Medium/0739_Daily_Temperatures.java))
 - K Closest Points to Origin ([Java](Medium/1014_K_Closest_Points_to_Origin.java))
@@ -62,7 +63,7 @@ Total Solved: 46
 | Difficulty | Count |
 |------------|--------|
 | Easy | 24 |
-| Medium | 21 |
+| Medium | 22 |
 | Hard | 1 |
 
 ---
