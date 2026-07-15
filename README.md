@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 51
+Total Solved: 52
 
 ## Easy
 
@@ -31,6 +31,7 @@ Total Solved: 51
 - GCD of Odd and Even Sums ([Java](Easy/3995_GCD_of_Odd_and_Even_Sums.java))
 - Minimum Distance Between Three Equal Elements I ([Java](Easy/4115_Minimum_Distance_Between_Three_Equal_Elements_I.java))
 - Concatenate Non-Zero Digits and Multiply by Sum I ([Java](Easy/4135_Concatenate_Non-Zero_Digits_and_Multiply_by_Sum_I.java))
+- Mirror Distance of an Integer ([Java](Easy/4168_Mirror_Distance_of_an_Integer.java))
 
 ## Medium
 
@@ -66,7 +67,7 @@ Total Solved: 51
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 27 |
+| Easy | 28 |
 | Medium | 23 |
 | Hard | 1 |
 
