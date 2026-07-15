@@ -624,6 +624,19 @@
     "path": "Easy/1975_Minimum_Distance_to_the_Target_Element.java"
   },
   {
+    "problemId": "4119",
+    "problemTitle": "Minimum Distance Between Three Equal Elements II",
+    "problemSlug": "minimum-distance-between-three-equal-elements-ii",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "71 ms",
+    "memory": "202.8 MB",
+    "submissionId": "2068311058",
+    "timestamp": "1784101889",
+    "path": "Medium/4119_Minimum_Distance_Between_Three_Equal_Elements_II.java"
+  },
+  {
     "problemId": "175",
     "problemTitle": "Combine Two Tables",
     "problemSlug": "combine-two-tables",
@@ -650,16 +663,16 @@
     "path": "Easy/0181_Employees_Earning_More_Than_Their_Managers.sql"
   },
   {
-    "problemId": "4119",
-    "problemTitle": "Minimum Distance Between Three Equal Elements II",
-    "problemSlug": "minimum-distance-between-three-equal-elements-ii",
-    "difficulty": "Medium",
+    "problemId": "4168",
+    "problemTitle": "Mirror Distance of an Integer",
+    "problemSlug": "mirror-distance-of-an-integer",
+    "difficulty": "Easy",
     "language": "Java",
     "extension": "java",
-    "runtime": "71 ms",
-    "memory": "202.8 MB",
-    "submissionId": "2068311058",
-    "timestamp": "1784101889",
-    "path": "Medium/4119_Minimum_Distance_Between_Three_Equal_Elements_II.java"
+    "runtime": "2 ms",
+    "memory": "42.6 MB",
+    "submissionId": "2068320330",
+    "timestamp": "1784102503",
+    "path": "Easy/4168_Mirror_Distance_of_an_Integer.java"
   }
 ]
