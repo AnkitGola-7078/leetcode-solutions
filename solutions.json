@@ -585,6 +585,19 @@
     "path": "Medium/0443_String_Compression.java"
   },
   {
+    "problemId": "3995",
+    "problemTitle": "GCD of Odd and Even Sums",
+    "problemSlug": "gcd-of-odd-and-even-sums",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "1 ms",
+    "memory": "42.7 MB",
+    "submissionId": "2068098467",
+    "timestamp": "1784090998",
+    "path": "Easy/3995_GCD_of_Odd_and_Even_Sums.java"
+  },
+  {
     "problemId": "175",
     "problemTitle": "Combine Two Tables",
     "problemSlug": "combine-two-tables",
@@ -611,16 +624,16 @@
     "path": "Easy/0181_Employees_Earning_More_Than_Their_Managers.sql"
   },
   {
-    "problemId": "3995",
-    "problemTitle": "GCD of Odd and Even Sums",
-    "problemSlug": "gcd-of-odd-and-even-sums",
+    "problemId": "4115",
+    "problemTitle": "Minimum Distance Between Three Equal Elements I",
+    "problemSlug": "minimum-distance-between-three-equal-elements-i",
     "difficulty": "Easy",
     "language": "Java",
     "extension": "java",
-    "runtime": "1 ms",
-    "memory": "42.7 MB",
-    "submissionId": "2068098467",
-    "timestamp": "1784090998",
-    "path": "Easy/3995_GCD_of_Odd_and_Even_Sums.java"
+    "runtime": "9 ms",
+    "memory": "44.5 MB",
+    "submissionId": "2068126397",
+    "timestamp": "1784092433",
+    "path": "Easy/4115_Minimum_Distance_Between_Three_Equal_Elements_I.java"
   }
 ]
