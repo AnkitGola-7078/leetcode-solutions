@@ -611,6 +611,19 @@
     "path": "Easy/4115_Minimum_Distance_Between_Three_Equal_Elements_I.java"
   },
   {
+    "problemId": "1975",
+    "problemTitle": "Minimum Distance to the Target Element",
+    "problemSlug": "minimum-distance-to-the-target-element",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "0 ms",
+    "memory": "45.2 MB",
+    "submissionId": "2068295414",
+    "timestamp": "1784100853",
+    "path": "Easy/1975_Minimum_Distance_to_the_Target_Element.java"
+  },
+  {
     "problemId": "175",
     "problemTitle": "Combine Two Tables",
     "problemSlug": "combine-two-tables",
@@ -637,16 +650,16 @@
     "path": "Easy/0181_Employees_Earning_More_Than_Their_Managers.sql"
   },
   {
-    "problemId": "1975",
-    "problemTitle": "Minimum Distance to the Target Element",
-    "problemSlug": "minimum-distance-to-the-target-element",
-    "difficulty": "Easy",
+    "problemId": "4119",
+    "problemTitle": "Minimum Distance Between Three Equal Elements II",
+    "problemSlug": "minimum-distance-between-three-equal-elements-ii",
+    "difficulty": "Medium",
     "language": "Java",
     "extension": "java",
-    "runtime": "0 ms",
-    "memory": "45.2 MB",
-    "submissionId": "2068295414",
-    "timestamp": "1784100853",
-    "path": "Easy/1975_Minimum_Distance_to_the_Target_Element.java"
+    "runtime": "71 ms",
+    "memory": "202.8 MB",
+    "submissionId": "2068311058",
+    "timestamp": "1784101889",
+    "path": "Medium/4119_Minimum_Distance_Between_Three_Equal_Elements_II.java"
   }
 ]
