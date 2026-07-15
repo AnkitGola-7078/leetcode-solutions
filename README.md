@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 48
+Total Solved: 49
 
 ## Easy
 
@@ -28,6 +28,7 @@ Total Solved: 48
 - Split Strings by Separator ([Java](Easy/2881_Split_Strings_by_Separator.java))
 - Special Array I ([Java](Easy/3429_Special_Array_I.java))
 - GCD of Odd and Even Sums ([Java](Easy/3995_GCD_of_Odd_and_Even_Sums.java))
+- Minimum Distance Between Three Equal Elements I ([Java](Easy/4115_Minimum_Distance_Between_Three_Equal_Elements_I.java))
 - Concatenate Non-Zero Digits and Multiply by Sum I ([Java](Easy/4135_Concatenate_Non-Zero_Digits_and_Multiply_by_Sum_I.java))
 
 ## Medium
@@ -63,7 +64,7 @@ Total Solved: 48
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 25 |
+| Easy | 26 |
 | Medium | 22 |
 | Hard | 1 |
 
