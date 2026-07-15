@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 47
+Total Solved: 48
 
 ## Easy
 
@@ -27,6 +27,7 @@ Total Solved: 47
 - Separate the Digits in an Array ([Java](Easy/2639_Separate_the_Digits_in_an_Array.java))
 - Split Strings by Separator ([Java](Easy/2881_Split_Strings_by_Separator.java))
 - Special Array I ([Java](Easy/3429_Special_Array_I.java))
+- GCD of Odd and Even Sums ([Java](Easy/3995_GCD_of_Odd_and_Even_Sums.java))
 - Concatenate Non-Zero Digits and Multiply by Sum I ([Java](Easy/4135_Concatenate_Non-Zero_Digits_and_Multiply_by_Sum_I.java))
 
 ## Medium
@@ -62,7 +63,7 @@ Total Solved: 47
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 24 |
+| Easy | 25 |
 | Medium | 22 |
 | Hard | 1 |
 
