@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 49
+Total Solved: 50
 
 ## Easy
 
@@ -22,6 +22,7 @@ Total Solved: 49
 - Minimum Value to Get Positive Step by Step Sum ([Java](Easy/1514_Minimum_Value_to_Get_Positive_Step_by_Step_Sum.java))
 - Widest Vertical Area Between Two Points Containing No Points ([Java](Easy/1742_Widest_Vertical_Area_Between_Two_Points_Containing_No_Points.java))
 - Truncate Sentence ([Java](Easy/1944_Truncate_Sentence.java))
+- Minimum Distance to the Target Element ([Java](Easy/1975_Minimum_Distance_to_the_Target_Element.java))
 - Maximum Product Difference Between Two Pairs ([Java](Easy/2042_Maximum_Product_Difference_Between_Two_Pairs.java))
 - Counting Words With a Given Prefix ([Java](Easy/2292_Counting_Words_With_a_Given_Prefix.java))
 - Separate the Digits in an Array ([Java](Easy/2639_Separate_the_Digits_in_an_Array.java))
@@ -64,7 +65,7 @@ Total Solved: 49
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 26 |
+| Easy | 27 |
 | Medium | 22 |
 | Hard | 1 |
 
