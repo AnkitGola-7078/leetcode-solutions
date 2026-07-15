@@ -572,6 +572,19 @@
     "path": "Easy/0496_Next_Greater_Element_I.java"
   },
   {
+    "problemId": "443",
+    "problemTitle": "String Compression",
+    "problemSlug": "string-compression",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "2 ms",
+    "memory": "45.6 MB",
+    "submissionId": "2068089833",
+    "timestamp": "1784090534",
+    "path": "Medium/0443_String_Compression.java"
+  },
+  {
     "problemId": "175",
     "problemTitle": "Combine Two Tables",
     "problemSlug": "combine-two-tables",
@@ -598,16 +611,16 @@
     "path": "Easy/0181_Employees_Earning_More_Than_Their_Managers.sql"
   },
   {
-    "problemId": "443",
-    "problemTitle": "String Compression",
-    "problemSlug": "string-compression",
-    "difficulty": "Medium",
+    "problemId": "3995",
+    "problemTitle": "GCD of Odd and Even Sums",
+    "problemSlug": "gcd-of-odd-and-even-sums",
+    "difficulty": "Easy",
     "language": "Java",
     "extension": "java",
-    "runtime": "2 ms",
-    "memory": "45.6 MB",
-    "submissionId": "2068089833",
-    "timestamp": "1784090534",
-    "path": "Medium/0443_String_Compression.java"
+    "runtime": "1 ms",
+    "memory": "42.7 MB",
+    "submissionId": "2068098467",
+    "timestamp": "1784090998",
+    "path": "Easy/3995_GCD_of_Odd_and_Even_Sums.java"
   }
 ]
