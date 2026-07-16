@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 54
+Total Solved: 55
 
 ## Easy
 
@@ -60,6 +60,7 @@ Total Solved: 54
 - Find a Safe Walk Through a Grid ([Java](Medium/3558_Find_a_Safe_Walk_Through_a_Grid.java))
 - Minimum Distance Between Three Equal Elements II ([Java](Medium/4119_Minimum_Distance_Between_Three_Equal_Elements_II.java))
 - Concatenate Non-Zero Digits and Multiply by Sum II ([Java](Medium/4136_Concatenate_Non-Zero_Digits_and_Multiply_by_Sum_II.java))
+- Sum of GCD of Formed Pairs ([Java](Medium/4242_Sum_of_GCD_of_Formed_Pairs.java))
 
 ## Hard
 
@@ -70,7 +71,7 @@ Total Solved: 54
 | Difficulty | Count |
 |------------|--------|
 | Easy | 30 |
-| Medium | 23 |
+| Medium | 24 |
 | Hard | 1 |
 
 ---
