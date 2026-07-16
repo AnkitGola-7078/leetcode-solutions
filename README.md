@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 55
+Total Solved: 56
 
 ## Easy
 
@@ -51,6 +51,7 @@ Total Solved: 55
 - String Compression ([Java](Medium/0443_String_Compression.java))
 - Asteroid Collision ([Java](Medium/0735_Asteroid_Collision.java))
 - Daily Temperatures ([Java](Medium/0739_Daily_Temperatures.java))
+- Boats to Save People ([Java](Medium/0917_Boats_to_Save_People.java))
 - K Closest Points to Origin ([Java](Medium/1014_K_Closest_Points_to_Origin.java))
 - Remove Covered Intervals ([Java](Medium/1222_Remove_Covered_Intervals.java))
 - Maximum Points You Can Obtain from Cards ([Java](Medium/1538_Maximum_Points_You_Can_Obtain_from_Cards.java))
@@ -71,7 +72,7 @@ Total Solved: 55
 | Difficulty | Count |
 |------------|--------|
 | Easy | 30 |
-| Medium | 24 |
+| Medium | 25 |
 | Hard | 1 |
 
 ---
