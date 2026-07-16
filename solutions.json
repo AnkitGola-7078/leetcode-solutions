@@ -650,6 +650,19 @@
     "path": "Easy/4168_Mirror_Distance_of_an_Integer.java"
   },
   {
+    "problemId": "2199",
+    "problemTitle": "Two Furthest Houses With Different Colors",
+    "problemSlug": "two-furthest-houses-with-different-colors",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "0 ms",
+    "memory": "43 MB",
+    "submissionId": "2068324861",
+    "timestamp": "1784102806",
+    "path": "Easy/2199_Two_Furthest_Houses_With_Different_Colors.java"
+  },
+  {
     "problemId": "175",
     "problemTitle": "Combine Two Tables",
     "problemSlug": "combine-two-tables",
@@ -676,16 +689,16 @@
     "path": "Easy/0181_Employees_Earning_More_Than_Their_Managers.sql"
   },
   {
-    "problemId": "2199",
-    "problemTitle": "Two Furthest Houses With Different Colors",
-    "problemSlug": "two-furthest-houses-with-different-colors",
+    "problemId": "2714",
+    "problemTitle": "Left and Right Sum Differences",
+    "problemSlug": "left-and-right-sum-differences",
     "difficulty": "Easy",
     "language": "Java",
     "extension": "java",
-    "runtime": "0 ms",
-    "memory": "43 MB",
-    "submissionId": "2068324861",
-    "timestamp": "1784102806",
-    "path": "Easy/2199_Two_Furthest_Houses_With_Different_Colors.java"
+    "runtime": "2 ms",
+    "memory": "46.1 MB",
+    "submissionId": "2069380702",
+    "timestamp": "1784179351",
+    "path": "Easy/2714_Left_and_Right_Sum_Differences.java"
   }
 ]
