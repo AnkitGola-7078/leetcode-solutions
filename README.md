@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 53
+Total Solved: 54
 
 ## Easy
 
@@ -27,6 +27,7 @@ Total Solved: 53
 - Two Furthest Houses With Different Colors ([Java](Easy/2199_Two_Furthest_Houses_With_Different_Colors.java))
 - Counting Words With a Given Prefix ([Java](Easy/2292_Counting_Words_With_a_Given_Prefix.java))
 - Separate the Digits in an Array ([Java](Easy/2639_Separate_the_Digits_in_an_Array.java))
+- Left and Right Sum Differences ([Java](Easy/2714_Left_and_Right_Sum_Differences.java))
 - Split Strings by Separator ([Java](Easy/2881_Split_Strings_by_Separator.java))
 - Special Array I ([Java](Easy/3429_Special_Array_I.java))
 - GCD of Odd and Even Sums ([Java](Easy/3995_GCD_of_Odd_and_Even_Sums.java))
@@ -68,7 +69,7 @@ Total Solved: 53
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 29 |
+| Easy | 30 |
 | Medium | 23 |
 | Hard | 1 |
 
