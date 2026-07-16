@@ -734,10 +734,10 @@
     "difficulty": "Medium",
     "language": "Java",
     "extension": "java",
-    "runtime": "90 ms",
-    "memory": "72.4 MB",
-    "submissionId": "2070122102",
-    "timestamp": "1784218820",
+    "runtime": "102 ms",
+    "memory": "72.5 MB",
+    "submissionId": "2070122471",
+    "timestamp": "1784218837",
     "path": "Medium/0416_Partition_Equal_Subset_Sum.java"
   }
 ]
