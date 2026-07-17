@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 60
+Total Solved: 61
 
 ## Easy
 
@@ -31,6 +31,7 @@ Total Solved: 60
 - Check if Matrix Is X-Matrix ([Java](Easy/2398_Check_if_Matrix_Is_X-Matrix.java))
 - Separate the Digits in an Array ([Java](Easy/2639_Separate_the_Digits_in_an_Array.java))
 - Left and Right Sum Differences ([Java](Easy/2714_Left_and_Right_Sum_Differences.java))
+- Number of Employees Who Met the Target ([Java](Easy/2876_Number_of_Employees_Who_Met_the_Target.java))
 - Split Strings by Separator ([Java](Easy/2881_Split_Strings_by_Separator.java))
 - Special Array I ([Java](Easy/3429_Special_Array_I.java))
 - GCD of Odd and Even Sums ([Java](Easy/3995_GCD_of_Odd_and_Even_Sums.java))
@@ -75,7 +76,7 @@ Total Solved: 60
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 33 |
+| Easy | 34 |
 | Medium | 26 |
 | Hard | 1 |
 
