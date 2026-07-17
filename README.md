@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 58
+Total Solved: 59
 
 ## Easy
 
@@ -27,6 +27,7 @@ Total Solved: 58
 - Maximum Product Difference Between Two Pairs ([Java](Easy/2042_Maximum_Product_Difference_Between_Two_Pairs.java))
 - Two Furthest Houses With Different Colors ([Java](Easy/2199_Two_Furthest_Houses_With_Different_Colors.java))
 - Counting Words With a Given Prefix ([Java](Easy/2292_Counting_Words_With_a_Given_Prefix.java))
+- Check if Matrix Is X-Matrix ([Java](Easy/2398_Check_if_Matrix_Is_X-Matrix.java))
 - Separate the Digits in an Array ([Java](Easy/2639_Separate_the_Digits_in_an_Array.java))
 - Left and Right Sum Differences ([Java](Easy/2714_Left_and_Right_Sum_Differences.java))
 - Split Strings by Separator ([Java](Easy/2881_Split_Strings_by_Separator.java))
@@ -73,7 +74,7 @@ Total Solved: 58
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 31 |
+| Easy | 32 |
 | Medium | 26 |
 | Hard | 1 |
 
