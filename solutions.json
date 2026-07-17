@@ -830,5 +830,18 @@
     "submissionId": "2071463139",
     "timestamp": "1784311975",
     "path": "Easy/1801_Average_Time_of_Process_per_Machine.sql"
+  },
+  {
+    "problemId": "1877",
+    "problemTitle": "Find Followers Count",
+    "problemSlug": "find-followers-count",
+    "difficulty": "Easy",
+    "language": "MySQL",
+    "extension": "sql",
+    "runtime": "587 ms",
+    "memory": "0B",
+    "submissionId": "2071469578",
+    "timestamp": "1784312308",
+    "path": "Easy/1877_Find_Followers_Count.sql"
   }
 ]
