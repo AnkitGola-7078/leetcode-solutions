@@ -767,6 +767,19 @@
     "path": "Easy/2876_Number_of_Employees_Who_Met_the_Target.java"
   },
   {
+    "problemId": "3331",
+    "problemTitle": "Minimum Operations to Exceed Threshold Value I",
+    "problemSlug": "minimum-operations-to-exceed-threshold-value-i",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "0 ms",
+    "memory": "44.7 MB",
+    "submissionId": "2071391980",
+    "timestamp": "1784308496",
+    "path": "Easy/3331_Minimum_Operations_to_Exceed_Threshold_Value_I.java"
+  },
+  {
     "problemId": "175",
     "problemTitle": "Combine Two Tables",
     "problemSlug": "combine-two-tables",
@@ -793,16 +806,16 @@
     "path": "Easy/0181_Employees_Earning_More_Than_Their_Managers.sql"
   },
   {
-    "problemId": "3331",
-    "problemTitle": "Minimum Operations to Exceed Threshold Value I",
-    "problemSlug": "minimum-operations-to-exceed-threshold-value-i",
+    "problemId": "197",
+    "problemTitle": "Rising Temperature",
+    "problemSlug": "rising-temperature",
     "difficulty": "Easy",
-    "language": "Java",
-    "extension": "java",
-    "runtime": "0 ms",
-    "memory": "44.7 MB",
-    "submissionId": "2071391980",
-    "timestamp": "1784308496",
-    "path": "Easy/3331_Minimum_Operations_to_Exceed_Threshold_Value_I.java"
+    "language": "MySQL",
+    "extension": "sql",
+    "runtime": "473 ms",
+    "memory": "0B",
+    "submissionId": "2071460771",
+    "timestamp": "1784311855",
+    "path": "Easy/0197_Rising_Temperature.sql"
   }
 ]
