@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 63
+Total Solved: 64
 
 ## Easy
 
@@ -24,6 +24,7 @@ Total Solved: 63
 - Matrix Diagonal Sum ([Java](Easy/1677_Matrix_Diagonal_Sum.java))
 - Special Positions in a Binary Matrix ([Java](Easy/1704_Special_Positions_in_a_Binary_Matrix.java))
 - Widest Vertical Area Between Two Points Containing No Points ([Java](Easy/1742_Widest_Vertical_Area_Between_Two_Points_Containing_No_Points.java))
+- Average Time of Process per Machine ([MySQL](Easy/1801_Average_Time_of_Process_per_Machine.sql))
 - Truncate Sentence ([Java](Easy/1944_Truncate_Sentence.java))
 - Minimum Distance to the Target Element ([Java](Easy/1975_Minimum_Distance_to_the_Target_Element.java))
 - Maximum Product Difference Between Two Pairs ([Java](Easy/2042_Maximum_Product_Difference_Between_Two_Pairs.java))
@@ -78,7 +79,7 @@ Total Solved: 63
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 36 |
+| Easy | 37 |
 | Medium | 26 |
 | Hard | 1 |
 
