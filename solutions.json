@@ -741,6 +741,19 @@
     "path": "Easy/2398_Check_if_Matrix_Is_X-Matrix.java"
   },
   {
+    "problemId": "1704",
+    "problemTitle": "Special Positions in a Binary Matrix",
+    "problemSlug": "special-positions-in-a-binary-matrix",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "2 ms",
+    "memory": "47 MB",
+    "submissionId": "2071359549",
+    "timestamp": "1784306905",
+    "path": "Easy/1704_Special_Positions_in_a_Binary_Matrix.java"
+  },
+  {
     "problemId": "175",
     "problemTitle": "Combine Two Tables",
     "problemSlug": "combine-two-tables",
@@ -767,16 +780,16 @@
     "path": "Easy/0181_Employees_Earning_More_Than_Their_Managers.sql"
   },
   {
-    "problemId": "1704",
-    "problemTitle": "Special Positions in a Binary Matrix",
-    "problemSlug": "special-positions-in-a-binary-matrix",
+    "problemId": "2876",
+    "problemTitle": "Number of Employees Who Met the Target",
+    "problemSlug": "number-of-employees-who-met-the-target",
     "difficulty": "Easy",
     "language": "Java",
     "extension": "java",
-    "runtime": "2 ms",
-    "memory": "47 MB",
-    "submissionId": "2071359549",
-    "timestamp": "1784306905",
-    "path": "Easy/1704_Special_Positions_in_a_Binary_Matrix.java"
+    "runtime": "0 ms",
+    "memory": "44.4 MB",
+    "submissionId": "2071385144",
+    "timestamp": "1784308161",
+    "path": "Easy/2876_Number_of_Employees_Who_Met_the_Target.java"
   }
 ]
