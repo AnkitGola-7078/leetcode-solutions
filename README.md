@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 61
+Total Solved: 62
 
 ## Easy
 
@@ -33,6 +33,7 @@ Total Solved: 61
 - Left and Right Sum Differences ([Java](Easy/2714_Left_and_Right_Sum_Differences.java))
 - Number of Employees Who Met the Target ([Java](Easy/2876_Number_of_Employees_Who_Met_the_Target.java))
 - Split Strings by Separator ([Java](Easy/2881_Split_Strings_by_Separator.java))
+- Minimum Operations to Exceed Threshold Value I ([Java](Easy/3331_Minimum_Operations_to_Exceed_Threshold_Value_I.java))
 - Special Array I ([Java](Easy/3429_Special_Array_I.java))
 - GCD of Odd and Even Sums ([Java](Easy/3995_GCD_of_Odd_and_Even_Sums.java))
 - Minimum Distance Between Three Equal Elements I ([Java](Easy/4115_Minimum_Distance_Between_Three_Equal_Elements_I.java))
@@ -76,7 +77,7 @@ Total Solved: 61
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 34 |
+| Easy | 35 |
 | Medium | 26 |
 | Hard | 1 |
 
