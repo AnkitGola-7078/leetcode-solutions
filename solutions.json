@@ -843,5 +843,18 @@
     "submissionId": "2071469578",
     "timestamp": "1784312308",
     "path": "Easy/1877_Find_Followers_Count.sql"
+  },
+  {
+    "problemId": "596",
+    "problemTitle": "Classes With at Least 5 Students",
+    "problemSlug": "classes-with-at-least-5-students",
+    "difficulty": "Easy",
+    "language": "MySQL",
+    "extension": "sql",
+    "runtime": "346 ms",
+    "memory": "0B",
+    "submissionId": "2071477608",
+    "timestamp": "1784312749",
+    "path": "Easy/0596_Classes_With_at_Least_5_Students.sql"
   }
 ]
