@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 65
+Total Solved: 66
 
 ## Easy
 
@@ -14,6 +14,7 @@ Total Solved: 65
 - Employees Earning More Than Their Managers ([MySQL](Easy/0181_Employees_Earning_More_Than_Their_Managers.sql))
 - Rising Temperature ([MySQL](Easy/0197_Rising_Temperature.sql))
 - Next Greater Element I ([Java](Easy/0496_Next_Greater_Element_I.java))
+- Classes With at Least 5 Students ([MySQL](Easy/0596_Classes_With_at_Least_5_Students.sql))
 - Robot Return to Origin ([Java](Easy/0657_Robot_Return_to_Origin.java))
 - Jewels and Stones ([Java](Easy/0782_Jewels_and_Stones.java))
 - Rank Transform of an Array ([Java](Easy/1256_Rank_Transform_of_an_Array.java))
@@ -80,7 +81,7 @@ Total Solved: 65
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 38 |
+| Easy | 39 |
 | Medium | 26 |
 | Hard | 1 |
 
