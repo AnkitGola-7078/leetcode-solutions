@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 62
+Total Solved: 63
 
 ## Easy
 
@@ -12,6 +12,7 @@ Total Solved: 62
 - Excel Sheet Column Number ([Java](Easy/0171_Excel_Sheet_Column_Number.java))
 - Combine Two Tables ([MySQL](Easy/0175_Combine_Two_Tables.sql))
 - Employees Earning More Than Their Managers ([MySQL](Easy/0181_Employees_Earning_More_Than_Their_Managers.sql))
+- Rising Temperature ([MySQL](Easy/0197_Rising_Temperature.sql))
 - Next Greater Element I ([Java](Easy/0496_Next_Greater_Element_I.java))
 - Robot Return to Origin ([Java](Easy/0657_Robot_Return_to_Origin.java))
 - Jewels and Stones ([Java](Easy/0782_Jewels_and_Stones.java))
@@ -77,7 +78,7 @@ Total Solved: 62
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 35 |
+| Easy | 36 |
 | Medium | 26 |
 | Hard | 1 |
 
