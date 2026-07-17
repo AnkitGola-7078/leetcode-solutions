@@ -715,6 +715,19 @@
     "path": "Medium/0416_Partition_Equal_Subset_Sum.java"
   },
   {
+    "problemId": "1677",
+    "problemTitle": "Matrix Diagonal Sum",
+    "problemSlug": "matrix-diagonal-sum",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "1 ms",
+    "memory": "46.6 MB",
+    "submissionId": "2071320903",
+    "timestamp": "1784304901",
+    "path": "Easy/1677_Matrix_Diagonal_Sum.java"
+  },
+  {
     "problemId": "175",
     "problemTitle": "Combine Two Tables",
     "problemSlug": "combine-two-tables",
@@ -741,16 +754,16 @@
     "path": "Easy/0181_Employees_Earning_More_Than_Their_Managers.sql"
   },
   {
-    "problemId": "1677",
-    "problemTitle": "Matrix Diagonal Sum",
-    "problemSlug": "matrix-diagonal-sum",
+    "problemId": "2398",
+    "problemTitle": "Check if Matrix Is X-Matrix",
+    "problemSlug": "check-if-matrix-is-x-matrix",
     "difficulty": "Easy",
     "language": "Java",
     "extension": "java",
-    "runtime": "1 ms",
-    "memory": "46.6 MB",
-    "submissionId": "2071320903",
-    "timestamp": "1784304901",
-    "path": "Easy/1677_Matrix_Diagonal_Sum.java"
+    "runtime": "3 ms",
+    "memory": "47.4 MB",
+    "submissionId": "2071330897",
+    "timestamp": "1784305425",
+    "path": "Easy/2398_Check_if_Matrix_Is_X-Matrix.java"
   }
 ]
