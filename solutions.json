@@ -702,6 +702,19 @@
     "path": "Medium/0917_Boats_to_Save_People.java"
   },
   {
+    "problemId": "416",
+    "problemTitle": "Partition Equal Subset Sum",
+    "problemSlug": "partition-equal-subset-sum",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "98 ms",
+    "memory": "72.8 MB",
+    "submissionId": "2070122675",
+    "timestamp": "1784218847",
+    "path": "Medium/0416_Partition_Equal_Subset_Sum.java"
+  },
+  {
     "problemId": "175",
     "problemTitle": "Combine Two Tables",
     "problemSlug": "combine-two-tables",
@@ -728,16 +741,16 @@
     "path": "Easy/0181_Employees_Earning_More_Than_Their_Managers.sql"
   },
   {
-    "problemId": "416",
-    "problemTitle": "Partition Equal Subset Sum",
-    "problemSlug": "partition-equal-subset-sum",
-    "difficulty": "Medium",
+    "problemId": "1677",
+    "problemTitle": "Matrix Diagonal Sum",
+    "problemSlug": "matrix-diagonal-sum",
+    "difficulty": "Easy",
     "language": "Java",
     "extension": "java",
-    "runtime": "98 ms",
-    "memory": "72.8 MB",
-    "submissionId": "2070122675",
-    "timestamp": "1784218847",
-    "path": "Medium/0416_Partition_Equal_Subset_Sum.java"
+    "runtime": "1 ms",
+    "memory": "46.6 MB",
+    "submissionId": "2071320903",
+    "timestamp": "1784304901",
+    "path": "Easy/1677_Matrix_Diagonal_Sum.java"
   }
 ]
