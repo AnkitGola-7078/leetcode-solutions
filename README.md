@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 59
+Total Solved: 60
 
 ## Easy
 
@@ -21,6 +21,7 @@ Total Solved: 59
 - Find Lucky Integer in an Array ([Java](Easy/1510_Find_Lucky_Integer_in_an_Array.java))
 - Minimum Value to Get Positive Step by Step Sum ([Java](Easy/1514_Minimum_Value_to_Get_Positive_Step_by_Step_Sum.java))
 - Matrix Diagonal Sum ([Java](Easy/1677_Matrix_Diagonal_Sum.java))
+- Special Positions in a Binary Matrix ([Java](Easy/1704_Special_Positions_in_a_Binary_Matrix.java))
 - Widest Vertical Area Between Two Points Containing No Points ([Java](Easy/1742_Widest_Vertical_Area_Between_Two_Points_Containing_No_Points.java))
 - Truncate Sentence ([Java](Easy/1944_Truncate_Sentence.java))
 - Minimum Distance to the Target Element ([Java](Easy/1975_Minimum_Distance_to_the_Target_Element.java))
@@ -74,7 +75,7 @@ Total Solved: 59
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 32 |
+| Easy | 33 |
 | Medium | 26 |
 | Hard | 1 |
 
