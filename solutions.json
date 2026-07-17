@@ -817,5 +817,18 @@
     "submissionId": "2071460771",
     "timestamp": "1784311855",
     "path": "Easy/0197_Rising_Temperature.sql"
+  },
+  {
+    "problemId": "1801",
+    "problemTitle": "Average Time of Process per Machine",
+    "problemSlug": "average-time-of-process-per-machine",
+    "difficulty": "Easy",
+    "language": "MySQL",
+    "extension": "sql",
+    "runtime": "260 ms",
+    "memory": "0B",
+    "submissionId": "2071463139",
+    "timestamp": "1784311975",
+    "path": "Easy/1801_Average_Time_of_Process_per_Machine.sql"
   }
 ]
