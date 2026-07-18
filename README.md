@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 69
+Total Solved: 70
 
 ## Easy
 
@@ -37,6 +37,7 @@ Total Solved: 69
 - Counting Words With a Given Prefix ([Java](Easy/2292_Counting_Words_With_a_Given_Prefix.java))
 - Check if Matrix Is X-Matrix ([Java](Easy/2398_Check_if_Matrix_Is_X-Matrix.java))
 - Separate the Digits in an Array ([Java](Easy/2639_Separate_the_Digits_in_an_Array.java))
+- Count Distinct Numbers on Board ([Java](Easy/2679_Count_Distinct_Numbers_on_Board.java))
 - Left and Right Sum Differences ([Java](Easy/2714_Left_and_Right_Sum_Differences.java))
 - Number of Employees Who Met the Target ([Java](Easy/2876_Number_of_Employees_Who_Met_the_Target.java))
 - Split Strings by Separator ([Java](Easy/2881_Split_Strings_by_Separator.java))
@@ -84,7 +85,7 @@ Total Solved: 69
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 42 |
+| Easy | 43 |
 | Medium | 26 |
 | Hard | 1 |
 
