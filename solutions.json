@@ -793,6 +793,19 @@
     "path": "Easy/2106_Find_Greatest_Common_Divisor_of_Array.java"
   },
   {
+    "problemId": "2083",
+    "problemTitle": "Three Divisors",
+    "problemSlug": "three-divisors",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "1 ms",
+    "memory": "42.3 MB",
+    "submissionId": "2072558688",
+    "timestamp": "1784392432",
+    "path": "Easy/2083_Three_Divisors.java"
+  },
+  {
     "problemId": "175",
     "problemTitle": "Combine Two Tables",
     "problemSlug": "combine-two-tables",
@@ -871,16 +884,16 @@
     "path": "Easy/0596_Classes_With_at_Least_5_Students.sql"
   },
   {
-    "problemId": "2083",
-    "problemTitle": "Three Divisors",
-    "problemSlug": "three-divisors",
+    "problemId": "1806",
+    "problemTitle": "Count of Matches in Tournament",
+    "problemSlug": "count-of-matches-in-tournament",
     "difficulty": "Easy",
     "language": "Java",
     "extension": "java",
-    "runtime": "1 ms",
-    "memory": "42.3 MB",
-    "submissionId": "2072558688",
-    "timestamp": "1784392432",
-    "path": "Easy/2083_Three_Divisors.java"
+    "runtime": "0 ms",
+    "memory": "42.1 MB",
+    "submissionId": "2072577718",
+    "timestamp": "1784393403",
+    "path": "Easy/1806_Count_of_Matches_in_Tournament.java"
   }
 ]
