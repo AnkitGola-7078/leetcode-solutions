@@ -856,5 +856,18 @@
     "submissionId": "2071477608",
     "timestamp": "1784312749",
     "path": "Easy/0596_Classes_With_at_Least_5_Students.sql"
+  },
+  {
+    "problemId": "2106",
+    "problemTitle": "Find Greatest Common Divisor of Array",
+    "problemSlug": "find-greatest-common-divisor-of-array",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "6 ms",
+    "memory": "45.9 MB",
+    "submissionId": "2072548239",
+    "timestamp": "1784391886",
+    "path": "Easy/2106_Find_Greatest_Common_Divisor_of_Array.java"
   }
 ]
