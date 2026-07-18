@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 67
+Total Solved: 68
 
 ## Easy
 
@@ -30,6 +30,7 @@ Total Solved: 67
 - Truncate Sentence ([Java](Easy/1944_Truncate_Sentence.java))
 - Minimum Distance to the Target Element ([Java](Easy/1975_Minimum_Distance_to_the_Target_Element.java))
 - Maximum Product Difference Between Two Pairs ([Java](Easy/2042_Maximum_Product_Difference_Between_Two_Pairs.java))
+- Three Divisors ([Java](Easy/2083_Three_Divisors.java))
 - Find Greatest Common Divisor of Array ([Java](Easy/2106_Find_Greatest_Common_Divisor_of_Array.java))
 - Two Furthest Houses With Different Colors ([Java](Easy/2199_Two_Furthest_Houses_With_Different_Colors.java))
 - Counting Words With a Given Prefix ([Java](Easy/2292_Counting_Words_With_a_Given_Prefix.java))
@@ -82,7 +83,7 @@ Total Solved: 67
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 40 |
+| Easy | 41 |
 | Medium | 26 |
 | Hard | 1 |
 
