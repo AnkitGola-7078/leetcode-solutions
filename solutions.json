@@ -891,9 +891,9 @@
     "language": "Java",
     "extension": "java",
     "runtime": "0 ms",
-    "memory": "42.1 MB",
-    "submissionId": "2072577718",
-    "timestamp": "1784393403",
+    "memory": "42 MB",
+    "submissionId": "2072580425",
+    "timestamp": "1784393533",
     "path": "Easy/1806_Count_of_Matches_in_Tournament.java"
   }
 ]
