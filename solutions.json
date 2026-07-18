@@ -780,6 +780,19 @@
     "path": "Easy/3331_Minimum_Operations_to_Exceed_Threshold_Value_I.java"
   },
   {
+    "problemId": "2106",
+    "problemTitle": "Find Greatest Common Divisor of Array",
+    "problemSlug": "find-greatest-common-divisor-of-array",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "6 ms",
+    "memory": "45.9 MB",
+    "submissionId": "2072548239",
+    "timestamp": "1784391886",
+    "path": "Easy/2106_Find_Greatest_Common_Divisor_of_Array.java"
+  },
+  {
     "problemId": "175",
     "problemTitle": "Combine Two Tables",
     "problemSlug": "combine-two-tables",
@@ -858,16 +871,16 @@
     "path": "Easy/0596_Classes_With_at_Least_5_Students.sql"
   },
   {
-    "problemId": "2106",
-    "problemTitle": "Find Greatest Common Divisor of Array",
-    "problemSlug": "find-greatest-common-divisor-of-array",
+    "problemId": "2083",
+    "problemTitle": "Three Divisors",
+    "problemSlug": "three-divisors",
     "difficulty": "Easy",
     "language": "Java",
     "extension": "java",
-    "runtime": "6 ms",
-    "memory": "45.9 MB",
-    "submissionId": "2072548239",
-    "timestamp": "1784391886",
-    "path": "Easy/2106_Find_Greatest_Common_Divisor_of_Array.java"
+    "runtime": "1 ms",
+    "memory": "42.3 MB",
+    "submissionId": "2072558688",
+    "timestamp": "1784392432",
+    "path": "Easy/2083_Three_Divisors.java"
   }
 ]
