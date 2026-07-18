@@ -806,6 +806,19 @@
     "path": "Easy/2083_Three_Divisors.java"
   },
   {
+    "problemId": "1806",
+    "problemTitle": "Count of Matches in Tournament",
+    "problemSlug": "count-of-matches-in-tournament",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "0 ms",
+    "memory": "42 MB",
+    "submissionId": "2072580425",
+    "timestamp": "1784393533",
+    "path": "Easy/1806_Count_of_Matches_in_Tournament.java"
+  },
+  {
     "problemId": "175",
     "problemTitle": "Combine Two Tables",
     "problemSlug": "combine-two-tables",
@@ -884,16 +897,16 @@
     "path": "Easy/0596_Classes_With_at_Least_5_Students.sql"
   },
   {
-    "problemId": "1806",
-    "problemTitle": "Count of Matches in Tournament",
-    "problemSlug": "count-of-matches-in-tournament",
+    "problemId": "2679",
+    "problemTitle": "Count Distinct Numbers on Board",
+    "problemSlug": "count-distinct-numbers-on-board",
     "difficulty": "Easy",
     "language": "Java",
     "extension": "java",
     "runtime": "0 ms",
     "memory": "42 MB",
-    "submissionId": "2072580425",
-    "timestamp": "1784393533",
-    "path": "Easy/1806_Count_of_Matches_in_Tournament.java"
+    "submissionId": "2072592766",
+    "timestamp": "1784394129",
+    "path": "Easy/2679_Count_Distinct_Numbers_on_Board.java"
   }
 ]
