@@ -871,6 +871,19 @@
     "path": "Medium/0518_Coin_Change_II.java"
   },
   {
+    "problemId": "39",
+    "problemTitle": "Combination Sum",
+    "problemSlug": "combination-sum",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "3 ms",
+    "memory": "46 MB",
+    "submissionId": "2073326075",
+    "timestamp": "1784455437",
+    "path": "Medium/0039_Combination_Sum.java"
+  },
+  {
     "problemId": "175",
     "problemTitle": "Combine Two Tables",
     "problemSlug": "combine-two-tables",
@@ -949,16 +962,16 @@
     "path": "Easy/0596_Classes_With_at_Least_5_Students.sql"
   },
   {
-    "problemId": "39",
-    "problemTitle": "Combination Sum",
-    "problemSlug": "combination-sum",
+    "problemId": "216",
+    "problemTitle": "Combination Sum III",
+    "problemSlug": "combination-sum-iii",
     "difficulty": "Medium",
     "language": "Java",
     "extension": "java",
-    "runtime": "3 ms",
-    "memory": "46 MB",
-    "submissionId": "2073326075",
-    "timestamp": "1784455437",
-    "path": "Medium/0039_Combination_Sum.java"
+    "runtime": "0 ms",
+    "memory": "42.1 MB",
+    "submissionId": "2073328398",
+    "timestamp": "1784455602",
+    "path": "Medium/0216_Combination_Sum_III.java"
   }
 ]
