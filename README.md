@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 73
+Total Solved: 74
 
 ## Easy
 
@@ -53,6 +53,7 @@ Total Solved: 73
 
 - Container With Most Water ([Java](Medium/0011_Container_With_Most_Water.java))
 - Generate Parentheses ([Java](Medium/0022_Generate_Parentheses.java))
+- Combination Sum ([Java](Medium/0039_Combination_Sum.java))
 - Unique Paths ([Java](Medium/0062_Unique_Paths.java))
 - Unique Paths II ([Java](Medium/0063_Unique_Paths_II.java))
 - Evaluate Reverse Polish Notation ([Java](Medium/0150_Evaluate_Reverse_Polish_Notation.java))
@@ -89,7 +90,7 @@ Total Solved: 73
 | Difficulty | Count |
 |------------|--------|
 | Easy | 44 |
-| Medium | 28 |
+| Medium | 29 |
 | Hard | 1 |
 
 ---
