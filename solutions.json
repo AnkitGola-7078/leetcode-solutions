@@ -845,6 +845,19 @@
     "path": "Easy/0070_Climbing_Stairs.java"
   },
   {
+    "problemId": "322",
+    "problemTitle": "Coin Change",
+    "problemSlug": "coin-change",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "36 ms",
+    "memory": "47.3 MB",
+    "submissionId": "2073231779",
+    "timestamp": "1784448437",
+    "path": "Medium/0322_Coin_Change.java"
+  },
+  {
     "problemId": "175",
     "problemTitle": "Combine Two Tables",
     "problemSlug": "combine-two-tables",
@@ -923,16 +936,16 @@
     "path": "Easy/0596_Classes_With_at_Least_5_Students.sql"
   },
   {
-    "problemId": "322",
-    "problemTitle": "Coin Change",
-    "problemSlug": "coin-change",
+    "problemId": "518",
+    "problemTitle": "Coin Change II",
+    "problemSlug": "coin-change-ii",
     "difficulty": "Medium",
     "language": "Java",
     "extension": "java",
-    "runtime": "36 ms",
-    "memory": "47.3 MB",
-    "submissionId": "2073231779",
-    "timestamp": "1784448437",
-    "path": "Medium/0322_Coin_Change.java"
+    "runtime": "16 ms",
+    "memory": "57.1 MB",
+    "submissionId": "2073252317",
+    "timestamp": "1784449995",
+    "path": "Medium/0518_Coin_Change_II.java"
   }
 ]
