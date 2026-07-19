@@ -832,6 +832,19 @@
     "path": "Easy/2679_Count_Distinct_Numbers_on_Board.java"
   },
   {
+    "problemId": "70",
+    "problemTitle": "Climbing Stairs",
+    "problemSlug": "climbing-stairs",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "0 ms",
+    "memory": "42 MB",
+    "submissionId": "2073186943",
+    "timestamp": "1784445270",
+    "path": "Easy/0070_Climbing_Stairs.java"
+  },
+  {
     "problemId": "175",
     "problemTitle": "Combine Two Tables",
     "problemSlug": "combine-two-tables",
@@ -910,16 +923,16 @@
     "path": "Easy/0596_Classes_With_at_Least_5_Students.sql"
   },
   {
-    "problemId": "70",
-    "problemTitle": "Climbing Stairs",
-    "problemSlug": "climbing-stairs",
-    "difficulty": "Easy",
+    "problemId": "322",
+    "problemTitle": "Coin Change",
+    "problemSlug": "coin-change",
+    "difficulty": "Medium",
     "language": "Java",
     "extension": "java",
-    "runtime": "0 ms",
-    "memory": "42 MB",
-    "submissionId": "2073186943",
-    "timestamp": "1784445270",
-    "path": "Easy/0070_Climbing_Stairs.java"
+    "runtime": "39 ms",
+    "memory": "47.2 MB",
+    "submissionId": "2073226536",
+    "timestamp": "1784448038",
+    "path": "Medium/0322_Coin_Change.java"
   }
 ]
