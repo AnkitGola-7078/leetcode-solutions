@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 74
+Total Solved: 75
 
 ## Easy
 
@@ -63,6 +63,7 @@ Total Solved: 74
 - Largest Number ([Java](Medium/0179_Largest_Number.java))
 - House Robber ([Java](Medium/0198_House_Robber.java))
 - House Robber II ([Java](Medium/0213_House_Robber_II.java))
+- Combination Sum III ([Java](Medium/0216_Combination_Sum_III.java))
 - Coin Change ([Java](Medium/0322_Coin_Change.java))
 - Partition Equal Subset Sum ([Java](Medium/0416_Partition_Equal_Subset_Sum.java))
 - String Compression ([Java](Medium/0443_String_Compression.java))
@@ -90,7 +91,7 @@ Total Solved: 74
 | Difficulty | Count |
 |------------|--------|
 | Easy | 44 |
-| Medium | 29 |
+| Medium | 30 |
 | Hard | 1 |
 
 ---
