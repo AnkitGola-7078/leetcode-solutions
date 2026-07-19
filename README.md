@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 71
+Total Solved: 72
 
 ## Easy
 
@@ -62,6 +62,7 @@ Total Solved: 71
 - Largest Number ([Java](Medium/0179_Largest_Number.java))
 - House Robber ([Java](Medium/0198_House_Robber.java))
 - House Robber II ([Java](Medium/0213_House_Robber_II.java))
+- Coin Change ([Java](Medium/0322_Coin_Change.java))
 - Partition Equal Subset Sum ([Java](Medium/0416_Partition_Equal_Subset_Sum.java))
 - String Compression ([Java](Medium/0443_String_Compression.java))
 - Asteroid Collision ([Java](Medium/0735_Asteroid_Collision.java))
@@ -87,7 +88,7 @@ Total Solved: 71
 | Difficulty | Count |
 |------------|--------|
 | Easy | 44 |
-| Medium | 26 |
+| Medium | 27 |
 | Hard | 1 |
 
 ---
