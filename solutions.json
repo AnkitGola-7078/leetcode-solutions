@@ -947,5 +947,18 @@
     "submissionId": "2071477608",
     "timestamp": "1784312749",
     "path": "Easy/0596_Classes_With_at_Least_5_Students.sql"
+  },
+  {
+    "problemId": "39",
+    "problemTitle": "Combination Sum",
+    "problemSlug": "combination-sum",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "3 ms",
+    "memory": "46 MB",
+    "submissionId": "2073326075",
+    "timestamp": "1784455437",
+    "path": "Medium/0039_Combination_Sum.java"
   }
 ]
