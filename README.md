@@ -1,11 +1,12 @@
 # LeetCode Solutions
 
-Total Solved: 70
+Total Solved: 71
 
 ## Easy
 
 - Two Sum ([Java](Easy/0001_Two_Sum.java))
 - Valid Parentheses ([Java](Easy/0020_Valid_Parentheses.java))
+- Climbing Stairs ([Java](Easy/0070_Climbing_Stairs.java))
 - Pascal's Triangle II ([Java](Easy/0119_Pascals_Triangle_II.java))
 - Best Time to Buy and Sell Stock ([Java](Easy/0121_Best_Time_to_Buy_and_Sell_Stock.java))
 - Excel Sheet Column Title ([Java](Easy/0168_Excel_Sheet_Column_Title.java))
@@ -85,7 +86,7 @@ Total Solved: 70
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 43 |
+| Easy | 44 |
 | Medium | 26 |
 | Hard | 1 |
 
