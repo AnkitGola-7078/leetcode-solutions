@@ -851,11 +851,24 @@
     "difficulty": "Medium",
     "language": "Java",
     "extension": "java",
-    "runtime": "36 ms",
-    "memory": "47.3 MB",
-    "submissionId": "2073231779",
-    "timestamp": "1784448437",
+    "runtime": "25 ms",
+    "memory": "46.5 MB",
+    "submissionId": "2073271434",
+    "timestamp": "1784451481",
     "path": "Medium/0322_Coin_Change.java"
+  },
+  {
+    "problemId": "518",
+    "problemTitle": "Coin Change II",
+    "problemSlug": "coin-change-ii",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "16 ms",
+    "memory": "57.1 MB",
+    "submissionId": "2073252317",
+    "timestamp": "1784449995",
+    "path": "Medium/0518_Coin_Change_II.java"
   },
   {
     "problemId": "175",
@@ -934,18 +947,5 @@
     "submissionId": "2071477608",
     "timestamp": "1784312749",
     "path": "Easy/0596_Classes_With_at_Least_5_Students.sql"
-  },
-  {
-    "problemId": "518",
-    "problemTitle": "Coin Change II",
-    "problemSlug": "coin-change-ii",
-    "difficulty": "Medium",
-    "language": "Java",
-    "extension": "java",
-    "runtime": "16 ms",
-    "memory": "57.1 MB",
-    "submissionId": "2073252317",
-    "timestamp": "1784449995",
-    "path": "Medium/0518_Coin_Change_II.java"
   }
 ]
