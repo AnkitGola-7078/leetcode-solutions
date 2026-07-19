@@ -929,10 +929,10 @@
     "difficulty": "Medium",
     "language": "Java",
     "extension": "java",
-    "runtime": "39 ms",
-    "memory": "47.2 MB",
-    "submissionId": "2073226536",
-    "timestamp": "1784448038",
+    "runtime": "36 ms",
+    "memory": "47.3 MB",
+    "submissionId": "2073231779",
+    "timestamp": "1784448437",
     "path": "Medium/0322_Coin_Change.java"
   }
 ]
