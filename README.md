@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 72
+Total Solved: 73
 
 ## Easy
 
@@ -65,6 +65,7 @@ Total Solved: 72
 - Coin Change ([Java](Medium/0322_Coin_Change.java))
 - Partition Equal Subset Sum ([Java](Medium/0416_Partition_Equal_Subset_Sum.java))
 - String Compression ([Java](Medium/0443_String_Compression.java))
+- Coin Change II ([Java](Medium/0518_Coin_Change_II.java))
 - Asteroid Collision ([Java](Medium/0735_Asteroid_Collision.java))
 - Daily Temperatures ([Java](Medium/0739_Daily_Temperatures.java))
 - Boats to Save People ([Java](Medium/0917_Boats_to_Save_People.java))
@@ -88,7 +89,7 @@ Total Solved: 72
 | Difficulty | Count |
 |------------|--------|
 | Easy | 44 |
-| Medium | 27 |
+| Medium | 28 |
 | Hard | 1 |
 
 ---
