@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 75
+Total Solved: 76
 
 ## Easy
 
@@ -71,6 +71,7 @@ Total Solved: 75
 - Asteroid Collision ([Java](Medium/0735_Asteroid_Collision.java))
 - Daily Temperatures ([Java](Medium/0739_Daily_Temperatures.java))
 - Boats to Save People ([Java](Medium/0917_Boats_to_Save_People.java))
+- Minimum Falling Path Sum ([Java](Medium/0967_Minimum_Falling_Path_Sum.java))
 - K Closest Points to Origin ([Java](Medium/1014_K_Closest_Points_to_Origin.java))
 - Remove Covered Intervals ([Java](Medium/1222_Remove_Covered_Intervals.java))
 - Maximum Points You Can Obtain from Cards ([Java](Medium/1538_Maximum_Points_You_Can_Obtain_from_Cards.java))
@@ -91,7 +92,7 @@ Total Solved: 75
 | Difficulty | Count |
 |------------|--------|
 | Easy | 44 |
-| Medium | 30 |
+| Medium | 31 |
 | Hard | 1 |
 
 ---
