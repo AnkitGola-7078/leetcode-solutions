@@ -973,5 +973,18 @@
     "submissionId": "2071477608",
     "timestamp": "1784312749",
     "path": "Easy/0596_Classes_With_at_Least_5_Students.sql"
+  },
+  {
+    "problemId": "967",
+    "problemTitle": "Minimum Falling Path Sum",
+    "problemSlug": "minimum-falling-path-sum",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "7 ms",
+    "memory": "46.8 MB",
+    "submissionId": "2074830639",
+    "timestamp": "1784565478",
+    "path": "Medium/0967_Minimum_Falling_Path_Sum.java"
   }
 ]
