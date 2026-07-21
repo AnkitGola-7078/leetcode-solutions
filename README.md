@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 77
+Total Solved: 78
 
 ## Easy
 
@@ -21,6 +21,7 @@ Total Solved: 77
 - Rank Transform of an Array ([Java](Easy/1256_Rank_Transform_of_an_Array.java))
 - Maximum Number of Balloons ([Java](Easy/1297_Maximum_Number_of_Balloons.java))
 - Split a String in Balanced Strings ([Java](Easy/1341_Split_a_String_in_Balanced_Strings.java))
+- Shift 2D Grid ([Java](Easy/1386_Shift_2D_Grid.java))
 - Find Lucky Integer in an Array ([Java](Easy/1510_Find_Lucky_Integer_in_an_Array.java))
 - Minimum Value to Get Positive Step by Step Sum ([Java](Easy/1514_Minimum_Value_to_Get_Positive_Step_by_Step_Sum.java))
 - Matrix Diagonal Sum ([Java](Easy/1677_Matrix_Diagonal_Sum.java))
@@ -92,7 +93,7 @@ Total Solved: 77
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 44 |
+| Easy | 45 |
 | Medium | 32 |
 | Hard | 1 |
 
