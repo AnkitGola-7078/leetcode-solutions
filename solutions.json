@@ -897,6 +897,19 @@
     "path": "Medium/0216_Combination_Sum_III.java"
   },
   {
+    "problemId": "967",
+    "problemTitle": "Minimum Falling Path Sum",
+    "problemSlug": "minimum-falling-path-sum",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "7 ms",
+    "memory": "46.8 MB",
+    "submissionId": "2074830639",
+    "timestamp": "1784565478",
+    "path": "Medium/0967_Minimum_Falling_Path_Sum.java"
+  },
+  {
     "problemId": "175",
     "problemTitle": "Combine Two Tables",
     "problemSlug": "combine-two-tables",
@@ -975,16 +988,16 @@
     "path": "Easy/0596_Classes_With_at_Least_5_Students.sql"
   },
   {
-    "problemId": "967",
-    "problemTitle": "Minimum Falling Path Sum",
-    "problemSlug": "minimum-falling-path-sum",
+    "problemId": "3805",
+    "problemTitle": "Maximize Active Section with Trade I",
+    "problemSlug": "maximize-active-section-with-trade-i",
     "difficulty": "Medium",
     "language": "Java",
     "extension": "java",
-    "runtime": "7 ms",
-    "memory": "46.8 MB",
-    "submissionId": "2074830639",
-    "timestamp": "1784565478",
-    "path": "Medium/0967_Minimum_Falling_Path_Sum.java"
+    "runtime": "166 ms",
+    "memory": "51 MB",
+    "submissionId": "2076206094",
+    "timestamp": "1784656000",
+    "path": "Medium/3805_Maximize_Active_Section_with_Trade_I.java"
   }
 ]
