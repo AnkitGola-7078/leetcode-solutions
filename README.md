@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 78
+Total Solved: 79
 
 ## Easy
 
@@ -77,6 +77,7 @@ Total Solved: 78
 - Remove Covered Intervals ([Java](Medium/1222_Remove_Covered_Intervals.java))
 - Maximum Points You Can Obtain from Cards ([Java](Medium/1538_Maximum_Points_You_Can_Obtain_from_Cards.java))
 - Append Characters to String to Make Subsequence ([Java](Medium/2572_Append_Characters_to_String_to_Make_Subsequence.java))
+- Ways to Express an Integer as Sum of Powers ([Java](Medium/2882_Ways_to_Express_an_Integer_as_Sum_of_Powers.java))
 - Find the Safest Path in a Grid ([Java](Medium/2914_Find_the_Safest_Path_in_a_Grid.java))
 - Special Array II ([Java](Medium/3427_Special_Array_II.java))
 - Find a Safe Walk Through a Grid ([Java](Medium/3558_Find_a_Safe_Walk_Through_a_Grid.java))
@@ -94,7 +95,7 @@ Total Solved: 78
 | Difficulty | Count |
 |------------|--------|
 | Easy | 45 |
-| Medium | 32 |
+| Medium | 33 |
 | Hard | 1 |
 
 ---
