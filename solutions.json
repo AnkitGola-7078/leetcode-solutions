@@ -923,6 +923,19 @@
     "path": "Medium/3805_Maximize_Active_Section_with_Trade_I.java"
   },
   {
+    "problemId": "1386",
+    "problemTitle": "Shift 2D Grid",
+    "problemSlug": "shift-2d-grid",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "7 ms",
+    "memory": "47 MB",
+    "submissionId": "2076211991",
+    "timestamp": "1784656237",
+    "path": "Easy/1386_Shift_2D_Grid.java"
+  },
+  {
     "problemId": "175",
     "problemTitle": "Combine Two Tables",
     "problemSlug": "combine-two-tables",
@@ -1001,16 +1014,16 @@
     "path": "Easy/0596_Classes_With_at_Least_5_Students.sql"
   },
   {
-    "problemId": "1386",
-    "problemTitle": "Shift 2D Grid",
-    "problemSlug": "shift-2d-grid",
-    "difficulty": "Easy",
+    "problemId": "2882",
+    "problemTitle": "Ways to Express an Integer as Sum of Powers",
+    "problemSlug": "ways-to-express-an-integer-as-sum-of-powers",
+    "difficulty": "Medium",
     "language": "Java",
     "extension": "java",
-    "runtime": "7 ms",
-    "memory": "47 MB",
-    "submissionId": "2076211991",
-    "timestamp": "1784656237",
-    "path": "Easy/1386_Shift_2D_Grid.java"
+    "runtime": "156 ms",
+    "memory": "46.8 MB",
+    "submissionId": "2076850894",
+    "timestamp": "1784709236",
+    "path": "Medium/2882_Ways_to_Express_an_Integer_as_Sum_of_Powers.java"
   }
 ]
