@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 79
+Total Solved: 80
 
 ## Easy
 
@@ -82,6 +82,7 @@ Total Solved: 79
 - Special Array II ([Java](Medium/3427_Special_Array_II.java))
 - Find a Safe Walk Through a Grid ([Java](Medium/3558_Find_a_Safe_Walk_Through_a_Grid.java))
 - Maximize Active Section with Trade I ([Java](Medium/3805_Maximize_Active_Section_with_Trade_I.java))
+- Number of Unique XOR Triplets I ([Java](Medium/3824_Number_of_Unique_XOR_Triplets_I.java))
 - Minimum Distance Between Three Equal Elements II ([Java](Medium/4119_Minimum_Distance_Between_Three_Equal_Elements_II.java))
 - Concatenate Non-Zero Digits and Multiply by Sum II ([Java](Medium/4136_Concatenate_Non-Zero_Digits_and_Multiply_by_Sum_II.java))
 - Sum of GCD of Formed Pairs ([Java](Medium/4242_Sum_of_GCD_of_Formed_Pairs.java))
@@ -95,7 +96,7 @@ Total Solved: 79
 | Difficulty | Count |
 |------------|--------|
 | Easy | 45 |
-| Medium | 33 |
+| Medium | 34 |
 | Hard | 1 |
 
 ---
