@@ -936,6 +936,19 @@
     "path": "Easy/1386_Shift_2D_Grid.java"
   },
   {
+    "problemId": "2882",
+    "problemTitle": "Ways to Express an Integer as Sum of Powers",
+    "problemSlug": "ways-to-express-an-integer-as-sum-of-powers",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "156 ms",
+    "memory": "46.8 MB",
+    "submissionId": "2076850894",
+    "timestamp": "1784709236",
+    "path": "Medium/2882_Ways_to_Express_an_Integer_as_Sum_of_Powers.java"
+  },
+  {
     "problemId": "175",
     "problemTitle": "Combine Two Tables",
     "problemSlug": "combine-two-tables",
@@ -1014,16 +1027,16 @@
     "path": "Easy/0596_Classes_With_at_Least_5_Students.sql"
   },
   {
-    "problemId": "2882",
-    "problemTitle": "Ways to Express an Integer as Sum of Powers",
-    "problemSlug": "ways-to-express-an-integer-as-sum-of-powers",
+    "problemId": "3824",
+    "problemTitle": "Number of Unique XOR Triplets I",
+    "problemSlug": "number-of-unique-xor-triplets-i",
     "difficulty": "Medium",
     "language": "Java",
     "extension": "java",
-    "runtime": "156 ms",
-    "memory": "46.8 MB",
-    "submissionId": "2076850894",
-    "timestamp": "1784709236",
-    "path": "Medium/2882_Ways_to_Express_an_Integer_as_Sum_of_Powers.java"
+    "runtime": "1 ms",
+    "memory": "125.6 MB",
+    "submissionId": "2078714029",
+    "timestamp": "1784826886",
+    "path": "Medium/3824_Number_of_Unique_XOR_Triplets_I.java"
   }
 ]
