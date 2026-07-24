@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 80
+Total Solved: 81
 
 ## Easy
 
@@ -57,6 +57,7 @@ Total Solved: 80
 - Combination Sum ([Java](Medium/0039_Combination_Sum.java))
 - Unique Paths ([Java](Medium/0062_Unique_Paths.java))
 - Unique Paths II ([Java](Medium/0063_Unique_Paths_II.java))
+- Subsets ([Java](Medium/0078_Subsets.java))
 - Evaluate Reverse Polish Notation ([Java](Medium/0150_Evaluate_Reverse_Polish_Notation.java))
 - Min Stack ([Java](Medium/0155_Min_Stack.java))
 - Find Peak Element ([Java](Medium/0162_Find_Peak_Element.java))
@@ -96,7 +97,7 @@ Total Solved: 80
 | Difficulty | Count |
 |------------|--------|
 | Easy | 45 |
-| Medium | 34 |
+| Medium | 35 |
 | Hard | 1 |
 
 ---
