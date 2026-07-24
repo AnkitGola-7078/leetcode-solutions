@@ -962,6 +962,19 @@
     "path": "Medium/3824_Number_of_Unique_XOR_Triplets_I.java"
   },
   {
+    "problemId": "78",
+    "problemTitle": "Subsets",
+    "problemSlug": "subsets",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "1 ms",
+    "memory": "44 MB",
+    "submissionId": "2079944660",
+    "timestamp": "1784916476",
+    "path": "Medium/0078_Subsets.java"
+  },
+  {
     "problemId": "175",
     "problemTitle": "Combine Two Tables",
     "problemSlug": "combine-two-tables",
@@ -1040,16 +1053,16 @@
     "path": "Easy/0596_Classes_With_at_Least_5_Students.sql"
   },
   {
-    "problemId": "78",
-    "problemTitle": "Subsets",
-    "problemSlug": "subsets",
+    "problemId": "40",
+    "problemTitle": "Combination Sum II",
+    "problemSlug": "combination-sum-ii",
     "difficulty": "Medium",
     "language": "Java",
     "extension": "java",
-    "runtime": "1 ms",
-    "memory": "44 MB",
-    "submissionId": "2079944660",
-    "timestamp": "1784916476",
-    "path": "Medium/0078_Subsets.java"
+    "runtime": "7 ms",
+    "memory": "45.2 MB",
+    "submissionId": "2080026041",
+    "timestamp": "1784921698",
+    "path": "Medium/0040_Combination_Sum_II.java"
   }
 ]
