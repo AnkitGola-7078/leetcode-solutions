@@ -949,6 +949,19 @@
     "path": "Medium/2882_Ways_to_Express_an_Integer_as_Sum_of_Powers.java"
   },
   {
+    "problemId": "3824",
+    "problemTitle": "Number of Unique XOR Triplets I",
+    "problemSlug": "number-of-unique-xor-triplets-i",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "1 ms",
+    "memory": "125.6 MB",
+    "submissionId": "2078714029",
+    "timestamp": "1784826886",
+    "path": "Medium/3824_Number_of_Unique_XOR_Triplets_I.java"
+  },
+  {
     "problemId": "175",
     "problemTitle": "Combine Two Tables",
     "problemSlug": "combine-two-tables",
@@ -1027,16 +1040,16 @@
     "path": "Easy/0596_Classes_With_at_Least_5_Students.sql"
   },
   {
-    "problemId": "3824",
-    "problemTitle": "Number of Unique XOR Triplets I",
-    "problemSlug": "number-of-unique-xor-triplets-i",
+    "problemId": "78",
+    "problemTitle": "Subsets",
+    "problemSlug": "subsets",
     "difficulty": "Medium",
     "language": "Java",
     "extension": "java",
     "runtime": "1 ms",
-    "memory": "125.6 MB",
-    "submissionId": "2078714029",
-    "timestamp": "1784826886",
-    "path": "Medium/3824_Number_of_Unique_XOR_Triplets_I.java"
+    "memory": "44 MB",
+    "submissionId": "2079944660",
+    "timestamp": "1784916476",
+    "path": "Medium/0078_Subsets.java"
   }
 ]
