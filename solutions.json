@@ -1001,6 +1001,19 @@
     "path": "Medium/3453_Generate_Binary_Strings_Without_Adjacent_Zeros.java"
   },
   {
+    "problemId": "17",
+    "problemTitle": "Letter Combinations of a Phone Number",
+    "problemSlug": "letter-combinations-of-a-phone-number",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "3 ms",
+    "memory": "49.3 MB",
+    "submissionId": "2080578238",
+    "timestamp": "1784973323",
+    "path": "Medium/0017_Letter_Combinations_of_a_Phone_Number.java"
+  },
+  {
     "problemId": "175",
     "problemTitle": "Combine Two Tables",
     "problemSlug": "combine-two-tables",
@@ -1079,16 +1092,16 @@
     "path": "Easy/0596_Classes_With_at_Least_5_Students.sql"
   },
   {
-    "problemId": "17",
-    "problemTitle": "Letter Combinations of a Phone Number",
-    "problemSlug": "letter-combinations-of-a-phone-number",
+    "problemId": "50",
+    "problemTitle": "Pow(x, n)",
+    "problemSlug": "powx-n",
     "difficulty": "Medium",
     "language": "Java",
     "extension": "java",
-    "runtime": "3 ms",
-    "memory": "49.3 MB",
-    "submissionId": "2080578238",
-    "timestamp": "1784973323",
-    "path": "Medium/0017_Letter_Combinations_of_a_Phone_Number.java"
+    "runtime": "0 ms",
+    "memory": "48.1 MB",
+    "submissionId": "2080759967",
+    "timestamp": "1784984970",
+    "path": "Medium/0050_Powx_n.java"
   }
 ]
