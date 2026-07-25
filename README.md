@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 85
+Total Solved: 86
 
 ## Easy
 
@@ -80,6 +80,7 @@ Total Solved: 85
 - K Closest Points to Origin ([Java](Medium/1014_K_Closest_Points_to_Origin.java))
 - Remove Covered Intervals ([Java](Medium/1222_Remove_Covered_Intervals.java))
 - Maximum Points You Can Obtain from Cards ([Java](Medium/1538_Maximum_Points_You_Can_Obtain_from_Cards.java))
+- Count Good Numbers ([Java](Medium/2050_Count_Good_Numbers.java))
 - Append Characters to String to Make Subsequence ([Java](Medium/2572_Append_Characters_to_String_to_Make_Subsequence.java))
 - Ways to Express an Integer as Sum of Powers ([Java](Medium/2882_Ways_to_Express_an_Integer_as_Sum_of_Powers.java))
 - Find the Safest Path in a Grid ([Java](Medium/2914_Find_the_Safest_Path_in_a_Grid.java))
@@ -101,7 +102,7 @@ Total Solved: 85
 | Difficulty | Count |
 |------------|--------|
 | Easy | 45 |
-| Medium | 39 |
+| Medium | 40 |
 | Hard | 1 |
 
 ---
