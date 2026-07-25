@@ -988,6 +988,19 @@
     "path": "Medium/0040_Combination_Sum_II.java"
   },
   {
+    "problemId": "3453",
+    "problemTitle": "Generate Binary Strings Without Adjacent Zeros",
+    "problemSlug": "generate-binary-strings-without-adjacent-zeros",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "3 ms",
+    "memory": "47.7 MB",
+    "submissionId": "2080551772",
+    "timestamp": "1784971641",
+    "path": "Medium/3453_Generate_Binary_Strings_Without_Adjacent_Zeros.java"
+  },
+  {
     "problemId": "175",
     "problemTitle": "Combine Two Tables",
     "problemSlug": "combine-two-tables",
@@ -1066,16 +1079,16 @@
     "path": "Easy/0596_Classes_With_at_Least_5_Students.sql"
   },
   {
-    "problemId": "3453",
-    "problemTitle": "Generate Binary Strings Without Adjacent Zeros",
-    "problemSlug": "generate-binary-strings-without-adjacent-zeros",
+    "problemId": "17",
+    "problemTitle": "Letter Combinations of a Phone Number",
+    "problemSlug": "letter-combinations-of-a-phone-number",
     "difficulty": "Medium",
     "language": "Java",
     "extension": "java",
     "runtime": "3 ms",
-    "memory": "47.7 MB",
-    "submissionId": "2080551772",
-    "timestamp": "1784971641",
-    "path": "Medium/3453_Generate_Binary_Strings_Without_Adjacent_Zeros.java"
+    "memory": "49.3 MB",
+    "submissionId": "2080578238",
+    "timestamp": "1784973323",
+    "path": "Medium/0017_Letter_Combinations_of_a_Phone_Number.java"
   }
 ]
