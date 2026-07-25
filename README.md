@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 84
+Total Solved: 85
 
 ## Easy
 
@@ -57,6 +57,7 @@ Total Solved: 84
 - Generate Parentheses ([Java](Medium/0022_Generate_Parentheses.java))
 - Combination Sum ([Java](Medium/0039_Combination_Sum.java))
 - Combination Sum II ([Java](Medium/0040_Combination_Sum_II.java))
+- Pow(x, n) ([Java](Medium/0050_Powx_n.java))
 - Unique Paths ([Java](Medium/0062_Unique_Paths.java))
 - Unique Paths II ([Java](Medium/0063_Unique_Paths_II.java))
 - Subsets ([Java](Medium/0078_Subsets.java))
@@ -100,7 +101,7 @@ Total Solved: 84
 | Difficulty | Count |
 |------------|--------|
 | Easy | 45 |
-| Medium | 38 |
+| Medium | 39 |
 | Hard | 1 |
 
 ---
