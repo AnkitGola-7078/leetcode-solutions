@@ -1014,6 +1014,19 @@
     "path": "Medium/0017_Letter_Combinations_of_a_Phone_Number.java"
   },
   {
+    "problemId": "50",
+    "problemTitle": "Pow(x, n)",
+    "problemSlug": "powx-n",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "0 ms",
+    "memory": "48.1 MB",
+    "submissionId": "2080759967",
+    "timestamp": "1784984970",
+    "path": "Medium/0050_Powx_n.java"
+  },
+  {
     "problemId": "175",
     "problemTitle": "Combine Two Tables",
     "problemSlug": "combine-two-tables",
@@ -1092,16 +1105,16 @@
     "path": "Easy/0596_Classes_With_at_Least_5_Students.sql"
   },
   {
-    "problemId": "50",
-    "problemTitle": "Pow(x, n)",
-    "problemSlug": "powx-n",
+    "problemId": "2050",
+    "problemTitle": "Count Good Numbers",
+    "problemSlug": "count-good-numbers",
     "difficulty": "Medium",
     "language": "Java",
     "extension": "java",
     "runtime": "0 ms",
-    "memory": "48.1 MB",
-    "submissionId": "2080759967",
-    "timestamp": "1784984970",
-    "path": "Medium/0050_Powx_n.java"
+    "memory": "42.1 MB",
+    "submissionId": "2080817312",
+    "timestamp": "1784988309",
+    "path": "Medium/2050_Count_Good_Numbers.java"
   }
 ]
