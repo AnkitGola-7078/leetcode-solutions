@@ -1072,10 +1072,10 @@
     "difficulty": "Medium",
     "language": "Java",
     "extension": "java",
-    "runtime": "32 ms",
+    "runtime": "3 ms",
     "memory": "47.7 MB",
-    "submissionId": "2080548371",
-    "timestamp": "1784971432",
+    "submissionId": "2080551772",
+    "timestamp": "1784971641",
     "path": "Medium/3453_Generate_Binary_Strings_Without_Adjacent_Zeros.java"
   }
 ]
