@@ -975,6 +975,19 @@
     "path": "Medium/0078_Subsets.java"
   },
   {
+    "problemId": "40",
+    "problemTitle": "Combination Sum II",
+    "problemSlug": "combination-sum-ii",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "7 ms",
+    "memory": "45.2 MB",
+    "submissionId": "2080026041",
+    "timestamp": "1784921698",
+    "path": "Medium/0040_Combination_Sum_II.java"
+  },
+  {
     "problemId": "175",
     "problemTitle": "Combine Two Tables",
     "problemSlug": "combine-two-tables",
@@ -1053,16 +1066,16 @@
     "path": "Easy/0596_Classes_With_at_Least_5_Students.sql"
   },
   {
-    "problemId": "40",
-    "problemTitle": "Combination Sum II",
-    "problemSlug": "combination-sum-ii",
+    "problemId": "3453",
+    "problemTitle": "Generate Binary Strings Without Adjacent Zeros",
+    "problemSlug": "generate-binary-strings-without-adjacent-zeros",
     "difficulty": "Medium",
     "language": "Java",
     "extension": "java",
-    "runtime": "7 ms",
-    "memory": "45.2 MB",
-    "submissionId": "2080026041",
-    "timestamp": "1784921698",
-    "path": "Medium/0040_Combination_Sum_II.java"
+    "runtime": "32 ms",
+    "memory": "47.7 MB",
+    "submissionId": "2080548371",
+    "timestamp": "1784971432",
+    "path": "Medium/3453_Generate_Binary_Strings_Without_Adjacent_Zeros.java"
   }
 ]
