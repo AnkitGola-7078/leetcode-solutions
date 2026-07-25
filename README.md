@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 83
+Total Solved: 84
 
 ## Easy
 
@@ -53,6 +53,7 @@ Total Solved: 83
 ## Medium
 
 - Container With Most Water ([Java](Medium/0011_Container_With_Most_Water.java))
+- Letter Combinations of a Phone Number ([Java](Medium/0017_Letter_Combinations_of_a_Phone_Number.java))
 - Generate Parentheses ([Java](Medium/0022_Generate_Parentheses.java))
 - Combination Sum ([Java](Medium/0039_Combination_Sum.java))
 - Combination Sum II ([Java](Medium/0040_Combination_Sum_II.java))
@@ -99,7 +100,7 @@ Total Solved: 83
 | Difficulty | Count |
 |------------|--------|
 | Easy | 45 |
-| Medium | 37 |
+| Medium | 38 |
 | Hard | 1 |
 
 ---
