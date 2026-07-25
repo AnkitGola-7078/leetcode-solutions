@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 82
+Total Solved: 83
 
 ## Easy
 
@@ -82,6 +82,7 @@ Total Solved: 82
 - Ways to Express an Integer as Sum of Powers ([Java](Medium/2882_Ways_to_Express_an_Integer_as_Sum_of_Powers.java))
 - Find the Safest Path in a Grid ([Java](Medium/2914_Find_the_Safest_Path_in_a_Grid.java))
 - Special Array II ([Java](Medium/3427_Special_Array_II.java))
+- Generate Binary Strings Without Adjacent Zeros ([Java](Medium/3453_Generate_Binary_Strings_Without_Adjacent_Zeros.java))
 - Find a Safe Walk Through a Grid ([Java](Medium/3558_Find_a_Safe_Walk_Through_a_Grid.java))
 - Maximize Active Section with Trade I ([Java](Medium/3805_Maximize_Active_Section_with_Trade_I.java))
 - Number of Unique XOR Triplets I ([Java](Medium/3824_Number_of_Unique_XOR_Triplets_I.java))
@@ -98,7 +99,7 @@ Total Solved: 82
 | Difficulty | Count |
 |------------|--------|
 | Easy | 45 |
-| Medium | 36 |
+| Medium | 37 |
 | Hard | 1 |
 
 ---
