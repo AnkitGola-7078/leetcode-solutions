@@ -1027,6 +1027,19 @@
     "path": "Medium/0050_Powx_n.java"
   },
   {
+    "problemId": "2050",
+    "problemTitle": "Count Good Numbers",
+    "problemSlug": "count-good-numbers",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "0 ms",
+    "memory": "42.1 MB",
+    "submissionId": "2080817312",
+    "timestamp": "1784988309",
+    "path": "Medium/2050_Count_Good_Numbers.java"
+  },
+  {
     "problemId": "175",
     "problemTitle": "Combine Two Tables",
     "problemSlug": "combine-two-tables",
@@ -1105,16 +1118,16 @@
     "path": "Easy/0596_Classes_With_at_Least_5_Students.sql"
   },
   {
-    "problemId": "2050",
-    "problemTitle": "Count Good Numbers",
-    "problemSlug": "count-good-numbers",
+    "problemId": "494",
+    "problemTitle": "Target Sum",
+    "problemSlug": "target-sum",
     "difficulty": "Medium",
     "language": "Java",
     "extension": "java",
-    "runtime": "0 ms",
-    "memory": "42.1 MB",
-    "submissionId": "2080817312",
-    "timestamp": "1784988309",
-    "path": "Medium/2050_Count_Good_Numbers.java"
+    "runtime": "557 ms",
+    "memory": "42.8 MB",
+    "submissionId": "2081668749",
+    "timestamp": "1785048519",
+    "path": "Medium/0494_Target_Sum.java"
   }
 ]
