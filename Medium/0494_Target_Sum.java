@@ -3,8 +3,8 @@
  * Problem ID: 494
  * Difficulty: Medium
  * Language: Java
- * Runtime: 107 ms
- * Memory: 47.3 MB
+ * Runtime: 106 ms
+ * Memory: 47.5 MB
  * Synced From: LeetCode
  * Date: 2026-07-26
  */
@@ -20,7 +20,7 @@ class Solution {
         int ans=f(nums,t,s+nums[i],i+1,dp)+f(nums,t,s-nums[i],i+1,dp);
         dp.put(key,ans);
         return ans;
-
+        
     }
     public int findTargetSumWays(int[] nums, int target) {
         Map<String,Integer> dp=new HashMap<>();
