@@ -1124,10 +1124,10 @@
     "difficulty": "Medium",
     "language": "Java",
     "extension": "java",
-    "runtime": "107 ms",
-    "memory": "47.3 MB",
-    "submissionId": "2081705356",
-    "timestamp": "1785050453",
+    "runtime": "106 ms",
+    "memory": "47.5 MB",
+    "submissionId": "2081707166",
+    "timestamp": "1785050556",
     "path": "Medium/0494_Target_Sum.java"
   }
 ]
