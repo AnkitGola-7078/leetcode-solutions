@@ -1079,6 +1079,19 @@
     "path": "Medium/3209_Minimum_Number_of_Coins_for_Fruits.java"
   },
   {
+    "problemId": "1537",
+    "problemTitle": "Maximum Score After Splitting a String",
+    "problemSlug": "maximum-score-after-splitting-a-string",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "1 ms",
+    "memory": "42.5 MB",
+    "submissionId": "2083514535",
+    "timestamp": "1785164171",
+    "path": "Easy/1537_Maximum_Score_After_Splitting_a_String.java"
+  },
+  {
     "problemId": "175",
     "problemTitle": "Combine Two Tables",
     "problemSlug": "combine-two-tables",
@@ -1157,16 +1170,16 @@
     "path": "Easy/0596_Classes_With_at_Least_5_Students.sql"
   },
   {
-    "problemId": "1537",
-    "problemTitle": "Maximum Score After Splitting a String",
-    "problemSlug": "maximum-score-after-splitting-a-string",
-    "difficulty": "Easy",
+    "problemId": "2342",
+    "problemTitle": "Minimum Average Difference",
+    "problemSlug": "minimum-average-difference",
+    "difficulty": "Medium",
     "language": "Java",
     "extension": "java",
-    "runtime": "1 ms",
-    "memory": "42.5 MB",
-    "submissionId": "2083514535",
-    "timestamp": "1785164171",
-    "path": "Easy/1537_Maximum_Score_After_Splitting_a_String.java"
+    "runtime": "5 ms",
+    "memory": "91.5 MB",
+    "submissionId": "2083586297",
+    "timestamp": "1785167418",
+    "path": "Medium/2342_Minimum_Average_Difference.java"
   }
 ]
