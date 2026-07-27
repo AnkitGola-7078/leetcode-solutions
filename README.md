@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 88
+Total Solved: 89
 
 ## Easy
 
@@ -86,6 +86,7 @@ Total Solved: 88
 - Append Characters to String to Make Subsequence ([Java](Medium/2572_Append_Characters_to_String_to_Make_Subsequence.java))
 - Ways to Express an Integer as Sum of Powers ([Java](Medium/2882_Ways_to_Express_an_Integer_as_Sum_of_Powers.java))
 - Find the Safest Path in a Grid ([Java](Medium/2914_Find_the_Safest_Path_in_a_Grid.java))
+- Minimum Number of Coins for Fruits ([Java](Medium/3209_Minimum_Number_of_Coins_for_Fruits.java))
 - Special Array II ([Java](Medium/3427_Special_Array_II.java))
 - Generate Binary Strings Without Adjacent Zeros ([Java](Medium/3453_Generate_Binary_Strings_Without_Adjacent_Zeros.java))
 - Find a Safe Walk Through a Grid ([Java](Medium/3558_Find_a_Safe_Walk_Through_a_Grid.java))
@@ -104,7 +105,7 @@ Total Solved: 88
 | Difficulty | Count |
 |------------|--------|
 | Easy | 46 |
-| Medium | 41 |
+| Medium | 42 |
 | Hard | 1 |
 
 ---
