@@ -1066,6 +1066,19 @@
     "path": "Easy/0455_Assign_Cookies.java"
   },
   {
+    "problemId": "3209",
+    "problemTitle": "Minimum Number of Coins for Fruits",
+    "problemSlug": "minimum-number-of-coins-for-fruits",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "42 ms",
+    "memory": "63.6 MB",
+    "submissionId": "2083005756",
+    "timestamp": "1785137083",
+    "path": "Medium/3209_Minimum_Number_of_Coins_for_Fruits.java"
+  },
+  {
     "problemId": "175",
     "problemTitle": "Combine Two Tables",
     "problemSlug": "combine-two-tables",
@@ -1144,16 +1157,16 @@
     "path": "Easy/0596_Classes_With_at_Least_5_Students.sql"
   },
   {
-    "problemId": "3209",
-    "problemTitle": "Minimum Number of Coins for Fruits",
-    "problemSlug": "minimum-number-of-coins-for-fruits",
-    "difficulty": "Medium",
+    "problemId": "1537",
+    "problemTitle": "Maximum Score After Splitting a String",
+    "problemSlug": "maximum-score-after-splitting-a-string",
+    "difficulty": "Easy",
     "language": "Java",
     "extension": "java",
-    "runtime": "42 ms",
-    "memory": "63.6 MB",
-    "submissionId": "2083005756",
-    "timestamp": "1785137083",
-    "path": "Medium/3209_Minimum_Number_of_Coins_for_Fruits.java"
+    "runtime": "1 ms",
+    "memory": "42.5 MB",
+    "submissionId": "2083514535",
+    "timestamp": "1785164171",
+    "path": "Easy/1537_Maximum_Score_After_Splitting_a_String.java"
   }
 ]
