@@ -1053,6 +1053,19 @@
     "path": "Medium/0494_Target_Sum.java"
   },
   {
+    "problemId": "455",
+    "problemTitle": "Assign Cookies",
+    "problemSlug": "assign-cookies",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "14 ms",
+    "memory": "51.6 MB",
+    "submissionId": "2082976546",
+    "timestamp": "1785135580",
+    "path": "Easy/0455_Assign_Cookies.java"
+  },
+  {
     "problemId": "175",
     "problemTitle": "Combine Two Tables",
     "problemSlug": "combine-two-tables",
@@ -1131,16 +1144,16 @@
     "path": "Easy/0596_Classes_With_at_Least_5_Students.sql"
   },
   {
-    "problemId": "455",
-    "problemTitle": "Assign Cookies",
-    "problemSlug": "assign-cookies",
-    "difficulty": "Easy",
+    "problemId": "3209",
+    "problemTitle": "Minimum Number of Coins for Fruits",
+    "problemSlug": "minimum-number-of-coins-for-fruits",
+    "difficulty": "Medium",
     "language": "Java",
     "extension": "java",
-    "runtime": "14 ms",
-    "memory": "51.6 MB",
-    "submissionId": "2082976546",
-    "timestamp": "1785135580",
-    "path": "Easy/0455_Assign_Cookies.java"
+    "runtime": "42 ms",
+    "memory": "63.6 MB",
+    "submissionId": "2083005756",
+    "timestamp": "1785137083",
+    "path": "Medium/3209_Minimum_Number_of_Coins_for_Fruits.java"
   }
 ]
