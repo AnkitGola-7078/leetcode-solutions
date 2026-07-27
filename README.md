@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 89
+Total Solved: 90
 
 ## Easy
 
@@ -25,6 +25,7 @@ Total Solved: 89
 - Shift 2D Grid ([Java](Easy/1386_Shift_2D_Grid.java))
 - Find Lucky Integer in an Array ([Java](Easy/1510_Find_Lucky_Integer_in_an_Array.java))
 - Minimum Value to Get Positive Step by Step Sum ([Java](Easy/1514_Minimum_Value_to_Get_Positive_Step_by_Step_Sum.java))
+- Maximum Score After Splitting a String ([Java](Easy/1537_Maximum_Score_After_Splitting_a_String.java))
 - Matrix Diagonal Sum ([Java](Easy/1677_Matrix_Diagonal_Sum.java))
 - Special Positions in a Binary Matrix ([Java](Easy/1704_Special_Positions_in_a_Binary_Matrix.java))
 - Widest Vertical Area Between Two Points Containing No Points ([Java](Easy/1742_Widest_Vertical_Area_Between_Two_Points_Containing_No_Points.java))
@@ -104,7 +105,7 @@ Total Solved: 89
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 46 |
+| Easy | 47 |
 | Medium | 42 |
 | Hard | 1 |
 
