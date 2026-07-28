@@ -1105,6 +1105,19 @@
     "path": "Medium/2342_Minimum_Average_Difference.java"
   },
   {
+    "problemId": "547",
+    "problemTitle": "Number of Provinces",
+    "problemSlug": "number-of-provinces",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "0 ms",
+    "memory": "47.4 MB",
+    "submissionId": "2084568822",
+    "timestamp": "1785232436",
+    "path": "Medium/0547_Number_of_Provinces.java"
+  },
+  {
     "problemId": "175",
     "problemTitle": "Combine Two Tables",
     "problemSlug": "combine-two-tables",
@@ -1183,16 +1196,16 @@
     "path": "Easy/0596_Classes_With_at_Least_5_Students.sql"
   },
   {
-    "problemId": "547",
-    "problemTitle": "Number of Provinces",
-    "problemSlug": "number-of-provinces",
+    "problemId": "474",
+    "problemTitle": "Ones and Zeroes",
+    "problemSlug": "ones-and-zeroes",
     "difficulty": "Medium",
     "language": "Java",
     "extension": "java",
-    "runtime": "0 ms",
-    "memory": "47.4 MB",
-    "submissionId": "2084568822",
-    "timestamp": "1785232436",
-    "path": "Medium/0547_Number_of_Provinces.java"
+    "runtime": "69 ms",
+    "memory": "99.6 MB",
+    "submissionId": "2084976406",
+    "timestamp": "1785253236",
+    "path": "Medium/0474_Ones_and_Zeroes.java"
   }
 ]
