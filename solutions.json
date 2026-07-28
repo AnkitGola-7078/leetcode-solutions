@@ -1092,6 +1092,19 @@
     "path": "Easy/1537_Maximum_Score_After_Splitting_a_String.java"
   },
   {
+    "problemId": "2342",
+    "problemTitle": "Minimum Average Difference",
+    "problemSlug": "minimum-average-difference",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "5 ms",
+    "memory": "91.5 MB",
+    "submissionId": "2083586297",
+    "timestamp": "1785167418",
+    "path": "Medium/2342_Minimum_Average_Difference.java"
+  },
+  {
     "problemId": "175",
     "problemTitle": "Combine Two Tables",
     "problemSlug": "combine-two-tables",
@@ -1170,16 +1183,16 @@
     "path": "Easy/0596_Classes_With_at_Least_5_Students.sql"
   },
   {
-    "problemId": "2342",
-    "problemTitle": "Minimum Average Difference",
-    "problemSlug": "minimum-average-difference",
+    "problemId": "547",
+    "problemTitle": "Number of Provinces",
+    "problemSlug": "number-of-provinces",
     "difficulty": "Medium",
     "language": "Java",
     "extension": "java",
-    "runtime": "5 ms",
-    "memory": "91.5 MB",
-    "submissionId": "2083586297",
-    "timestamp": "1785167418",
-    "path": "Medium/2342_Minimum_Average_Difference.java"
+    "runtime": "0 ms",
+    "memory": "47.4 MB",
+    "submissionId": "2084568822",
+    "timestamp": "1785232436",
+    "path": "Medium/0547_Number_of_Provinces.java"
   }
 ]
