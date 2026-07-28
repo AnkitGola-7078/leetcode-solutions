@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 92
+Total Solved: 93
 
 ## Easy
 
@@ -74,6 +74,7 @@ Total Solved: 92
 - Coin Change ([Java](Medium/0322_Coin_Change.java))
 - Partition Equal Subset Sum ([Java](Medium/0416_Partition_Equal_Subset_Sum.java))
 - String Compression ([Java](Medium/0443_String_Compression.java))
+- Ones and Zeroes ([Java](Medium/0474_Ones_and_Zeroes.java))
 - Target Sum ([Java](Medium/0494_Target_Sum.java))
 - Coin Change II ([Java](Medium/0518_Coin_Change_II.java))
 - Number of Provinces ([Java](Medium/0547_Number_of_Provinces.java))
@@ -108,7 +109,7 @@ Total Solved: 92
 | Difficulty | Count |
 |------------|--------|
 | Easy | 47 |
-| Medium | 44 |
+| Medium | 45 |
 | Hard | 1 |
 
 ---
