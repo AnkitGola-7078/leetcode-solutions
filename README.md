@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 91
+Total Solved: 92
 
 ## Easy
 
@@ -76,6 +76,7 @@ Total Solved: 91
 - String Compression ([Java](Medium/0443_String_Compression.java))
 - Target Sum ([Java](Medium/0494_Target_Sum.java))
 - Coin Change II ([Java](Medium/0518_Coin_Change_II.java))
+- Number of Provinces ([Java](Medium/0547_Number_of_Provinces.java))
 - Asteroid Collision ([Java](Medium/0735_Asteroid_Collision.java))
 - Daily Temperatures ([Java](Medium/0739_Daily_Temperatures.java))
 - Boats to Save People ([Java](Medium/0917_Boats_to_Save_People.java))
@@ -107,7 +108,7 @@ Total Solved: 91
 | Difficulty | Count |
 |------------|--------|
 | Easy | 47 |
-| Medium | 43 |
+| Medium | 44 |
 | Hard | 1 |
 
 ---
