@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 94
+Total Solved: 95
 
 ## Easy
 
@@ -18,6 +18,7 @@ Total Solved: 94
 - Next Greater Element I ([Java](Easy/0496_Next_Greater_Element_I.java))
 - Classes With at Least 5 Students ([MySQL](Easy/0596_Classes_With_at_Least_5_Students.sql))
 - Robot Return to Origin ([Java](Easy/0657_Robot_Return_to_Origin.java))
+- Flood Fill ([Java](Easy/0733_Flood_Fill.java))
 - Jewels and Stones ([Java](Easy/0782_Jewels_and_Stones.java))
 - Rank Transform of an Array ([Java](Easy/1256_Rank_Transform_of_an_Array.java))
 - Maximum Number of Balloons ([Java](Easy/1297_Maximum_Number_of_Balloons.java))
@@ -109,7 +110,7 @@ Total Solved: 94
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 47 |
+| Easy | 48 |
 | Medium | 46 |
 | Hard | 1 |
 
