@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 93
+Total Solved: 94
 
 ## Easy
 
@@ -69,6 +69,7 @@ Total Solved: 93
 - Maximum Gap ([Java](Medium/0164_Maximum_Gap.java))
 - Largest Number ([Java](Medium/0179_Largest_Number.java))
 - House Robber ([Java](Medium/0198_House_Robber.java))
+- Number of Islands ([Java](Medium/0200_Number_of_Islands.java))
 - House Robber II ([Java](Medium/0213_House_Robber_II.java))
 - Combination Sum III ([Java](Medium/0216_Combination_Sum_III.java))
 - Coin Change ([Java](Medium/0322_Coin_Change.java))
@@ -109,7 +110,7 @@ Total Solved: 93
 | Difficulty | Count |
 |------------|--------|
 | Easy | 47 |
-| Medium | 45 |
+| Medium | 46 |
 | Hard | 1 |
 
 ---
