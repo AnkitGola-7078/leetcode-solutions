@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 95
+Total Solved: 96
 
 ## Easy
 
@@ -46,6 +46,7 @@ Total Solved: 95
 - Left and Right Sum Differences ([Java](Easy/2714_Left_and_Right_Sum_Differences.java))
 - Number of Employees Who Met the Target ([Java](Easy/2876_Number_of_Employees_Who_Met_the_Target.java))
 - Split Strings by Separator ([Java](Easy/2881_Split_Strings_by_Separator.java))
+- Minimum Number of Pushes to Type Word I ([Java](Easy/3275_Minimum_Number_of_Pushes_to_Type_Word_I.java))
 - Minimum Operations to Exceed Threshold Value I ([Java](Easy/3331_Minimum_Operations_to_Exceed_Threshold_Value_I.java))
 - Special Array I ([Java](Easy/3429_Special_Array_I.java))
 - GCD of Odd and Even Sums ([Java](Easy/3995_GCD_of_Odd_and_Even_Sums.java))
@@ -110,7 +111,7 @@ Total Solved: 95
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 48 |
+| Easy | 49 |
 | Medium | 46 |
 | Hard | 1 |
 
