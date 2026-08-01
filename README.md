@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 96
+Total Solved: 97
 
 ## Easy
 
@@ -78,6 +78,7 @@ Total Solved: 96
 - Partition Equal Subset Sum ([Java](Medium/0416_Partition_Equal_Subset_Sum.java))
 - String Compression ([Java](Medium/0443_String_Compression.java))
 - Ones and Zeroes ([Java](Medium/0474_Ones_and_Zeroes.java))
+- Predict the Winner ([Java](Medium/0486_Predict_the_Winner.java))
 - Target Sum ([Java](Medium/0494_Target_Sum.java))
 - Coin Change II ([Java](Medium/0518_Coin_Change_II.java))
 - Number of Provinces ([Java](Medium/0547_Number_of_Provinces.java))
@@ -112,7 +113,7 @@ Total Solved: 96
 | Difficulty | Count |
 |------------|--------|
 | Easy | 49 |
-| Medium | 46 |
+| Medium | 47 |
 | Hard | 1 |
 
 ---
