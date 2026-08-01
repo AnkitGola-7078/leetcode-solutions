@@ -1157,6 +1157,19 @@
     "path": "Easy/0733_Flood_Fill.java"
   },
   {
+    "problemId": "3275",
+    "problemTitle": "Minimum Number of Pushes to Type Word I",
+    "problemSlug": "minimum-number-of-pushes-to-type-word-i",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "0 ms",
+    "memory": "43.1 MB",
+    "submissionId": "2087959128",
+    "timestamp": "1785436867",
+    "path": "Easy/3275_Minimum_Number_of_Pushes_to_Type_Word_I.java"
+  },
+  {
     "problemId": "175",
     "problemTitle": "Combine Two Tables",
     "problemSlug": "combine-two-tables",
@@ -1235,16 +1248,16 @@
     "path": "Easy/0596_Classes_With_at_Least_5_Students.sql"
   },
   {
-    "problemId": "3275",
-    "problemTitle": "Minimum Number of Pushes to Type Word I",
-    "problemSlug": "minimum-number-of-pushes-to-type-word-i",
-    "difficulty": "Easy",
+    "problemId": "486",
+    "problemTitle": "Predict the Winner",
+    "problemSlug": "predict-the-winner",
+    "difficulty": "Medium",
     "language": "Java",
     "extension": "java",
-    "runtime": "0 ms",
-    "memory": "43.1 MB",
-    "submissionId": "2087959128",
-    "timestamp": "1785436867",
-    "path": "Easy/3275_Minimum_Number_of_Pushes_to_Type_Word_I.java"
+    "runtime": "59 ms",
+    "memory": "42.8 MB",
+    "submissionId": "2090299656",
+    "timestamp": "1785601657",
+    "path": "Medium/0486_Predict_the_Winner.java"
   }
 ]
