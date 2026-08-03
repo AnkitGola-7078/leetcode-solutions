@@ -1183,6 +1183,19 @@
     "path": "Medium/0486_Predict_the_Winner.java"
   },
   {
+    "problemId": "1522",
+    "problemTitle": "Stone Game III",
+    "problemSlug": "stone-game-iii",
+    "difficulty": "Hard",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "7 ms",
+    "memory": "85.3 MB",
+    "submissionId": "2092625904",
+    "timestamp": "1785762208",
+    "path": "Hard/1522_Stone_Game_III.java"
+  },
+  {
     "problemId": "175",
     "problemTitle": "Combine Two Tables",
     "problemSlug": "combine-two-tables",
@@ -1261,16 +1274,16 @@
     "path": "Easy/0596_Classes_With_at_Least_5_Students.sql"
   },
   {
-    "problemId": "1522",
-    "problemTitle": "Stone Game III",
-    "problemSlug": "stone-game-iii",
-    "difficulty": "Hard",
+    "problemId": "146",
+    "problemTitle": "LRU Cache",
+    "problemSlug": "lru-cache",
+    "difficulty": "Medium",
     "language": "Java",
     "extension": "java",
-    "runtime": "7 ms",
-    "memory": "85.3 MB",
-    "submissionId": "2092625904",
-    "timestamp": "1785762208",
-    "path": "Hard/1522_Stone_Game_III.java"
+    "runtime": "49 ms",
+    "memory": "129.8 MB",
+    "submissionId": "2092805467",
+    "timestamp": "1785770444",
+    "path": "Medium/0146_LRU_Cache.java"
   }
 ]
