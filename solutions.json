@@ -1170,6 +1170,19 @@
     "path": "Easy/3275_Minimum_Number_of_Pushes_to_Type_Word_I.java"
   },
   {
+    "problemId": "486",
+    "problemTitle": "Predict the Winner",
+    "problemSlug": "predict-the-winner",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "59 ms",
+    "memory": "42.8 MB",
+    "submissionId": "2090299656",
+    "timestamp": "1785601657",
+    "path": "Medium/0486_Predict_the_Winner.java"
+  },
+  {
     "problemId": "175",
     "problemTitle": "Combine Two Tables",
     "problemSlug": "combine-two-tables",
@@ -1248,16 +1261,16 @@
     "path": "Easy/0596_Classes_With_at_Least_5_Students.sql"
   },
   {
-    "problemId": "486",
-    "problemTitle": "Predict the Winner",
-    "problemSlug": "predict-the-winner",
-    "difficulty": "Medium",
+    "problemId": "1522",
+    "problemTitle": "Stone Game III",
+    "problemSlug": "stone-game-iii",
+    "difficulty": "Hard",
     "language": "Java",
     "extension": "java",
-    "runtime": "59 ms",
-    "memory": "42.8 MB",
-    "submissionId": "2090299656",
-    "timestamp": "1785601657",
-    "path": "Medium/0486_Predict_the_Winner.java"
+    "runtime": "7 ms",
+    "memory": "85.3 MB",
+    "submissionId": "2092625904",
+    "timestamp": "1785762208",
+    "path": "Hard/1522_Stone_Game_III.java"
   }
 ]
