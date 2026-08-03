@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 97
+Total Solved: 98
 
 ## Easy
 
@@ -107,6 +107,7 @@ Total Solved: 97
 ## Hard
 
 - Largest Rectangle in Histogram ([Java](Hard/0084_Largest_Rectangle_in_Histogram.java))
+- Stone Game III ([Java](Hard/1522_Stone_Game_III.java))
 
 ## Statistics
 
@@ -114,7 +115,7 @@ Total Solved: 97
 |------------|--------|
 | Easy | 49 |
 | Medium | 47 |
-| Hard | 1 |
+| Hard | 2 |
 
 ---
 *README.md automatically updated by [LeetCelebrate](https://github.com/)*
