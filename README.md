@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 100
+Total Solved: 101
 
 ## Easy
 
@@ -38,6 +38,7 @@ Total Solved: 100
 - Maximum Product Difference Between Two Pairs ([Java](Easy/2042_Maximum_Product_Difference_Between_Two_Pairs.java))
 - Three Divisors ([Java](Easy/2083_Three_Divisors.java))
 - Find Greatest Common Divisor of Array ([Java](Easy/2106_Find_Greatest_Common_Divisor_of_Array.java))
+- Number of Valid Words in a Sentence ([Java](Easy/2173_Number_of_Valid_Words_in_a_Sentence.java))
 - Two Furthest Houses With Different Colors ([Java](Easy/2199_Two_Furthest_Houses_With_Different_Colors.java))
 - Maximum Number of Words Found in Sentences ([Java](Easy/2219_Maximum_Number_of_Words_Found_in_Sentences.java))
 - Counting Words With a Given Prefix ([Java](Easy/2292_Counting_Words_With_a_Given_Prefix.java))
@@ -115,7 +116,7 @@ Total Solved: 100
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 50 |
+| Easy | 51 |
 | Medium | 48 |
 | Hard | 2 |
 
