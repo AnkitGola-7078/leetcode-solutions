@@ -1222,6 +1222,19 @@
     "path": "Easy/2219_Maximum_Number_of_Words_Found_in_Sentences.java"
   },
   {
+    "problemId": "2173",
+    "problemTitle": "Number of Valid Words in a Sentence",
+    "problemSlug": "number-of-valid-words-in-a-sentence",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "41 ms",
+    "memory": "47.7 MB",
+    "submissionId": "2094225444",
+    "timestamp": "1785858633",
+    "path": "Easy/2173_Number_of_Valid_Words_in_a_Sentence.java"
+  },
+  {
     "problemId": "175",
     "problemTitle": "Combine Two Tables",
     "problemSlug": "combine-two-tables",
@@ -1300,16 +1313,16 @@
     "path": "Easy/0596_Classes_With_at_Least_5_Students.sql"
   },
   {
-    "problemId": "2173",
-    "problemTitle": "Number of Valid Words in a Sentence",
-    "problemSlug": "number-of-valid-words-in-a-sentence",
-    "difficulty": "Easy",
+    "problemId": "1250",
+    "problemTitle": "Longest Common Subsequence",
+    "problemSlug": "longest-common-subsequence",
+    "difficulty": "Medium",
     "language": "Java",
     "extension": "java",
-    "runtime": "41 ms",
-    "memory": "47.7 MB",
-    "submissionId": "2094225444",
-    "timestamp": "1785858633",
-    "path": "Easy/2173_Number_of_Valid_Words_in_a_Sentence.java"
+    "runtime": "32 ms",
+    "memory": "53.9 MB",
+    "submissionId": "2094333731",
+    "timestamp": "1785862823",
+    "path": "Medium/1250_Longest_Common_Subsequence.java"
   }
 ]
