@@ -1196,6 +1196,19 @@
     "path": "Hard/1522_Stone_Game_III.java"
   },
   {
+    "problemId": "146",
+    "problemTitle": "LRU Cache",
+    "problemSlug": "lru-cache",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "49 ms",
+    "memory": "129.8 MB",
+    "submissionId": "2092805467",
+    "timestamp": "1785770444",
+    "path": "Medium/0146_LRU_Cache.java"
+  },
+  {
     "problemId": "175",
     "problemTitle": "Combine Two Tables",
     "problemSlug": "combine-two-tables",
@@ -1274,16 +1287,16 @@
     "path": "Easy/0596_Classes_With_at_Least_5_Students.sql"
   },
   {
-    "problemId": "146",
-    "problemTitle": "LRU Cache",
-    "problemSlug": "lru-cache",
-    "difficulty": "Medium",
+    "problemId": "2219",
+    "problemTitle": "Maximum Number of Words Found in Sentences",
+    "problemSlug": "maximum-number-of-words-found-in-sentences",
+    "difficulty": "Easy",
     "language": "Java",
     "extension": "java",
-    "runtime": "49 ms",
-    "memory": "129.8 MB",
-    "submissionId": "2092805467",
-    "timestamp": "1785770444",
-    "path": "Medium/0146_LRU_Cache.java"
+    "runtime": "3 ms",
+    "memory": "46 MB",
+    "submissionId": "2094171890",
+    "timestamp": "1785856291",
+    "path": "Easy/2219_Maximum_Number_of_Words_Found_in_Sentences.java"
   }
 ]
