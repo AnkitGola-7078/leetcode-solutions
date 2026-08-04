@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 101
+Total Solved: 102
 
 ## Easy
 
@@ -91,6 +91,7 @@ Total Solved: 101
 - Minimum Falling Path Sum ([Java](Medium/0967_Minimum_Falling_Path_Sum.java))
 - K Closest Points to Origin ([Java](Medium/1014_K_Closest_Points_to_Origin.java))
 - Remove Covered Intervals ([Java](Medium/1222_Remove_Covered_Intervals.java))
+- Longest Common Subsequence ([Java](Medium/1250_Longest_Common_Subsequence.java))
 - Maximum Points You Can Obtain from Cards ([Java](Medium/1538_Maximum_Points_You_Can_Obtain_from_Cards.java))
 - Count Good Numbers ([Java](Medium/2050_Count_Good_Numbers.java))
 - Minimum Average Difference ([Java](Medium/2342_Minimum_Average_Difference.java))
@@ -117,7 +118,7 @@ Total Solved: 101
 | Difficulty | Count |
 |------------|--------|
 | Easy | 51 |
-| Medium | 48 |
+| Medium | 49 |
 | Hard | 2 |
 
 ---
