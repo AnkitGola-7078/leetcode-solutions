@@ -1248,6 +1248,19 @@
     "path": "Medium/1250_Longest_Common_Subsequence.java"
   },
   {
+    "problemId": "1170",
+    "problemTitle": "Shortest Common Supersequence ",
+    "problemSlug": "shortest-common-supersequence",
+    "difficulty": "Hard",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "25 ms",
+    "memory": "54.1 MB",
+    "submissionId": "2095636210",
+    "timestamp": "1785949103",
+    "path": "Hard/1170_Shortest_Common_Supersequence_.java"
+  },
+  {
     "problemId": "175",
     "problemTitle": "Combine Two Tables",
     "problemSlug": "combine-two-tables",
@@ -1326,16 +1339,16 @@
     "path": "Easy/0596_Classes_With_at_Least_5_Students.sql"
   },
   {
-    "problemId": "1170",
-    "problemTitle": "Shortest Common Supersequence ",
-    "problemSlug": "shortest-common-supersequence",
-    "difficulty": "Hard",
+    "problemId": "72",
+    "problemTitle": "Edit Distance",
+    "problemSlug": "edit-distance",
+    "difficulty": "Medium",
     "language": "Java",
     "extension": "java",
-    "runtime": "25 ms",
-    "memory": "54.1 MB",
-    "submissionId": "2095636210",
-    "timestamp": "1785949103",
-    "path": "Hard/1170_Shortest_Common_Supersequence_.java"
+    "runtime": "3 ms",
+    "memory": "47.4 MB",
+    "submissionId": "2095703394",
+    "timestamp": "1785951656",
+    "path": "Medium/0072_Edit_Distance.java"
   }
 ]
