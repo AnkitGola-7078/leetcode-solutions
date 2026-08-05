@@ -1235,6 +1235,19 @@
     "path": "Easy/2173_Number_of_Valid_Words_in_a_Sentence.java"
   },
   {
+    "problemId": "1250",
+    "problemTitle": "Longest Common Subsequence",
+    "problemSlug": "longest-common-subsequence",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "32 ms",
+    "memory": "53.9 MB",
+    "submissionId": "2094333731",
+    "timestamp": "1785862823",
+    "path": "Medium/1250_Longest_Common_Subsequence.java"
+  },
+  {
     "problemId": "175",
     "problemTitle": "Combine Two Tables",
     "problemSlug": "combine-two-tables",
@@ -1311,18 +1324,5 @@
     "submissionId": "2071477608",
     "timestamp": "1784312749",
     "path": "Easy/0596_Classes_With_at_Least_5_Students.sql"
-  },
-  {
-    "problemId": "1250",
-    "problemTitle": "Longest Common Subsequence",
-    "problemSlug": "longest-common-subsequence",
-    "difficulty": "Medium",
-    "language": "Java",
-    "extension": "java",
-    "runtime": "32 ms",
-    "memory": "53.9 MB",
-    "submissionId": "2094333731",
-    "timestamp": "1785862823",
-    "path": "Medium/1250_Longest_Common_Subsequence.java"
   }
 ]
