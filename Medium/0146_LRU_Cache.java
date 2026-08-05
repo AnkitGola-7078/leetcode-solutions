@@ -6,7 +6,7 @@
  * Runtime: 49 ms
  * Memory: 129.8 MB
  * Synced From: LeetCode
- * Date: 2026-08-03
+ * Date: 2026-08-05
  */
 
 class LRUCache {
