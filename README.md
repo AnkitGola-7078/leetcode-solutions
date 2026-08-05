@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 102
+Total Solved: 103
 
 ## Easy
 
@@ -111,6 +111,7 @@ Total Solved: 102
 ## Hard
 
 - Largest Rectangle in Histogram ([Java](Hard/0084_Largest_Rectangle_in_Histogram.java))
+- Shortest Common Supersequence  ([Java](Hard/1170_Shortest_Common_Supersequence_.java))
 - Stone Game III ([Java](Hard/1522_Stone_Game_III.java))
 
 ## Statistics
@@ -119,7 +120,7 @@ Total Solved: 102
 |------------|--------|
 | Easy | 51 |
 | Medium | 49 |
-| Hard | 2 |
+| Hard | 3 |
 
 ---
 *README.md automatically updated by [LeetCelebrate](https://github.com/)*
