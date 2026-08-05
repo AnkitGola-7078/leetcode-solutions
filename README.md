@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 103
+Total Solved: 104
 
 ## Easy
 
@@ -66,6 +66,7 @@ Total Solved: 103
 - Pow(x, n) ([Java](Medium/0050_Powx_n.java))
 - Unique Paths ([Java](Medium/0062_Unique_Paths.java))
 - Unique Paths II ([Java](Medium/0063_Unique_Paths_II.java))
+- Edit Distance ([Java](Medium/0072_Edit_Distance.java))
 - Subsets ([Java](Medium/0078_Subsets.java))
 - LRU Cache ([Java](Medium/0146_LRU_Cache.java))
 - Evaluate Reverse Polish Notation ([Java](Medium/0150_Evaluate_Reverse_Polish_Notation.java))
@@ -119,7 +120,7 @@ Total Solved: 103
 | Difficulty | Count |
 |------------|--------|
 | Easy | 51 |
-| Medium | 49 |
+| Medium | 50 |
 | Hard | 3 |
 
 ---
