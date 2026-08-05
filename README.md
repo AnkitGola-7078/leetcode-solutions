@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 104
+Total Solved: 105
 
 ## Easy
 
@@ -86,6 +86,7 @@ Total Solved: 104
 - Target Sum ([Java](Medium/0494_Target_Sum.java))
 - Coin Change II ([Java](Medium/0518_Coin_Change_II.java))
 - Number of Provinces ([Java](Medium/0547_Number_of_Provinces.java))
+- Palindromic Substrings ([Java](Medium/0647_Palindromic_Substrings.java))
 - Asteroid Collision ([Java](Medium/0735_Asteroid_Collision.java))
 - Daily Temperatures ([Java](Medium/0739_Daily_Temperatures.java))
 - Boats to Save People ([Java](Medium/0917_Boats_to_Save_People.java))
@@ -120,7 +121,7 @@ Total Solved: 104
 | Difficulty | Count |
 |------------|--------|
 | Easy | 51 |
-| Medium | 50 |
+| Medium | 51 |
 | Hard | 3 |
 
 ---
