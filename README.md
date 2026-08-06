@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 105
+Total Solved: 106
 
 ## Easy
 
@@ -9,6 +9,7 @@ Total Solved: 105
 - Climbing Stairs ([Java](Easy/0070_Climbing_Stairs.java))
 - Pascal's Triangle II ([Java](Easy/0119_Pascals_Triangle_II.java))
 - Best Time to Buy and Sell Stock ([Java](Easy/0121_Best_Time_to_Buy_and_Sell_Stock.java))
+- Binary Tree Preorder Traversal ([Java](Easy/0144_Binary_Tree_Preorder_Traversal.java))
 - Excel Sheet Column Title ([Java](Easy/0168_Excel_Sheet_Column_Title.java))
 - Excel Sheet Column Number ([Java](Easy/0171_Excel_Sheet_Column_Number.java))
 - Combine Two Tables ([MySQL](Easy/0175_Combine_Two_Tables.sql))
@@ -120,7 +121,7 @@ Total Solved: 105
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 51 |
+| Easy | 52 |
 | Medium | 51 |
 | Hard | 3 |
 
