@@ -3,18 +3,17 @@
  * Problem ID: 5
  * Difficulty: Medium
  * Language: Java
- * Runtime: 1754 ms
- * Memory: 43.7 MB
+ * Runtime: 499 ms
+ * Memory: 276.3 MB
  * Synced From: LeetCode
  * Date: 2026-08-06
  */
 
 class Solution {
-    static boolean ispali(int s,int e,String st){
-        int i=s;
-        int j=e-1;
-      
-        while(i<=j){
+    static boolean ispali(int s,int e,String st,Boolean dp[][]){
+        // int i=s;
+        // int j=e-1;
+         /* while(i<=j){
            if(st.charAt(i)==st.charAt(j)){
               i++;
               j--;
@@ -23,29 +22,40 @@ class Solution {
             return false;
            }
         }
-        return true;
+        return true;*/
+
+        //recursive palindrom code
+        if(s>=e) return true;
+        if(dp[s][e]!=null) return dp[s][e];
+        if(st.charAt(s)==st.charAt(e)){
+            dp[s][e]= ispali(s+1,e-1,st,dp);
+        }else{
+            dp[s][e]=false;
+        }
+        return dp[s][e];
+
     }
     public String longestPalindrome(String s) {
-        int st=0;
+        String st="";
         int max=0;
-
-
+        Boolean dp[][]=new Boolean[1001][1001];
+       // for(int a[]:dp) Arrays.fill(a,-1);
         for(int i=0;i<s.length();i++){
-           
+            
             for(int j=i;j<s.length();j++){
-                if(ispali(i,j+1,s)){
-                   // String sub = s.substring(i, j+1);
-                    if(max<j-i+1){
-                        max=j-i+1;
-                        st=i;
+                if(ispali(i,j,s,dp)){
+                    String sub = s.substring(i, j+1);
+                    if(max<sub.length()){
+                        max=sub.length();
+                        st=sub;
                         
                     }
                 }
             }
 
-          
+       
         }
-        return s.substring(st,st+max);
+        return st;
     }
 
 }
