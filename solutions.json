@@ -1313,6 +1313,19 @@
     "path": "Easy/0145_Binary_Tree_Postorder_Traversal.java"
   },
   {
+    "problemId": "5",
+    "problemTitle": "Longest Palindromic Substring",
+    "problemSlug": "longest-palindromic-substring",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "270 ms",
+    "memory": "277.6 MB",
+    "submissionId": "2096402535",
+    "timestamp": "1786005856",
+    "path": "Medium/0005_Longest_Palindromic_Substring.java"
+  },
+  {
     "problemId": "175",
     "problemTitle": "Combine Two Tables",
     "problemSlug": "combine-two-tables",
@@ -1391,16 +1404,16 @@
     "path": "Easy/0596_Classes_With_at_Least_5_Students.sql"
   },
   {
-    "problemId": "5",
-    "problemTitle": "Longest Palindromic Substring",
-    "problemSlug": "longest-palindromic-substring",
+    "problemId": "516",
+    "problemTitle": "Longest Palindromic Subsequence",
+    "problemSlug": "longest-palindromic-subsequence",
     "difficulty": "Medium",
     "language": "Java",
     "extension": "java",
-    "runtime": "270 ms",
-    "memory": "277.6 MB",
-    "submissionId": "2096402535",
-    "timestamp": "1786005856",
-    "path": "Medium/0005_Longest_Palindromic_Substring.java"
+    "runtime": "39 ms",
+    "memory": "64.1 MB",
+    "submissionId": "2096461277",
+    "timestamp": "1786008741",
+    "path": "Medium/0516_Longest_Palindromic_Subsequence.java"
   }
 ]
