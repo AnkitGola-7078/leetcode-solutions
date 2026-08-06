@@ -1287,6 +1287,19 @@
     "path": "Medium/0647_Palindromic_Substrings.java"
   },
   {
+    "problemId": "144",
+    "problemTitle": "Binary Tree Preorder Traversal",
+    "problemSlug": "binary-tree-preorder-traversal",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "0 ms",
+    "memory": "42.6 MB",
+    "submissionId": "2096222386",
+    "timestamp": "1785996440",
+    "path": "Easy/0144_Binary_Tree_Preorder_Traversal.java"
+  },
+  {
     "problemId": "175",
     "problemTitle": "Combine Two Tables",
     "problemSlug": "combine-two-tables",
@@ -1365,16 +1378,16 @@
     "path": "Easy/0596_Classes_With_at_Least_5_Students.sql"
   },
   {
-    "problemId": "144",
-    "problemTitle": "Binary Tree Preorder Traversal",
-    "problemSlug": "binary-tree-preorder-traversal",
+    "problemId": "145",
+    "problemTitle": "Binary Tree Postorder Traversal",
+    "problemSlug": "binary-tree-postorder-traversal",
     "difficulty": "Easy",
     "language": "Java",
     "extension": "java",
     "runtime": "0 ms",
-    "memory": "42.6 MB",
-    "submissionId": "2096222386",
-    "timestamp": "1785996440",
-    "path": "Easy/0144_Binary_Tree_Preorder_Traversal.java"
+    "memory": "43 MB",
+    "submissionId": "2096229944",
+    "timestamp": "1785996757",
+    "path": "Easy/0145_Binary_Tree_Postorder_Traversal.java"
   }
 ]
