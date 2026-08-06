@@ -1274,6 +1274,19 @@
     "path": "Medium/0072_Edit_Distance.java"
   },
   {
+    "problemId": "647",
+    "problemTitle": "Palindromic Substrings",
+    "problemSlug": "palindromic-substrings",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "744 ms",
+    "memory": "42.5 MB",
+    "submissionId": "2095784178",
+    "timestamp": "1785954908",
+    "path": "Medium/0647_Palindromic_Substrings.java"
+  },
+  {
     "problemId": "175",
     "problemTitle": "Combine Two Tables",
     "problemSlug": "combine-two-tables",
@@ -1352,16 +1365,16 @@
     "path": "Easy/0596_Classes_With_at_Least_5_Students.sql"
   },
   {
-    "problemId": "647",
-    "problemTitle": "Palindromic Substrings",
-    "problemSlug": "palindromic-substrings",
-    "difficulty": "Medium",
+    "problemId": "144",
+    "problemTitle": "Binary Tree Preorder Traversal",
+    "problemSlug": "binary-tree-preorder-traversal",
+    "difficulty": "Easy",
     "language": "Java",
     "extension": "java",
-    "runtime": "744 ms",
-    "memory": "42.5 MB",
-    "submissionId": "2095784178",
-    "timestamp": "1785954908",
-    "path": "Medium/0647_Palindromic_Substrings.java"
+    "runtime": "0 ms",
+    "memory": "42.6 MB",
+    "submissionId": "2096222386",
+    "timestamp": "1785996440",
+    "path": "Easy/0144_Binary_Tree_Preorder_Traversal.java"
   }
 ]
