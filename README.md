@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 107
+Total Solved: 108
 
 ## Easy
 
@@ -60,6 +60,7 @@ Total Solved: 107
 
 ## Medium
 
+- Longest Palindromic Substring ([Java](Medium/0005_Longest_Palindromic_Substring.java))
 - Container With Most Water ([Java](Medium/0011_Container_With_Most_Water.java))
 - Letter Combinations of a Phone Number ([Java](Medium/0017_Letter_Combinations_of_a_Phone_Number.java))
 - Generate Parentheses ([Java](Medium/0022_Generate_Parentheses.java))
@@ -123,7 +124,7 @@ Total Solved: 107
 | Difficulty | Count |
 |------------|--------|
 | Easy | 53 |
-| Medium | 51 |
+| Medium | 52 |
 | Hard | 3 |
 
 ---
