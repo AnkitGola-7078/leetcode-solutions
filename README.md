@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 108
+Total Solved: 109
 
 ## Easy
 
@@ -87,6 +87,7 @@ Total Solved: 108
 - Ones and Zeroes ([Java](Medium/0474_Ones_and_Zeroes.java))
 - Predict the Winner ([Java](Medium/0486_Predict_the_Winner.java))
 - Target Sum ([Java](Medium/0494_Target_Sum.java))
+- Longest Palindromic Subsequence ([Java](Medium/0516_Longest_Palindromic_Subsequence.java))
 - Coin Change II ([Java](Medium/0518_Coin_Change_II.java))
 - Number of Provinces ([Java](Medium/0547_Number_of_Provinces.java))
 - Palindromic Substrings ([Java](Medium/0647_Palindromic_Substrings.java))
@@ -124,7 +125,7 @@ Total Solved: 108
 | Difficulty | Count |
 |------------|--------|
 | Easy | 53 |
-| Medium | 52 |
+| Medium | 53 |
 | Hard | 3 |
 
 ---
