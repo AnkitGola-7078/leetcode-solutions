@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 109
+Total Solved: 110
 
 ## Easy
 
@@ -118,6 +118,7 @@ Total Solved: 109
 
 - Largest Rectangle in Histogram ([Java](Hard/0084_Largest_Rectangle_in_Histogram.java))
 - Shortest Common Supersequence  ([Java](Hard/1170_Shortest_Common_Supersequence_.java))
+- Minimum Insertion Steps to Make a String Palindrome ([Java](Hard/1437_Minimum_Insertion_Steps_to_Make_a_String_Palindrome.java))
 - Stone Game III ([Java](Hard/1522_Stone_Game_III.java))
 
 ## Statistics
@@ -126,7 +127,7 @@ Total Solved: 109
 |------------|--------|
 | Easy | 53 |
 | Medium | 53 |
-| Hard | 3 |
+| Hard | 4 |
 
 ---
 *README.md automatically updated by [LeetCelebrate](https://github.com/)*
