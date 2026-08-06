@@ -1397,10 +1397,10 @@
     "difficulty": "Medium",
     "language": "Java",
     "extension": "java",
-    "runtime": "1857 ms",
-    "memory": "47.1 MB",
-    "submissionId": "2096323564",
-    "timestamp": "1786001050",
+    "runtime": "1754 ms",
+    "memory": "43.7 MB",
+    "submissionId": "2096350980",
+    "timestamp": "1786002844",
     "path": "Medium/0005_Longest_Palindromic_Substring.java"
   }
 ]
