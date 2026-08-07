@@ -1428,5 +1428,18 @@
     "submissionId": "2071477608",
     "timestamp": "1784312749",
     "path": "Easy/0596_Classes_With_at_Least_5_Students.sql"
+  },
+  {
+    "problemId": "3626",
+    "problemTitle": "Smallest Divisible Digit Product I",
+    "problemSlug": "smallest-divisible-digit-product-i",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "1 ms",
+    "memory": "42.8 MB",
+    "submissionId": "2098251485",
+    "timestamp": "1786122919",
+    "path": "Easy/3626_Smallest_Divisible_Digit_Product_I.java"
   }
 ]
