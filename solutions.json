@@ -1352,6 +1352,19 @@
     "path": "Hard/1437_Minimum_Insertion_Steps_to_Make_a_String_Palindrome.java"
   },
   {
+    "problemId": "3626",
+    "problemTitle": "Smallest Divisible Digit Product I",
+    "problemSlug": "smallest-divisible-digit-product-i",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "1 ms",
+    "memory": "42.8 MB",
+    "submissionId": "2098251485",
+    "timestamp": "1786122919",
+    "path": "Easy/3626_Smallest_Divisible_Digit_Product_I.java"
+  },
+  {
     "problemId": "175",
     "problemTitle": "Combine Two Tables",
     "problemSlug": "combine-two-tables",
@@ -1430,16 +1443,16 @@
     "path": "Easy/0596_Classes_With_at_Least_5_Students.sql"
   },
   {
-    "problemId": "3626",
-    "problemTitle": "Smallest Divisible Digit Product I",
-    "problemSlug": "smallest-divisible-digit-product-i",
+    "problemId": "263",
+    "problemTitle": "Ugly Number",
+    "problemSlug": "ugly-number",
     "difficulty": "Easy",
     "language": "Java",
     "extension": "java",
     "runtime": "1 ms",
-    "memory": "42.8 MB",
-    "submissionId": "2098251485",
-    "timestamp": "1786122919",
-    "path": "Easy/3626_Smallest_Divisible_Digit_Product_I.java"
+    "memory": "42.5 MB",
+    "submissionId": "2099472468",
+    "timestamp": "1786212781",
+    "path": "Easy/0263_Ugly_Number.java"
   }
 ]
