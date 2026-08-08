@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 111
+Total Solved: 112
 
 ## Easy
 
@@ -16,6 +16,7 @@ Total Solved: 111
 - Combine Two Tables ([MySQL](Easy/0175_Combine_Two_Tables.sql))
 - Employees Earning More Than Their Managers ([MySQL](Easy/0181_Employees_Earning_More_Than_Their_Managers.sql))
 - Rising Temperature ([MySQL](Easy/0197_Rising_Temperature.sql))
+- Ugly Number ([Java](Easy/0263_Ugly_Number.java))
 - Assign Cookies ([Java](Easy/0455_Assign_Cookies.java))
 - Next Greater Element I ([Java](Easy/0496_Next_Greater_Element_I.java))
 - Classes With at Least 5 Students ([MySQL](Easy/0596_Classes_With_at_Least_5_Students.sql))
@@ -126,7 +127,7 @@ Total Solved: 111
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 54 |
+| Easy | 55 |
 | Medium | 53 |
 | Hard | 4 |
 
