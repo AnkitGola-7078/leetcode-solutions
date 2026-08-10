@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 112
+Total Solved: 113
 
 ## Easy
 
@@ -23,6 +23,7 @@ Total Solved: 112
 - Robot Return to Origin ([Java](Easy/0657_Robot_Return_to_Origin.java))
 - Flood Fill ([Java](Easy/0733_Flood_Fill.java))
 - Jewels and Stones ([Java](Easy/0782_Jewels_and_Stones.java))
+- Search in a Binary Search Tree ([Java](Easy/0783_Search_in_a_Binary_Search_Tree.java))
 - Rank Transform of an Array ([Java](Easy/1256_Rank_Transform_of_an_Array.java))
 - Maximum Number of Balloons ([Java](Easy/1297_Maximum_Number_of_Balloons.java))
 - Split a String in Balanced Strings ([Java](Easy/1341_Split_a_String_in_Balanced_Strings.java))
@@ -127,7 +128,7 @@ Total Solved: 112
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 55 |
+| Easy | 56 |
 | Medium | 53 |
 | Hard | 4 |
 
