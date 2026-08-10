@@ -1365,6 +1365,19 @@
     "path": "Easy/3626_Smallest_Divisible_Digit_Product_I.java"
   },
   {
+    "problemId": "263",
+    "problemTitle": "Ugly Number",
+    "problemSlug": "ugly-number",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "1 ms",
+    "memory": "42.5 MB",
+    "submissionId": "2099472468",
+    "timestamp": "1786212781",
+    "path": "Easy/0263_Ugly_Number.java"
+  },
+  {
     "problemId": "175",
     "problemTitle": "Combine Two Tables",
     "problemSlug": "combine-two-tables",
@@ -1443,16 +1456,16 @@
     "path": "Easy/0596_Classes_With_at_Least_5_Students.sql"
   },
   {
-    "problemId": "263",
-    "problemTitle": "Ugly Number",
-    "problemSlug": "ugly-number",
+    "problemId": "783",
+    "problemTitle": "Search in a Binary Search Tree",
+    "problemSlug": "search-in-a-binary-search-tree",
     "difficulty": "Easy",
     "language": "Java",
     "extension": "java",
-    "runtime": "1 ms",
-    "memory": "42.5 MB",
-    "submissionId": "2099472468",
-    "timestamp": "1786212781",
-    "path": "Easy/0263_Ugly_Number.java"
+    "runtime": "0 ms",
+    "memory": "46.9 MB",
+    "submissionId": "2101639493",
+    "timestamp": "1786371310",
+    "path": "Easy/0783_Search_in_a_Binary_Search_Tree.java"
   }
 ]
