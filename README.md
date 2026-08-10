@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 113
+Total Solved: 114
 
 ## Easy
 
@@ -96,6 +96,7 @@ Total Solved: 113
 - Palindromic Substrings ([Java](Medium/0647_Palindromic_Substrings.java))
 - Asteroid Collision ([Java](Medium/0735_Asteroid_Collision.java))
 - Daily Temperatures ([Java](Medium/0739_Daily_Temperatures.java))
+- Insert into a Binary Search Tree ([Java](Medium/0784_Insert_into_a_Binary_Search_Tree.java))
 - Boats to Save People ([Java](Medium/0917_Boats_to_Save_People.java))
 - Minimum Falling Path Sum ([Java](Medium/0967_Minimum_Falling_Path_Sum.java))
 - K Closest Points to Origin ([Java](Medium/1014_K_Closest_Points_to_Origin.java))
@@ -129,7 +130,7 @@ Total Solved: 113
 | Difficulty | Count |
 |------------|--------|
 | Easy | 56 |
-| Medium | 53 |
+| Medium | 54 |
 | Hard | 4 |
 
 ---
