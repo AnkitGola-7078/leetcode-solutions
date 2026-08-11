@@ -1404,6 +1404,19 @@
     "path": "Medium/0784_Insert_into_a_Binary_Search_Tree.java"
   },
   {
+    "problemId": "225",
+    "problemTitle": "Implement Stack using Queues",
+    "problemSlug": "implement-stack-using-queues",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "3 ms",
+    "memory": "43.1 MB",
+    "submissionId": "2103149096",
+    "timestamp": "1786466707",
+    "path": "Easy/0225_Implement_Stack_using_Queues.java"
+  },
+  {
     "problemId": "175",
     "problemTitle": "Combine Two Tables",
     "problemSlug": "combine-two-tables",
@@ -1482,16 +1495,16 @@
     "path": "Easy/0596_Classes_With_at_Least_5_Students.sql"
   },
   {
-    "problemId": "225",
-    "problemTitle": "Implement Stack using Queues",
-    "problemSlug": "implement-stack-using-queues",
+    "problemId": "232",
+    "problemTitle": "Implement Queue using Stacks",
+    "problemSlug": "implement-queue-using-stacks",
     "difficulty": "Easy",
     "language": "Java",
     "extension": "java",
-    "runtime": "3 ms",
-    "memory": "43.1 MB",
-    "submissionId": "2103149096",
-    "timestamp": "1786466707",
-    "path": "Easy/0225_Implement_Stack_using_Queues.java"
+    "runtime": "65 ms",
+    "memory": "42.9 MB",
+    "submissionId": "2103176584",
+    "timestamp": "1786467717",
+    "path": "Easy/0232_Implement_Queue_using_Stacks.java"
   }
 ]
