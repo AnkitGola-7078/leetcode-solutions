@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 114
+Total Solved: 115
 
 ## Easy
 
@@ -16,6 +16,7 @@ Total Solved: 114
 - Combine Two Tables ([MySQL](Easy/0175_Combine_Two_Tables.sql))
 - Employees Earning More Than Their Managers ([MySQL](Easy/0181_Employees_Earning_More_Than_Their_Managers.sql))
 - Rising Temperature ([MySQL](Easy/0197_Rising_Temperature.sql))
+- Implement Stack using Queues ([Java](Easy/0225_Implement_Stack_using_Queues.java))
 - Ugly Number ([Java](Easy/0263_Ugly_Number.java))
 - Assign Cookies ([Java](Easy/0455_Assign_Cookies.java))
 - Next Greater Element I ([Java](Easy/0496_Next_Greater_Element_I.java))
@@ -129,7 +130,7 @@ Total Solved: 114
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 56 |
+| Easy | 57 |
 | Medium | 54 |
 | Hard | 4 |
 
