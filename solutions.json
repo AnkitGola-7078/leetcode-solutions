@@ -1203,9 +1203,9 @@
     "language": "Java",
     "extension": "java",
     "runtime": "49 ms",
-    "memory": "129.8 MB",
-    "submissionId": "2092805467",
-    "timestamp": "1785770444",
+    "memory": "129.5 MB",
+    "submissionId": "2103032169",
+    "timestamp": "1786461920",
     "path": "Medium/0146_LRU_Cache.java"
   },
   {
