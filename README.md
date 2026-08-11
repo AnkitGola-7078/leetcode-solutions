@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 115
+Total Solved: 116
 
 ## Easy
 
@@ -17,6 +17,7 @@ Total Solved: 115
 - Employees Earning More Than Their Managers ([MySQL](Easy/0181_Employees_Earning_More_Than_Their_Managers.sql))
 - Rising Temperature ([MySQL](Easy/0197_Rising_Temperature.sql))
 - Implement Stack using Queues ([Java](Easy/0225_Implement_Stack_using_Queues.java))
+- Implement Queue using Stacks ([Java](Easy/0232_Implement_Queue_using_Stacks.java))
 - Ugly Number ([Java](Easy/0263_Ugly_Number.java))
 - Assign Cookies ([Java](Easy/0455_Assign_Cookies.java))
 - Next Greater Element I ([Java](Easy/0496_Next_Greater_Element_I.java))
@@ -130,7 +131,7 @@ Total Solved: 115
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 57 |
+| Easy | 58 |
 | Medium | 54 |
 | Hard | 4 |
 
