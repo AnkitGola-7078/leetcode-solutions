@@ -1391,6 +1391,19 @@
     "path": "Easy/0783_Search_in_a_Binary_Search_Tree.java"
   },
   {
+    "problemId": "784",
+    "problemTitle": "Insert into a Binary Search Tree",
+    "problemSlug": "insert-into-a-binary-search-tree",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "0 ms",
+    "memory": "47 MB",
+    "submissionId": "2101661705",
+    "timestamp": "1786372395",
+    "path": "Medium/0784_Insert_into_a_Binary_Search_Tree.java"
+  },
+  {
     "problemId": "175",
     "problemTitle": "Combine Two Tables",
     "problemSlug": "combine-two-tables",
@@ -1467,18 +1480,5 @@
     "submissionId": "2071477608",
     "timestamp": "1784312749",
     "path": "Easy/0596_Classes_With_at_Least_5_Students.sql"
-  },
-  {
-    "problemId": "784",
-    "problemTitle": "Insert into a Binary Search Tree",
-    "problemSlug": "insert-into-a-binary-search-tree",
-    "difficulty": "Medium",
-    "language": "Java",
-    "extension": "java",
-    "runtime": "0 ms",
-    "memory": "47 MB",
-    "submissionId": "2101661705",
-    "timestamp": "1786372395",
-    "path": "Medium/0784_Insert_into_a_Binary_Search_Tree.java"
   }
 ]
