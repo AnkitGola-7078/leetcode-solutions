@@ -1417,6 +1417,19 @@
     "path": "Easy/0225_Implement_Stack_using_Queues.java"
   },
   {
+    "problemId": "232",
+    "problemTitle": "Implement Queue using Stacks",
+    "problemSlug": "implement-queue-using-stacks",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "65 ms",
+    "memory": "42.9 MB",
+    "submissionId": "2103176584",
+    "timestamp": "1786467717",
+    "path": "Easy/0232_Implement_Queue_using_Stacks.java"
+  },
+  {
     "problemId": "175",
     "problemTitle": "Combine Two Tables",
     "problemSlug": "combine-two-tables",
@@ -1495,16 +1508,16 @@
     "path": "Easy/0596_Classes_With_at_Least_5_Students.sql"
   },
   {
-    "problemId": "232",
-    "problemTitle": "Implement Queue using Stacks",
-    "problemSlug": "implement-queue-using-stacks",
-    "difficulty": "Easy",
+    "problemId": "460",
+    "problemTitle": "LFU Cache",
+    "problemSlug": "lfu-cache",
+    "difficulty": "Hard",
     "language": "Java",
     "extension": "java",
-    "runtime": "65 ms",
-    "memory": "42.9 MB",
-    "submissionId": "2103176584",
-    "timestamp": "1786467717",
-    "path": "Easy/0232_Implement_Queue_using_Stacks.java"
+    "runtime": "63 ms",
+    "memory": "143.3 MB",
+    "submissionId": "2103699906",
+    "timestamp": "1786511643",
+    "path": "Hard/0460_LFU_Cache.java"
   }
 ]
