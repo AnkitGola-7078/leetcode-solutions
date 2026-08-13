@@ -1430,6 +1430,19 @@
     "path": "Easy/0232_Implement_Queue_using_Stacks.java"
   },
   {
+    "problemId": "460",
+    "problemTitle": "LFU Cache",
+    "problemSlug": "lfu-cache",
+    "difficulty": "Hard",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "63 ms",
+    "memory": "143.3 MB",
+    "submissionId": "2103699906",
+    "timestamp": "1786511643",
+    "path": "Hard/0460_LFU_Cache.java"
+  },
+  {
     "problemId": "175",
     "problemTitle": "Combine Two Tables",
     "problemSlug": "combine-two-tables",
@@ -1506,18 +1519,5 @@
     "submissionId": "2071477608",
     "timestamp": "1784312749",
     "path": "Easy/0596_Classes_With_at_Least_5_Students.sql"
-  },
-  {
-    "problemId": "460",
-    "problemTitle": "LFU Cache",
-    "problemSlug": "lfu-cache",
-    "difficulty": "Hard",
-    "language": "Java",
-    "extension": "java",
-    "runtime": "63 ms",
-    "memory": "143.3 MB",
-    "submissionId": "2103699906",
-    "timestamp": "1786511643",
-    "path": "Hard/0460_LFU_Cache.java"
   }
 ]
