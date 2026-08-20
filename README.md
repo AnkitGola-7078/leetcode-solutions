@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 117
+Total Solved: 118
 
 ## Easy
 
@@ -56,6 +56,7 @@ Total Solved: 117
 - Split Strings by Separator ([Java](Easy/2881_Split_Strings_by_Separator.java))
 - Minimum Number of Pushes to Type Word I ([Java](Easy/3275_Minimum_Number_of_Pushes_to_Type_Word_I.java))
 - Minimum Operations to Exceed Threshold Value I ([Java](Easy/3331_Minimum_Operations_to_Exceed_Threshold_Value_I.java))
+- Distribute Elements Into Two Arrays I ([Java](Easy/3347_Distribute_Elements_Into_Two_Arrays_I.java))
 - Special Array I ([Java](Easy/3429_Special_Array_I.java))
 - Smallest Divisible Digit Product I ([Java](Easy/3626_Smallest_Divisible_Digit_Product_I.java))
 - GCD of Odd and Even Sums ([Java](Easy/3995_GCD_of_Odd_and_Even_Sums.java))
@@ -132,7 +133,7 @@ Total Solved: 117
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 58 |
+| Easy | 59 |
 | Medium | 54 |
 | Hard | 5 |
 
