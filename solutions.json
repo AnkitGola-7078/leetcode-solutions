@@ -1443,6 +1443,19 @@
     "path": "Hard/0460_LFU_Cache.java"
   },
   {
+    "problemId": "3347",
+    "problemTitle": "Distribute Elements Into Two Arrays I",
+    "problemSlug": "distribute-elements-into-two-arrays-i",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "1 ms",
+    "memory": "46.5 MB",
+    "submissionId": "2113702059",
+    "timestamp": "1787215713",
+    "path": "Easy/3347_Distribute_Elements_Into_Two_Arrays_I.java"
+  },
+  {
     "problemId": "175",
     "problemTitle": "Combine Two Tables",
     "problemSlug": "combine-two-tables",
@@ -1521,16 +1534,16 @@
     "path": "Easy/0596_Classes_With_at_Least_5_Students.sql"
   },
   {
-    "problemId": "3347",
-    "problemTitle": "Distribute Elements Into Two Arrays I",
-    "problemSlug": "distribute-elements-into-two-arrays-i",
+    "problemId": "924",
+    "problemTitle": "Fair Candy Swap",
+    "problemSlug": "fair-candy-swap",
     "difficulty": "Easy",
     "language": "Java",
     "extension": "java",
-    "runtime": "1 ms",
-    "memory": "46.5 MB",
-    "submissionId": "2113702059",
-    "timestamp": "1787215713",
-    "path": "Easy/3347_Distribute_Elements_Into_Two_Arrays_I.java"
+    "runtime": "8 ms",
+    "memory": "48.2 MB",
+    "submissionId": "2115260378",
+    "timestamp": "1787329444",
+    "path": "Easy/0924_Fair_Candy_Swap.java"
   }
 ]
