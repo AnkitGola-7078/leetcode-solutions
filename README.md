@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 118
+Total Solved: 119
 
 ## Easy
 
@@ -26,6 +26,7 @@ Total Solved: 118
 - Flood Fill ([Java](Easy/0733_Flood_Fill.java))
 - Jewels and Stones ([Java](Easy/0782_Jewels_and_Stones.java))
 - Search in a Binary Search Tree ([Java](Easy/0783_Search_in_a_Binary_Search_Tree.java))
+- Fair Candy Swap ([Java](Easy/0924_Fair_Candy_Swap.java))
 - Rank Transform of an Array ([Java](Easy/1256_Rank_Transform_of_an_Array.java))
 - Maximum Number of Balloons ([Java](Easy/1297_Maximum_Number_of_Balloons.java))
 - Split a String in Balanced Strings ([Java](Easy/1341_Split_a_String_in_Balanced_Strings.java))
@@ -133,7 +134,7 @@ Total Solved: 118
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 59 |
+| Easy | 60 |
 | Medium | 54 |
 | Hard | 5 |
 
